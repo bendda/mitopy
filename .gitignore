@@ -12,7 +12,8 @@ __pycache__/
 .cache
 
 # docs 
-docs/_*
+docs/_build
+docs/_templates
 
 annot_refactor/
 data_test/
