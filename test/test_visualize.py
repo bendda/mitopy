@@ -1,6 +1,7 @@
 from mitopy.visualize import do_visualize
 import pytest
 import logging
+import warnings
 
 
 @pytest.mark.parametrize(
@@ -13,6 +14,8 @@ import logging
 def test_do_visualize(
     test_files, tmp_path, get_md5, caplog, include_coverage, expected_md5
 ):
+    warnings.filterwarnings("ignore", category=DeprecationWarning)
+
     caplog.set_level(logging.INFO)
     if include_coverage:
         vis = do_visualize(
