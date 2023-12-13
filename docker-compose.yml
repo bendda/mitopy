@@ -1,0 +1,17 @@
+version: '3'
+services:
+  test:
+    image: mitopy:latest
+    stdin_open: True
+    tty: True
+    command: ["pytest"]
+    working_dir: /app
+    volumes:
+      - ./test:/app/test
+  mitopy:
+    image: mitopy:latest
+    stdin_open: True
+    tty: True
+    volumes:
+      - ./example_data:/example_data
+      - ./data:/data

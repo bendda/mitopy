@@ -1,0 +1,19 @@
+# general things to ignore
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+
+# due to using pytest
+.cache
+
+# docs 
+docs/_*
+
+annot_refactor/
+data_test/
+nextflow_wf/

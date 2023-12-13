@@ -1,0 +1,4522 @@
+POS,REF,ALT,PONmttRNA_Prediction,PONmttRNA_Probability
+5655,A,C,Neutral,0.282437
+5655,A,G,Neutral,0.171284
+5655,A,T,Neutral,0.282437
+5654,A,C,Neutral,0.32813
+5654,A,G,Neutral,0.251853
+5654,A,T,Neutral,0.32813
+5653,G,A,Likely pathogenic,0.569971
+5653,G,C,Likely pathogenic,0.576816
+5653,G,T,Likely pathogenic,0.576816
+5652,G,A,Likely pathogenic,0.662798
+5652,G,C,Likely pathogenic,0.662798
+5652,G,T,Likely pathogenic,0.662798
+5651,G,A,Neutral,0.111034
+5651,G,C,Neutral,0.230348
+5651,G,T,Neutral,0.11925
+5650,C,A,Likely neutral,0.421278
+5650,C,G,Likely neutral,0.421278
+5650,C,T,Likely neutral,0.398032
+5649,T,A,Likely pathogenic,0.557289
+5649,T,C,Likely pathogenic,0.557289
+5649,T,G,Likely pathogenic,0.557289
+5648,T,A,Pathogenic,0.687236
+5648,T,C,Pathogenic,0.687236
+5648,T,G,Pathogenic,0.687236
+5647,A,C,Likely pathogenic,0.551845
+5647,A,G,Likely pathogenic,0.551845
+5647,A,T,Likely pathogenic,0.551845
+5646,G,A,Pathogenic,0.857394
+5646,G,C,Pathogenic,0.857394
+5646,G,T,Pathogenic,0.857394
+5645,C,A,Pathogenic,0.762294
+5645,C,G,Pathogenic,0.762294
+5645,C,T,Pathogenic,0.707162
+5644,T,A,Likely pathogenic,0.557289
+5644,T,C,Likely pathogenic,0.557289
+5644,T,G,Likely pathogenic,0.557289
+5643,T,A,Pathogenic,0.829214
+5643,T,C,Pathogenic,0.829214
+5643,T,G,Pathogenic,0.829214
+5642,A,C,Pathogenic,0.773953
+5642,A,G,Pathogenic,0.773953
+5642,A,T,Pathogenic,0.773953
+5641,A,C,Pathogenic,0.758972
+5641,A,G,Pathogenic,0.758972
+5641,A,T,Pathogenic,0.758972
+5640,T,A,Neutral,0.35436
+5640,T,C,Neutral,0.332296
+5640,T,G,Neutral,0.285424
+5639,T,A,Likely neutral,0.461596
+5639,T,C,Likely neutral,0.486996
+5639,T,G,Likely neutral,0.461596
+5638,A,C,Neutral,0.309338
+5638,A,G,Neutral,0.309338
+5638,A,T,Neutral,0.209293
+5637,A,C,Pathogenic,0.814917
+5637,A,G,Pathogenic,0.814917
+5637,A,T,Pathogenic,0.814917
+5636,A,C,Likely pathogenic,0.552649
+5636,A,G,Likely pathogenic,0.552649
+5636,A,T,Likely pathogenic,0.552649
+5635,G,A,Pathogenic,0.952477
+5635,G,C,Pathogenic,0.952477
+5635,G,T,Pathogenic,0.952477
+5634,T,A,Neutral,0.260415
+5634,T,C,Neutral,0.175808
+5634,T,G,Neutral,0.260415
+5633,G,A,Neutral,0.128957
+5633,G,C,Neutral,0.224239
+5633,G,T,Neutral,0.224239
+5632,G,A,Neutral,0.142977
+5632,G,C,Neutral,0.184593
+5632,G,T,Neutral,0.146989
+5631,C,A,Neutral,0.268488
+5631,C,G,Neutral,0.320958
+5631,C,T,Neutral,0.281321
+5630,T,A,Likely pathogenic,0.676586
+5630,T,C,Likely pathogenic,0.676586
+5630,T,G,Likely pathogenic,0.676586
+5629,G,A,Pathogenic,0.857104
+5629,G,C,Pathogenic,0.901169
+5629,G,T,Pathogenic,0.901169
+5628,A,C,Likely pathogenic,0.588326
+5628,A,G,Likely pathogenic,0.60086
+5628,A,T,Likely pathogenic,0.588326
+5627,T,A,Likely neutral,0.3961
+5627,T,C,Likely neutral,0.3961
+5627,T,G,Likely neutral,0.381811
+5626,T,A,Likely pathogenic,0.576718
+5626,T,C,Likely pathogenic,0.576718
+5626,T,G,Likely pathogenic,0.576718
+5625,T,A,Likely neutral,0.342678
+5625,T,C,Likely neutral,0.342678
+5625,T,G,Likely neutral,0.342678
+5624,G,A,Likely pathogenic,0.58559
+5624,G,C,Likely pathogenic,0.58559
+5624,G,T,Likely pathogenic,0.58559
+5623,C,A,Likely neutral,0.486682
+5623,C,G,Likely neutral,0.486682
+5623,C,T,Likely neutral,0.486682
+5622,G,A,Neutral,0.145897
+5622,G,C,Neutral,0.25211
+5622,G,T,Neutral,0.25211
+5621,T,A,Neutral,0.233966
+5621,T,C,Neutral,0.227644
+5621,T,G,Neutral,0.233966
+5620,T,A,Likely neutral,0.449452
+5620,T,C,Neutral,0.33859
+5620,T,G,Likely neutral,0.449452
+5619,C,A,Pathogenic,0.795829
+5619,C,G,Pathogenic,0.795829
+5619,C,T,Pathogenic,0.733342
+5618,A,C,Pathogenic,0.69698
+5618,A,G,Likely pathogenic,0.655597
+5618,A,T,Pathogenic,0.69698
+5617,G,A,Likely neutral,0.437299
+5617,G,C,Likely pathogenic,0.51557
+5617,G,T,Likely neutral,0.459151
+5616,T,A,Neutral,0.130409
+5616,T,C,Neutral,0.143598
+5616,T,G,Neutral,0.122375
+5615,T,A,Neutral,0.167185
+5615,T,C,Neutral,0.260703
+5615,T,G,Neutral,0.260703
+5614,G,A,Pathogenic,0.828027
+5614,G,C,Pathogenic,0.828027
+5614,G,T,Pathogenic,0.828027
+5613,A,C,Pathogenic,0.684314
+5613,A,G,Pathogenic,0.684314
+5613,A,T,Pathogenic,0.684314
+5612,T,A,Likely neutral,0.388924
+5612,T,C,Likely neutral,0.388924
+5612,T,G,Likely neutral,0.388924
+5611,G,A,Pathogenic,0.756504
+5611,G,C,Pathogenic,0.756504
+5611,G,T,Pathogenic,0.756504
+5610,C,A,Neutral,0.323959
+5610,C,G,Neutral,0.323959
+5610,C,T,Neutral,0.230596
+5609,A,C,Likely neutral,0.486771
+5609,A,G,Neutral,0.356046
+5609,A,T,Likely neutral,0.486771
+5608,G,A,Likely neutral,0.471098
+5608,G,C,Likely pathogenic,0.545261
+5608,G,T,Likely pathogenic,0.545261
+5607,A,C,Neutral,0.326177
+5607,A,G,Neutral,0.251218
+5607,A,T,Neutral,0.326177
+5606,G,A,Neutral,0.276092
+5606,G,C,Likely neutral,0.394729
+5606,G,T,Neutral,0.272314
+5605,T,A,Neutral,0.227455
+5605,T,C,Neutral,0.13363
+5605,T,G,Neutral,0.227455
+5604,G,A,Neutral,0.14797
+5604,G,C,Neutral,0.309338
+5604,G,T,Neutral,0.193536
+5603,G,A,Neutral,0.121345
+5603,G,C,Neutral,0.243638
+5603,G,T,Neutral,0.119398
+5602,G,A,Neutral,0.172013
+5602,G,C,Neutral,0.246604
+5602,G,T,Neutral,0.246604
+5601,G,A,Neutral,0.126794
+5601,G,C,Neutral,0.288603
+5601,G,T,Neutral,0.128006
+5600,T,A,Neutral,0.090545
+5600,T,C,Neutral,0.076182
+5600,T,G,Neutral,0.078134
+5599,T,A,Neutral,0.33125
+5599,T,C,Neutral,0.263609
+5599,T,G,Neutral,0.33125
+5598,T,A,Likely neutral,0.422026
+5598,T,C,Neutral,0.309963
+5598,T,G,Likely neutral,0.422026
+5597,T,A,Likely neutral,0.485435
+5597,T,C,Likely neutral,0.482714
+5597,T,G,Likely neutral,0.485435
+5596,G,A,Neutral,0.296738
+5596,G,C,Likely neutral,0.43271
+5596,G,T,Likely neutral,0.43271
+5595,C,A,Likely pathogenic,0.606306
+5595,C,G,Likely pathogenic,0.606306
+5595,C,T,Likely neutral,0.45988
+5594,A,C,Pathogenic,0.745681
+5594,A,G,Pathogenic,0.745681
+5594,A,T,Pathogenic,0.745681
+5593,G,A,Pathogenic,0.722952
+5593,G,C,Pathogenic,0.789274
+5593,G,T,Pathogenic,0.789274
+5592,T,A,Likely neutral,0.438751
+5592,T,C,Neutral,0.302677
+5592,T,G,Likely neutral,0.438751
+5591,C,A,Pathogenic,0.720907
+5591,C,G,Pathogenic,0.720907
+5591,C,T,Likely pathogenic,0.698818
+5590,C,A,Pathogenic,0.772967
+5590,C,G,Pathogenic,0.772967
+5590,C,T,Pathogenic,0.74565
+5589,T,A,Likely pathogenic,0.557289
+5589,T,C,Likely pathogenic,0.557289
+5589,T,G,Likely pathogenic,0.557289
+5588,T,A,Pathogenic,0.829214
+5588,T,C,Pathogenic,0.829214
+5588,T,G,Pathogenic,0.829214
+5587,A,C,Likely neutral,0.386061
+5587,A,G,Likely neutral,0.321902
+5587,A,T,Likely neutral,0.386061
+10405,T,A,Likely neutral,0.439602
+10405,T,C,Likely pathogenic,0.511333
+10405,T,G,Likely pathogenic,0.520766
+10406,G,A,Pathogenic,0.641918
+10406,G,C,Pathogenic,0.769946
+10406,G,T,Pathogenic,0.769946
+10407,G,A,Likely pathogenic,0.525201
+10407,G,C,Pathogenic,0.620361
+10407,G,T,Pathogenic,0.620361
+10408,T,A,Likely pathogenic,0.632928
+10408,T,C,Likely pathogenic,0.563759
+10408,T,G,Likely pathogenic,0.632928
+10409,A,C,Pathogenic,0.849146
+10409,A,G,Pathogenic,0.777208
+10409,A,T,Pathogenic,0.849146
+10410,T,A,Neutral,0.235434
+10410,T,C,Neutral,0.173037
+10410,T,G,Neutral,0.201862
+10411,A,C,Likely neutral,0.450624
+10411,A,G,Likely neutral,0.428791
+10411,A,T,Likely pathogenic,0.550274
+10412,T,A,Likely pathogenic,0.572269
+10412,T,C,Likely pathogenic,0.572269
+10412,T,G,Likely pathogenic,0.572269
+10413,A,C,Likely pathogenic,0.592893
+10413,A,G,Likely pathogenic,0.592893
+10413,A,T,Likely pathogenic,0.592893
+10414,G,A,Pathogenic,0.934205
+10414,G,C,Pathogenic,0.950455
+10414,G,T,Pathogenic,0.950455
+10415,T,A,Likely pathogenic,0.58395
+10415,T,C,Likely pathogenic,0.58395
+10415,T,G,Likely pathogenic,0.58395
+10416,T,A,Pathogenic,0.792667
+10416,T,C,Pathogenic,0.775603
+10416,T,G,Pathogenic,0.792667
+10417,T,A,Pathogenic,0.834862
+10417,T,C,Pathogenic,0.834862
+10417,T,G,Pathogenic,0.834862
+10418,A,C,Pathogenic,0.802708
+10418,A,G,Pathogenic,0.802708
+10418,A,T,Pathogenic,0.802708
+10419,A,C,Pathogenic,0.707725
+10419,A,G,Likely pathogenic,0.609137
+10419,A,T,Likely pathogenic,0.661616
+10420,A,C,Neutral,0.31541
+10420,A,G,Neutral,0.312237
+10420,A,T,Neutral,0.310955
+10421,C,A,Neutral,0.304062
+10421,C,G,Neutral,0.279994
+10421,C,T,Neutral,0.245693
+10422,A,C,Likely neutral,0.464802
+10422,A,G,Likely pathogenic,0.573545
+10422,A,T,Likely neutral,0.472035
+10423,A,C,Pathogenic,0.820112
+10423,A,G,Pathogenic,0.820112
+10423,A,T,Pathogenic,0.820112
+10424,A,C,Pathogenic,0.81073
+10424,A,G,Pathogenic,0.771829
+10424,A,T,Pathogenic,0.81073
+10425,A,C,Pathogenic,0.733185
+10425,A,G,Pathogenic,0.733185
+10425,A,T,Pathogenic,0.733185
+10426,C,A,Likely neutral,0.46061
+10426,C,G,Likely neutral,0.46061
+10426,C,T,Likely neutral,0.420811
+10427,G,A,Likely neutral,0.431186
+10427,G,C,Likely neutral,0.40746
+10427,G,T,Neutral,0.350176
+10428,A,C,Likely pathogenic,0.547422
+10428,A,G,Likely neutral,0.469832
+10428,A,T,Likely pathogenic,0.547422
+10429,A,C,Likely pathogenic,0.540889
+10429,A,G,Likely pathogenic,0.505543
+10429,A,T,Likely pathogenic,0.540889
+10430,T,A,Neutral,0.335015
+10430,T,C,Neutral,0.335015
+10430,T,G,Neutral,0.335015
+10431,G,A,Pathogenic,0.931862
+10431,G,C,Pathogenic,0.931862
+10431,G,T,Pathogenic,0.931862
+10432,A,C,Pathogenic,0.749544
+10432,A,G,Pathogenic,0.690711
+10432,A,T,Pathogenic,0.749544
+10433,T,A,Likely pathogenic,0.576934
+10433,T,C,Likely pathogenic,0.576934
+10433,T,G,Likely pathogenic,0.576934
+10434,T,A,Likely pathogenic,0.607506
+10434,T,C,Likely pathogenic,0.607506
+10434,T,G,Likely pathogenic,0.607506
+10435,T,A,Likely neutral,0.463135
+10435,T,C,Likely neutral,0.463135
+10435,T,G,Likely neutral,0.463135
+10436,C,A,Likely pathogenic,0.60126
+10436,C,G,Likely pathogenic,0.60126
+10436,C,T,Likely pathogenic,0.60126
+10437,G,A,Pathogenic,0.698031
+10437,G,C,Pathogenic,0.754763
+10437,G,T,Pathogenic,0.754763
+10438,A,C,Pathogenic,0.719244
+10438,A,G,Pathogenic,0.719244
+10438,A,T,Pathogenic,0.719244
+10439,C,A,Pathogenic,0.642881
+10439,C,G,Pathogenic,0.642881
+10439,C,T,Pathogenic,0.642881
+10440,T,A,Pathogenic,0.653205
+10440,T,C,Likely pathogenic,0.56122
+10440,T,G,Pathogenic,0.653205
+10441,C,A,Pathogenic,0.915942
+10441,C,G,Pathogenic,0.915942
+10441,C,T,Pathogenic,0.915942
+10442,A,C,Pathogenic,0.65028
+10442,A,G,Pathogenic,0.65028
+10442,A,T,Pathogenic,0.65028
+10443,T,A,Likely pathogenic,0.508016
+10443,T,C,Likely pathogenic,0.506197
+10443,T,G,Likely pathogenic,0.527415
+10444,T,A,Pathogenic,0.834862
+10444,T,C,Pathogenic,0.834862
+10444,T,G,Pathogenic,0.834862
+10445,A,C,Pathogenic,0.639133
+10445,A,G,Likely pathogenic,0.622085
+10445,A,T,Pathogenic,0.639133
+10446,A,C,Likely neutral,0.391897
+10446,A,G,Likely neutral,0.407785
+10446,A,T,Likely neutral,0.391897
+10447,A,C,Pathogenic,0.766483
+10447,A,G,Pathogenic,0.719875
+10447,A,T,Pathogenic,0.766483
+10448,T,A,Neutral,0.366649
+10448,T,C,Neutral,0.359298
+10448,T,G,Likely neutral,0.408182
+10449,T,A,Pathogenic,0.825447
+10449,T,C,Pathogenic,0.799763
+10449,T,G,Pathogenic,0.825447
+10450,A,C,Likely pathogenic,0.661303
+10450,A,G,Likely pathogenic,0.635361
+10450,A,T,Likely pathogenic,0.661303
+10451,T,A,Likely neutral,0.426889
+10451,T,C,Likely neutral,0.453231
+10451,T,G,Likely neutral,0.426889
+10452,G,A,Pathogenic,0.769486
+10452,G,C,Pathogenic,0.888808
+10452,G,T,Pathogenic,0.888808
+10453,A,C,Likely pathogenic,0.582565
+10453,A,G,Likely pathogenic,0.521444
+10453,A,T,Likely pathogenic,0.52317
+10454,T,A,Neutral,0.223182
+10454,T,C,Neutral,0.228482
+10454,T,G,Neutral,0.316002
+10455,A,C,Neutral,0.094622
+10455,A,G,Neutral,0.094977
+10455,A,T,Neutral,0.162667
+10456,A,C,Neutral,0.25976
+10456,A,G,Neutral,0.197452
+10456,A,T,Neutral,0.25976
+10457,T,A,Neutral,0.348163
+10457,T,C,Neutral,0.378142
+10457,T,G,Likely neutral,0.395938
+10458,C,A,Pathogenic,0.807697
+10458,C,G,Pathogenic,0.807697
+10458,C,T,Pathogenic,0.701418
+10459,A,C,Likely pathogenic,0.616975
+10459,A,G,Likely pathogenic,0.562986
+10459,A,T,Likely pathogenic,0.616975
+10460,T,A,Likely pathogenic,0.622872
+10460,T,C,Likely pathogenic,0.602364
+10460,T,G,Likely pathogenic,0.622872
+10461,A,C,Pathogenic,0.850735
+10461,A,G,Pathogenic,0.822338
+10461,A,T,Pathogenic,0.850735
+10462,T,A,Likely pathogenic,0.561784
+10462,T,C,Likely neutral,0.438506
+10462,T,G,Likely neutral,0.457729
+10463,T,A,Neutral,0.318664
+10463,T,C,Neutral,0.311335
+10463,T,G,Neutral,0.308332
+10464,T,A,Pathogenic,0.660464
+10464,T,C,Pathogenic,0.758914
+10464,T,G,Pathogenic,0.788145
+10465,A,C,Likely pathogenic,0.568651
+10465,A,G,Likely pathogenic,0.548324
+10465,A,T,Likely pathogenic,0.568651
+10466,C,A,Likely neutral,0.490431
+10466,C,G,Likely neutral,0.490431
+10466,C,T,Likely neutral,0.458315
+10467,C,A,Pathogenic,0.771473
+10467,C,G,Pathogenic,0.771473
+10467,C,T,Pathogenic,0.641485
+10468,A,C,Pathogenic,0.738774
+10468,A,G,Pathogenic,0.738774
+10468,A,T,Pathogenic,0.656383
+10469,A,C,Likely pathogenic,0.614912
+10469,A,G,Likely pathogenic,0.540172
+10469,A,T,Likely pathogenic,0.50247
+5729,T,A,Likely pathogenic,0.635233
+5729,T,C,Likely pathogenic,0.635233
+5729,T,G,Likely pathogenic,0.635233
+5728,A,C,Likely pathogenic,0.630658
+5728,A,G,Likely pathogenic,0.591783
+5728,A,T,Likely pathogenic,0.630658
+5727,G,A,Pathogenic,0.877708
+5727,G,C,Pathogenic,0.911938
+5727,G,T,Pathogenic,0.911938
+5726,A,C,Pathogenic,0.722271
+5726,A,G,Pathogenic,0.693126
+5726,A,T,Pathogenic,0.722271
+5725,T,A,Likely pathogenic,0.602123
+5725,T,C,Likely pathogenic,0.571583
+5725,T,G,Likely pathogenic,0.602123
+5724,T,A,Likely neutral,0.442912
+5724,T,C,Likely neutral,0.377419
+5724,T,G,Likely neutral,0.442912
+5723,G,A,Pathogenic,0.663168
+5723,G,C,Pathogenic,0.781609
+5723,G,T,Pathogenic,0.781609
+5722,A,C,Pathogenic,0.623993
+5722,A,G,Pathogenic,0.623993
+5722,A,T,Pathogenic,0.623993
+5721,A,C,Likely pathogenic,0.53019
+5721,A,G,Likely neutral,0.489705
+5721,A,T,Likely pathogenic,0.53019
+5720,G,A,Pathogenic,0.740717
+5720,G,C,Pathogenic,0.79802
+5720,G,T,Pathogenic,0.79802
+5719,C,A,Pathogenic,0.661622
+5719,C,G,Pathogenic,0.661622
+5719,C,T,Pathogenic,0.661622
+5718,C,A,Pathogenic,0.826073
+5718,C,G,Pathogenic,0.826073
+5718,C,T,Pathogenic,0.826073
+5717,A,C,Likely pathogenic,0.625663
+5717,A,G,Likely pathogenic,0.625663
+5717,A,T,Likely pathogenic,0.553224
+5716,G,A,Pathogenic,0.74311
+5716,G,C,Pathogenic,0.828325
+5716,G,T,Pathogenic,0.789662
+5715,T,A,Neutral,0.389463
+5715,T,C,Likely neutral,0.407439
+5715,T,G,Likely neutral,0.403568
+5714,T,A,Likely neutral,0.383121
+5714,T,C,Likely neutral,0.350371
+5714,T,G,Neutral,0.303816
+5713,G,A,Likely neutral,0.481051
+5713,G,C,Pathogenic,0.618624
+5713,G,T,Likely neutral,0.490952
+5712,A,C,Neutral,0.350373
+5712,A,G,Neutral,0.338138
+5712,A,T,Neutral,0.339168
+5711,T,A,Neutral,0.279434
+5711,T,C,Neutral,0.304068
+5711,T,G,Neutral,0.330399
+5710,T,A,Likely pathogenic,0.519513
+5710,T,C,Likely pathogenic,0.592281
+5710,T,G,Likely pathogenic,0.592281
+5709,A,C,Likely pathogenic,0.505799
+5709,A,G,Likely neutral,0.425823
+5709,A,T,Likely neutral,0.405446
+5708,G,A,Likely neutral,0.498628
+5708,G,C,Likely pathogenic,0.55821
+5708,G,T,Likely pathogenic,0.535061
+5707,G,A,Pathogenic,0.731459
+5707,G,C,Pathogenic,0.731459
+5707,G,T,Pathogenic,0.731459
+5706,G,A,Pathogenic,0.883618
+5706,G,C,Pathogenic,0.883618
+5706,G,T,Pathogenic,0.833745
+5705,T,A,Likely pathogenic,0.520264
+5705,T,C,Likely neutral,0.429454
+5705,T,G,Likely pathogenic,0.520264
+5704,G,A,Neutral,0.196151
+5704,G,C,Neutral,0.203323
+5704,G,T,Neutral,0.098686
+5703,C,A,Likely pathogenic,0.540476
+5703,C,G,Likely pathogenic,0.577356
+5703,C,T,Likely pathogenic,0.65034
+5702,T,A,Likely pathogenic,0.57786
+5702,T,C,Likely pathogenic,0.57786
+5702,T,G,Likely pathogenic,0.57786
+5701,T,A,Pathogenic,0.834862
+5701,T,C,Pathogenic,0.834862
+5701,T,G,Pathogenic,0.834862
+5700,A,C,Likely pathogenic,0.63423
+5700,A,G,Likely pathogenic,0.63423
+5700,A,T,Likely pathogenic,0.63423
+5699,G,A,Pathogenic,0.919015
+5699,G,C,Pathogenic,0.919015
+5699,G,T,Pathogenic,0.919015
+5698,C,A,Pathogenic,0.727536
+5698,C,G,Pathogenic,0.727536
+5698,C,T,Pathogenic,0.727536
+5697,T,A,Likely pathogenic,0.570362
+5697,T,C,Likely pathogenic,0.570362
+5697,T,G,Likely pathogenic,0.570362
+5696,G,A,Pathogenic,0.758058
+5696,G,C,Pathogenic,0.758058
+5696,G,T,Pathogenic,0.758058
+5695,T,A,Likely neutral,0.42759
+5695,T,C,Likely neutral,0.42759
+5695,T,G,Likely neutral,0.42759
+5694,T,A,Pathogenic,0.683343
+5694,T,C,Pathogenic,0.683343
+5694,T,G,Pathogenic,0.683343
+5693,A,C,Pathogenic,0.768982
+5693,A,G,Pathogenic,0.768982
+5693,A,T,Pathogenic,0.768982
+5692,A,C,Likely pathogenic,0.719225
+5692,A,G,Likely pathogenic,0.719225
+5692,A,T,Likely pathogenic,0.719225
+5691,C,A,Pathogenic,0.787219
+5691,C,G,Pathogenic,0.787219
+5691,C,T,Pathogenic,0.787219
+5690,T,A,Pathogenic,0.682356
+5690,T,C,Pathogenic,0.682356
+5690,T,G,Pathogenic,0.682356
+5689,A,C,Pathogenic,0.868825
+5689,A,G,Pathogenic,0.868825
+5689,A,T,Pathogenic,0.868825
+5688,A,C,Likely neutral,0.434169
+5688,A,G,Likely neutral,0.434169
+5688,A,T,Likely neutral,0.434169
+5687,G,A,Pathogenic,0.728455
+5687,G,C,Pathogenic,0.699096
+5687,G,T,Pathogenic,0.656834
+5686,T,A,Neutral,0.234806
+5686,T,C,Neutral,0.279429
+5686,T,G,Neutral,0.210761
+5685,G,A,Neutral,0.240348
+5685,G,C,Neutral,0.248558
+5685,G,T,Neutral,0.311377
+5684,T,A,Likely neutral,0.457467
+5684,T,C,Likely neutral,0.437462
+5684,T,G,Likely neutral,0.492346
+5683,T,A,Likely pathogenic,0.555181
+5683,T,C,Likely pathogenic,0.609323
+5683,T,G,Likely pathogenic,0.609323
+5682,T,A,Neutral,0.269113
+5682,T,C,Neutral,0.295135
+5682,T,G,Likely neutral,0.329648
+5681,G,A,Pathogenic,0.62996
+5681,G,C,Pathogenic,0.739648
+5681,G,T,Pathogenic,0.739648
+5680,T,A,Likely neutral,0.463484
+5680,T,C,Likely neutral,0.474282
+5680,T,G,Likely pathogenic,0.575726
+5679,G,A,Likely pathogenic,0.572241
+5679,G,C,Pathogenic,0.693028
+5679,G,T,Pathogenic,0.693028
+5678,G,A,Likely pathogenic,0.610908
+5678,G,C,Likely pathogenic,0.663352
+5678,G,T,Likely pathogenic,0.663352
+5677,G,A,Pathogenic,0.925445
+5677,G,C,Pathogenic,0.925445
+5677,G,T,Pathogenic,0.925445
+5676,T,A,Neutral,0.178468
+5676,T,C,Neutral,0.143176
+5676,T,G,Neutral,0.173953
+5675,T,A,Neutral,0.258535
+5675,T,C,Neutral,0.336585
+5675,T,G,Neutral,0.267397
+5674,T,A,Neutral,0.339423
+5674,T,C,Neutral,0.299839
+5674,T,G,Neutral,0.301684
+5673,A,C,Neutral,0.220274
+5673,A,G,Neutral,0.250539
+5673,A,T,Neutral,0.295745
+5672,A,C,Neutral,0.319542
+5672,A,G,Neutral,0.262874
+5672,A,T,Neutral,0.284521
+5671,G,A,Likely neutral,0.393639
+5671,G,C,Likely neutral,0.436936
+5671,G,T,Neutral,0.331551
+5670,T,A,Likely neutral,0.363497
+5670,T,C,Neutral,0.325124
+5670,T,G,Neutral,0.332711
+5669,C,A,Pathogenic,0.765499
+5669,C,G,Pathogenic,0.765499
+5669,C,T,Pathogenic,0.765499
+5668,C,A,Likely pathogenic,0.614331
+5668,C,G,Likely pathogenic,0.614331
+5668,C,T,Likely pathogenic,0.599264
+5667,C,A,Pathogenic,0.695672
+5667,C,G,Pathogenic,0.695672
+5667,C,T,Likely pathogenic,0.573955
+5666,A,C,Likely neutral,0.405413
+5666,A,G,Neutral,0.326855
+5666,A,T,Neutral,0.375563
+5665,T,A,Likely neutral,0.380321
+5665,T,C,Likely neutral,0.449346
+5665,T,G,Likely neutral,0.380321
+5664,T,A,Neutral,0.262011
+5664,T,C,Neutral,0.30651
+5664,T,G,Neutral,0.262011
+5663,G,A,Neutral,0.3473
+5663,G,C,Neutral,0.329608
+5663,G,T,Neutral,0.235199
+5662,G,A,Likely neutral,0.473048
+5662,G,C,Likely neutral,0.471328
+5662,G,T,Likely neutral,0.471328
+5661,T,A,Pathogenic,0.728295
+5661,T,C,Likely pathogenic,0.589277
+5661,T,G,Pathogenic,0.728295
+5660,C,A,Pathogenic,0.876773
+5660,C,G,Pathogenic,0.876773
+5660,C,T,Pathogenic,0.856494
+5659,T,A,Pathogenic,0.682356
+5659,T,C,Pathogenic,0.682356
+5659,T,G,Pathogenic,0.682356
+5658,A,C,Likely pathogenic,0.63423
+5658,A,G,Likely pathogenic,0.63423
+5658,A,T,Likely pathogenic,0.63423
+5657,G,A,Pathogenic,0.826259
+5657,G,C,Pathogenic,0.826259
+5657,G,T,Pathogenic,0.826259
+7518,A,C,Likely neutral,0.388024
+7518,A,G,Likely neutral,0.313655
+7518,A,T,Likely neutral,0.335988
+7519,A,C,Likely neutral,0.370474
+7519,A,G,Likely neutral,0.370474
+7519,A,T,Likely neutral,0.370474
+7520,G,A,Likely neutral,0.406763
+7520,G,C,Likely neutral,0.454536
+7520,G,T,Likely neutral,0.454536
+7521,G,A,Likely neutral,0.457566
+7521,G,C,Likely neutral,0.459094
+7521,G,T,Likely neutral,0.459094
+7522,T,A,Likely pathogenic,0.561343
+7522,T,C,Likely pathogenic,0.561343
+7522,T,G,Likely pathogenic,0.561343
+7523,A,C,Pathogenic,0.639598
+7523,A,G,Likely pathogenic,0.610183
+7523,A,T,Likely pathogenic,0.610183
+7524,T,A,Likely neutral,0.47058
+7524,T,C,Likely neutral,0.385119
+7524,T,G,Likely neutral,0.47058
+7525,T,A,Likely pathogenic,0.600464
+7525,T,C,Likely pathogenic,0.600464
+7525,T,G,Likely pathogenic,0.600464
+7526,A,C,Likely neutral,0.468085
+7526,A,G,Likely neutral,0.468085
+7526,A,T,Likely neutral,0.468085
+7527,G,A,Pathogenic,0.874793
+7527,G,C,Pathogenic,0.874793
+7527,G,T,Pathogenic,0.874793
+7528,A,C,Neutral,0.254152
+7528,A,G,Neutral,0.254152
+7528,A,T,Neutral,0.216443
+7529,A,C,Pathogenic,0.771652
+7529,A,G,Pathogenic,0.771652
+7529,A,T,Pathogenic,0.771652
+7530,A,C,Pathogenic,0.771652
+7530,A,G,Pathogenic,0.771652
+7530,A,T,Pathogenic,0.771652
+7531,A,C,Likely pathogenic,0.616555
+7531,A,G,Likely pathogenic,0.616555
+7531,A,T,Likely pathogenic,0.616555
+7532,A,C,Likely neutral,0.497508
+7532,A,G,Likely neutral,0.389413
+7532,A,T,Likely neutral,0.497508
+7533,C,A,Neutral,0.093985
+7533,C,G,Neutral,0.212427
+7533,C,T,Neutral,0.108571
+7534,C,A,Neutral,0.341529
+7534,C,G,Neutral,0.342177
+7534,C,T,Neutral,0.22588
+7535,A,C,Neutral,0.190841
+7535,A,G,Neutral,0.190841
+7535,A,T,Neutral,0.190841
+7536,T,A,Likely pathogenic,0.603319
+7536,T,C,Likely pathogenic,0.605308
+7536,T,G,Likely pathogenic,0.605308
+7537,T,A,Pathogenic,0.742435
+7537,T,C,Pathogenic,0.742435
+7537,T,G,Pathogenic,0.742435
+7538,T,A,Neutral,0.253391
+7538,T,C,Neutral,0.314016
+7538,T,G,Neutral,0.314016
+7539,C,A,Pathogenic,0.88991
+7539,C,G,Pathogenic,0.88991
+7539,C,T,Pathogenic,0.88991
+7540,A,C,Likely neutral,0.436136
+7540,A,G,Likely neutral,0.413631
+7540,A,T,Likely neutral,0.436136
+7541,T,A,Likely pathogenic,0.582519
+7541,T,C,Likely pathogenic,0.582519
+7541,T,G,Likely pathogenic,0.582519
+7542,A,C,Likely pathogenic,0.530755
+7542,A,G,Likely neutral,0.415402
+7542,A,T,Likely pathogenic,0.530755
+7543,A,C,Likely neutral,0.481338
+7543,A,G,Likely neutral,0.324739
+7543,A,T,Likely neutral,0.481338
+7544,C,A,Likely pathogenic,0.593897
+7544,C,G,Likely pathogenic,0.593897
+7544,C,T,Likely pathogenic,0.51373
+7545,T,A,Likely neutral,0.467816
+7545,T,C,Likely neutral,0.422755
+7545,T,G,Likely neutral,0.467816
+7546,T,A,Likely pathogenic,0.527095
+7546,T,C,Likely pathogenic,0.527095
+7546,T,G,Likely pathogenic,0.527095
+7547,T,A,Neutral,0.287255
+7547,T,C,Neutral,0.176658
+7547,T,G,Neutral,0.287255
+7548,G,A,Pathogenic,0.71321
+7548,G,C,Pathogenic,0.71321
+7548,G,T,Pathogenic,0.71321
+7549,T,A,Likely pathogenic,0.520196
+7549,T,C,Likely pathogenic,0.520196
+7549,T,G,Likely pathogenic,0.520196
+7550,C,A,Pathogenic,0.794856
+7550,C,G,Pathogenic,0.794856
+7550,C,T,Pathogenic,0.794856
+7551,A,C,Likely neutral,0.425374
+7551,A,G,Likely neutral,0.320812
+7551,A,T,Likely neutral,0.425374
+7552,A,C,Likely pathogenic,0.530556
+7552,A,G,Likely neutral,0.487836
+7552,A,T,Likely pathogenic,0.530556
+7553,A,C,Neutral,0.327324
+7553,A,G,Neutral,0.249866
+7553,A,T,Neutral,0.327324
+7554,G,A,Pathogenic,0.864244
+7554,G,C,Pathogenic,0.894033
+7554,G,T,Pathogenic,0.894033
+7555,T,A,Likely neutral,0.358113
+7555,T,C,Neutral,0.305211
+7555,T,G,Likely neutral,0.358113
+7556,T,A,Pathogenic,0.666281
+7556,T,C,Likely pathogenic,0.592569
+7556,T,G,Pathogenic,0.666281
+7557,A,C,Pathogenic,0.777675
+7557,A,G,Pathogenic,0.777675
+7557,A,T,Pathogenic,0.777675
+7558,A,C,Likely neutral,0.411662
+7558,A,G,Likely neutral,0.411662
+7558,A,T,Likely neutral,0.411662
+7559,A,C,Neutral,0.21873
+7559,A,G,Neutral,0.172682
+7559,A,T,Neutral,0.160635
+7560,T,A,Likely neutral,0.488874
+7560,T,C,Likely neutral,0.488874
+7560,T,G,Likely neutral,0.488874
+7561,T,A,Likely neutral,0.446403
+7561,T,C,Neutral,0.329043
+7561,T,G,Likely neutral,0.446403
+7562,A,C,Pathogenic,0.78682
+7562,A,G,Pathogenic,0.78682
+7562,A,T,Pathogenic,0.78682
+7563,T,A,Likely neutral,0.398556
+7563,T,C,Likely neutral,0.345623
+7563,T,G,Likely neutral,0.398556
+7564,A,C,Likely neutral,0.419818
+7564,A,G,Neutral,0.313198
+7564,A,T,Likely neutral,0.382823
+7565,G,A,Likely neutral,0.348522
+7565,G,C,Likely neutral,0.416914
+7565,G,T,Likely neutral,0.416914
+7566,G,A,Neutral,0.339361
+7566,G,C,Likely neutral,0.453763
+7566,G,T,Likely neutral,0.453763
+7567,C,A,Neutral,0.12425
+7567,C,G,Neutral,0.242021
+7567,C,T,Neutral,0.171571
+7568,T,A,Neutral,0.167682
+7568,T,C,Neutral,0.124802
+7568,T,G,Neutral,0.219653
+7569,A,C,Likely neutral,0.402496
+7569,A,G,Likely neutral,0.366256
+7569,A,T,Neutral,0.304997
+7570,A,C,Likely neutral,0.317531
+7570,A,G,Likely neutral,0.39397
+7570,A,T,Neutral,0.283522
+7571,A,C,Neutral,0.158365
+7571,A,G,Neutral,0.28164
+7571,A,T,Neutral,0.207748
+7572,T,A,Neutral,0.158947
+7572,T,C,Neutral,0.17316
+7572,T,G,Neutral,0.191235
+7573,C,A,Likely neutral,0.479604
+7573,C,G,Likely neutral,0.479604
+7573,C,T,Likely neutral,0.366149
+7574,C,A,Likely pathogenic,0.542752
+7574,C,G,Likely pathogenic,0.542752
+7574,C,T,Likely pathogenic,0.505954
+7575,T,A,Likely pathogenic,0.51136
+7575,T,C,Likely neutral,0.489436
+7575,T,G,Likely pathogenic,0.51136
+7576,A,C,Neutral,0.301755
+7576,A,G,Neutral,0.203007
+7576,A,T,Neutral,0.219956
+7577,T,A,Likely pathogenic,0.582519
+7577,T,C,Likely pathogenic,0.582519
+7577,T,G,Likely pathogenic,0.582519
+7578,A,C,Likely pathogenic,0.512749
+7578,A,G,Likely neutral,0.404472
+7578,A,T,Likely pathogenic,0.512749
+7579,T,A,Likely pathogenic,0.582519
+7579,T,C,Likely pathogenic,0.582519
+7579,T,G,Likely pathogenic,0.582519
+7580,A,C,Pathogenic,0.711124
+7580,A,G,Pathogenic,0.682377
+7580,A,T,Pathogenic,0.711124
+7581,T,A,Likely neutral,0.424784
+7581,T,C,Likely neutral,0.424784
+7581,T,G,Likely neutral,0.424784
+7582,C,A,Pathogenic,0.832805
+7582,C,G,Pathogenic,0.832805
+7582,C,T,Pathogenic,0.808497
+7583,T,A,Likely pathogenic,0.528246
+7583,T,C,Likely pathogenic,0.528246
+7583,T,G,Likely pathogenic,0.528246
+7584,T,A,Likely pathogenic,0.530955
+7584,T,C,Likely neutral,0.39198
+7584,T,G,Likely pathogenic,0.530955
+7585,A,C,Neutral,0.096765
+7585,A,G,Neutral,0.213403
+7585,A,T,Neutral,0.087485
+5826,A,C,Likely neutral,0.486131
+5826,A,G,Likely neutral,0.379215
+5826,A,T,Likely neutral,0.486131
+5825,G,A,Pathogenic,0.916975
+5825,G,C,Pathogenic,0.916975
+5825,G,T,Pathogenic,0.916975
+5824,C,A,Likely neutral,0.498102
+5824,C,G,Likely neutral,0.498102
+5824,C,T,Likely neutral,0.458938
+5823,T,A,Likely neutral,0.39442
+5823,T,C,Likely neutral,0.411586
+5823,T,G,Likely neutral,0.39442
+5822,C,A,Likely neutral,0.490106
+5822,C,G,Likely neutral,0.490106
+5822,C,T,Likely neutral,0.43664
+5821,C,A,Neutral,0.231694
+5821,C,G,Neutral,0.231694
+5821,C,T,Neutral,0.136859
+5820,G,A,Likely neutral,0.460301
+5820,G,C,Likely pathogenic,0.598001
+5820,G,T,Likely pathogenic,0.598001
+5819,A,C,Likely pathogenic,0.565549
+5819,A,G,Likely pathogenic,0.565549
+5819,A,T,Likely neutral,0.499752
+5818,G,A,Likely neutral,0.336002
+5818,G,C,Likely neutral,0.38805
+5818,G,T,Likely neutral,0.38805
+5817,G,A,Pathogenic,0.803719
+5817,G,C,Pathogenic,0.803719
+5817,G,T,Pathogenic,0.803719
+5816,T,A,Likely pathogenic,0.62239
+5816,T,C,Likely pathogenic,0.62239
+5816,T,G,Likely pathogenic,0.62239
+5815,G,A,Pathogenic,0.93127
+5815,G,C,Pathogenic,0.93127
+5815,G,T,Pathogenic,0.93127
+5814,A,C,Likely pathogenic,0.611163
+5814,A,G,Likely pathogenic,0.583707
+5814,A,T,Likely pathogenic,0.583958
+5813,T,A,Neutral,0.113582
+5813,T,C,Neutral,0.212305
+5813,T,G,Neutral,0.212305
+5812,T,A,Neutral,0.12831
+5812,T,C,Neutral,0.12831
+5812,T,G,Neutral,0.154222
+5811,T,A,Neutral,0.132894
+5811,T,C,Neutral,0.235367
+5811,T,G,Neutral,0.235367
+5810,T,A,Likely neutral,0.465272
+5810,T,C,Likely neutral,0.465272
+5810,T,G,Likely neutral,0.485306
+5809,C,A,Pathogenic,0.909803
+5809,C,G,Pathogenic,0.909803
+5809,C,T,Pathogenic,0.909803
+5808,A,C,Likely pathogenic,0.631934
+5808,A,G,Likely pathogenic,0.631934
+5808,A,T,Likely pathogenic,0.631934
+5807,T,A,Likely neutral,0.409756
+5807,T,C,Neutral,0.330272
+5807,T,G,Likely neutral,0.409756
+5806,A,C,Neutral,0.228446
+5806,A,G,Neutral,0.188677
+5806,A,T,Neutral,0.228446
+5805,T,A,Pathogenic,0.715167
+5805,T,C,Pathogenic,0.715167
+5805,T,G,Pathogenic,0.715167
+5804,T,A,Neutral,0.283031
+5804,T,C,Neutral,0.170545
+5804,T,G,Neutral,0.283031
+5803,G,A,Pathogenic,0.857104
+5803,G,C,Pathogenic,0.901169
+5803,G,T,Pathogenic,0.901169
+5802,A,C,Likely neutral,0.415675
+5802,A,G,Neutral,0.327239
+5802,A,T,Likely neutral,0.415675
+5801,A,C,Pathogenic,0.883127
+5801,A,G,Pathogenic,0.883127
+5801,A,T,Pathogenic,0.883127
+5800,T,A,Likely neutral,0.470953
+5800,T,C,Likely neutral,0.459016
+5800,T,G,Likely neutral,0.470953
+5799,T,A,Likely neutral,0.342678
+5799,T,C,Likely neutral,0.342678
+5799,T,G,Likely neutral,0.342678
+5798,G,A,Likely pathogenic,0.58559
+5798,G,C,Likely pathogenic,0.58559
+5798,G,T,Likely pathogenic,0.58559
+5797,C,A,Pathogenic,0.686324
+5797,C,G,Pathogenic,0.686324
+5797,C,T,Pathogenic,0.686324
+5796,A,C,Likely pathogenic,0.643438
+5796,A,G,Likely pathogenic,0.643438
+5796,A,T,Likely pathogenic,0.643438
+5795,A,C,Pathogenic,0.69395
+5795,A,G,Pathogenic,0.69395
+5795,A,T,Pathogenic,0.69395
+5794,A,C,Likely neutral,0.491683
+5794,A,G,Likely neutral,0.39811
+5794,A,T,Likely neutral,0.491683
+5793,T,A,Pathogenic,0.715167
+5793,T,C,Pathogenic,0.715167
+5793,T,G,Pathogenic,0.715167
+5792,T,A,Likely pathogenic,0.530851
+5792,T,C,Likely pathogenic,0.530851
+5792,T,G,Likely pathogenic,0.530851
+5791,C,A,Pathogenic,0.663036
+5791,C,G,Pathogenic,0.663036
+5791,C,T,Likely pathogenic,0.640334
+5790,G,A,Neutral,0.188187
+5790,G,C,Neutral,0.298306
+5790,G,T,Neutral,0.298306
+5789,A,C,Likely neutral,0.415675
+5789,A,G,Neutral,0.327239
+5789,A,T,Likely neutral,0.415675
+5788,A,C,Likely neutral,0.468177
+5788,A,G,Likely neutral,0.468177
+5788,A,T,Likely neutral,0.468177
+5787,G,A,Pathogenic,0.710738
+5787,G,C,Pathogenic,0.762333
+5787,G,T,Pathogenic,0.762333
+5786,A,C,Neutral,0.288055
+5786,A,G,Neutral,0.270154
+5786,A,T,Neutral,0.288055
+5785,A,C,Likely neutral,0.401214
+5785,A,G,Likely neutral,0.401214
+5785,A,T,Neutral,0.29768
+5784,G,A,Pathogenic,0.916975
+5784,G,C,Pathogenic,0.916975
+5784,G,T,Pathogenic,0.916975
+5783,C,A,Likely pathogenic,0.52977
+5783,C,G,Likely pathogenic,0.52977
+5783,C,T,Likely neutral,0.409562
+5782,A,C,Pathogenic,0.745681
+5782,A,G,Pathogenic,0.745681
+5782,A,T,Pathogenic,0.745681
+5781,G,A,Pathogenic,0.916975
+5781,G,C,Pathogenic,0.916975
+5781,G,T,Pathogenic,0.916975
+5780,C,A,Neutral,0.133138
+5780,C,G,Neutral,0.235189
+5780,C,T,Neutral,0.124037
+5779,T,A,Neutral,0.208393
+5779,T,C,Neutral,0.196451
+5779,T,G,Neutral,0.191223
+5778,T,A,Neutral,0.163925
+5778,T,C,Neutral,0.215968
+5778,T,G,Neutral,0.269859
+5777,C,A,Neutral,0.276402
+5777,C,G,Neutral,0.344635
+5777,C,T,Neutral,0.210185
+5776,A,C,Likely neutral,0.408809
+5776,A,G,Likely neutral,0.408809
+5776,A,T,Likely neutral,0.349687
+5775,A,C,Neutral,0.230533
+5775,A,G,Neutral,0.172273
+5775,A,T,Neutral,0.205645
+5774,A,C,Neutral,0.2018
+5774,A,G,Neutral,0.207099
+5774,A,T,Neutral,0.197525
+5773,C,A,Neutral,0.155279
+5773,C,G,Neutral,0.155279
+5773,C,T,Neutral,0.130184
+5772,C,A,Likely pathogenic,0.564006
+5772,C,G,Likely pathogenic,0.564006
+5772,C,T,Likely pathogenic,0.518008
+5771,T,A,Likely pathogenic,0.590016
+5771,T,C,Likely pathogenic,0.590016
+5771,T,G,Likely pathogenic,0.590016
+5770,G,A,Neutral,0.318627
+5770,G,C,Likely neutral,0.433541
+5770,G,T,Likely neutral,0.433541
+5769,C,A,Likely pathogenic,0.640928
+5769,C,G,Likely pathogenic,0.640928
+5769,C,T,Likely pathogenic,0.640928
+5768,C,A,Likely neutral,0.399174
+5768,C,G,Likely neutral,0.399174
+5768,C,T,Neutral,0.289366
+5767,G,A,Likely neutral,0.383317
+5767,G,C,Likely neutral,0.447011
+5767,G,T,Likely neutral,0.447011
+5766,G,A,Neutral,0.271509
+5766,G,C,Likely neutral,0.410634
+5766,G,T,Likely neutral,0.410634
+5765,G,A,Likely neutral,0.449438
+5765,G,C,Likely neutral,0.49819
+5765,G,T,Likely neutral,0.49819
+5764,G,A,Neutral,0.37011
+5764,G,C,Likely neutral,0.462958
+5764,G,T,Likely neutral,0.462958
+5763,C,A,Pathogenic,0.825152
+5763,C,G,Pathogenic,0.825152
+5763,C,T,Pathogenic,0.825152
+5762,T,A,Likely pathogenic,0.557289
+5762,T,C,Likely pathogenic,0.557289
+5762,T,G,Likely pathogenic,0.557289
+5761,T,A,Likely neutral,0.415688
+5761,T,C,Likely neutral,0.415688
+5761,T,G,Likely neutral,0.415688
+4400,T,A,Pathogenic,0.775779
+4400,T,C,Pathogenic,0.775779
+4400,T,G,Pathogenic,0.775779
+4399,A,C,Likely pathogenic,0.532888
+4399,A,G,Likely pathogenic,0.507228
+4399,A,T,Likely pathogenic,0.532888
+4398,G,A,Likely pathogenic,0.566028
+4398,G,C,Likely pathogenic,0.566028
+4398,G,T,Likely pathogenic,0.566028
+4397,G,A,Neutral,0.253298
+4397,G,C,Neutral,0.3313
+4397,G,T,Neutral,0.3313
+4396,A,C,Likely pathogenic,0.575498
+4396,A,G,Likely pathogenic,0.529987
+4396,A,T,Likely pathogenic,0.575498
+4395,T,A,Neutral,0.265717
+4395,T,C,Neutral,0.218601
+4395,T,G,Neutral,0.265717
+4394,G,A,Neutral,0.087123
+4394,G,C,Neutral,0.192708
+4394,G,T,Neutral,0.08572
+4393,G,A,Neutral,0.14246
+4393,G,C,Neutral,0.251134
+4393,G,T,Neutral,0.157942
+4392,G,A,Neutral,0.20511
+4392,G,C,Neutral,0.301383
+4392,G,T,Neutral,0.244746
+4391,G,A,Pathogenic,0.900271
+4391,G,C,Pathogenic,0.900271
+4391,G,T,Pathogenic,0.900271
+4390,T,A,Likely pathogenic,0.549888
+4390,T,C,Likely pathogenic,0.549888
+4390,T,G,Likely pathogenic,0.549888
+4389,G,A,Pathogenic,0.899313
+4389,G,C,Pathogenic,0.899313
+4389,G,T,Pathogenic,0.899313
+4388,T,A,Likely neutral,0.458506
+4388,T,C,Likely neutral,0.438904
+4388,T,G,Likely neutral,0.458506
+4387,G,A,Neutral,0.206972
+4387,G,C,Neutral,0.324113
+4387,G,T,Neutral,0.232535
+4386,A,C,Neutral,0.276041
+4386,A,G,Neutral,0.180043
+4386,A,T,Neutral,0.150774
+4385,T,A,Neutral,0.129274
+4385,T,C,Neutral,0.173375
+4385,T,G,Neutral,0.144356
+4384,A,C,Neutral,0.254638
+4384,A,G,Neutral,0.118071
+4384,A,T,Neutral,0.115475
+4383,G,A,Likely neutral,0.369845
+4383,G,C,Likely neutral,0.369845
+4383,G,T,Likely neutral,0.369845
+4382,G,A,Pathogenic,0.694097
+4382,G,C,Pathogenic,0.694097
+4382,G,T,Pathogenic,0.694097
+4381,T,A,Likely neutral,0.350222
+4381,T,C,Likely neutral,0.350222
+4381,T,G,Likely neutral,0.350222
+4380,G,A,Neutral,0.307299
+4380,G,C,Neutral,0.32369
+4380,G,T,Neutral,0.32369
+4379,G,A,Likely pathogenic,0.543646
+4379,G,C,Likely pathogenic,0.543646
+4379,G,T,Likely pathogenic,0.543646
+4378,C,A,Pathogenic,0.738289
+4378,C,G,Pathogenic,0.738289
+4378,C,T,Pathogenic,0.738289
+4377,A,C,Likely pathogenic,0.611173
+4377,A,G,Likely pathogenic,0.611173
+4377,A,T,Likely pathogenic,0.611173
+4376,C,A,Likely pathogenic,0.585113
+4376,C,G,Likely pathogenic,0.585113
+4376,C,T,Likely pathogenic,0.585113
+4375,G,A,Likely neutral,0.416193
+4375,G,C,Likely neutral,0.434836
+4375,G,T,Likely neutral,0.434836
+4374,G,A,Neutral,0.186468
+4374,G,C,Neutral,0.316298
+4374,G,T,Neutral,0.316298
+4373,A,C,Likely neutral,0.425147
+4373,A,G,Neutral,0.266233
+4373,A,T,Likely neutral,0.425147
+4372,G,A,Pathogenic,0.894294
+4372,G,C,Pathogenic,0.894294
+4372,G,T,Pathogenic,0.894294
+4371,A,C,Likely neutral,0.393671
+4371,A,G,Likely neutral,0.32814
+4371,A,T,Likely neutral,0.393671
+4370,A,C,Likely pathogenic,0.620088
+4370,A,G,Likely pathogenic,0.552936
+4370,A,T,Likely pathogenic,0.552936
+4369,T,A,Neutral,0.113466
+4369,T,C,Neutral,0.134563
+4369,T,G,Neutral,0.1038
+4368,T,A,Likely pathogenic,0.527095
+4368,T,C,Likely pathogenic,0.527095
+4368,T,G,Likely pathogenic,0.527095
+4367,T,A,Likely pathogenic,0.527095
+4367,T,C,Likely pathogenic,0.527095
+4367,T,G,Likely pathogenic,0.527095
+4366,T,A,Likely neutral,0.323294
+4366,T,C,Likely neutral,0.323294
+4366,T,G,Likely neutral,0.323294
+4365,G,A,Likely pathogenic,0.558385
+4365,G,C,Likely pathogenic,0.558385
+4365,G,T,Likely pathogenic,0.558385
+4364,G,A,Neutral,0.211299
+4364,G,C,Neutral,0.295015
+4364,G,T,Neutral,0.295015
+4363,A,C,Neutral,0.281228
+4363,A,G,Neutral,0.194086
+4363,A,T,Neutral,0.281228
+4362,T,A,Likely pathogenic,0.597554
+4362,T,C,Likely pathogenic,0.602127
+4362,T,G,Likely pathogenic,0.602127
+4361,T,A,Likely neutral,0.491882
+4361,T,C,Likely neutral,0.433771
+4361,T,G,Likely neutral,0.491882
+4360,C,A,Pathogenic,0.872772
+4360,C,G,Pathogenic,0.872772
+4360,C,T,Pathogenic,0.872772
+4359,T,A,Pathogenic,0.658355
+4359,T,C,Pathogenic,0.638881
+4359,T,G,Pathogenic,0.658355
+4358,C,A,Likely neutral,0.446355
+4358,C,G,Likely neutral,0.446355
+4358,C,T,Likely neutral,0.367528
+4357,A,C,Likely neutral,0.428534
+4357,A,G,Likely neutral,0.389805
+4357,A,T,Neutral,0.359802
+4356,G,A,Neutral,0.212878
+4356,G,C,Neutral,0.273167
+4356,G,T,Neutral,0.273167
+4355,G,A,Likely pathogenic,0.56818
+4355,G,C,Likely pathogenic,0.56818
+4355,G,T,Likely pathogenic,0.56818
+4354,G,A,Neutral,0.146553
+4354,G,C,Neutral,0.283097
+4354,G,T,Neutral,0.138066
+4353,A,C,Neutral,0.302865
+4353,A,G,Neutral,0.227617
+4353,A,T,Neutral,0.221027
+4352,T,A,Likely neutral,0.360093
+4352,T,C,Likely neutral,0.326522
+4352,T,G,Neutral,0.322339
+4351,G,A,Neutral,0.24225
+4351,G,C,Neutral,0.321074
+4351,G,T,Neutral,0.321074
+4350,G,A,Likely neutral,0.398935
+4350,G,C,Likely neutral,0.451217
+4350,G,T,Likely neutral,0.451217
+4349,G,A,Pathogenic,0.90568
+4349,G,C,Pathogenic,0.90568
+4349,G,T,Pathogenic,0.90568
+4348,T,A,Likely neutral,0.325217
+4348,T,C,Likely neutral,0.325217
+4348,T,G,Likely neutral,0.325217
+4347,T,A,Likely neutral,0.375079
+4347,T,C,Likely neutral,0.375079
+4347,T,G,Likely neutral,0.375079
+4346,C,A,Likely neutral,0.49481
+4346,C,G,Likely neutral,0.49481
+4346,C,T,Likely neutral,0.49481
+4345,G,A,Neutral,0.162132
+4345,G,C,Neutral,0.287654
+4345,G,T,Neutral,0.287654
+4344,A,C,Likely pathogenic,0.552
+4344,A,G,Likely pathogenic,0.552
+4344,A,T,Likely pathogenic,0.552
+4343,T,A,Neutral,0.148507
+4343,T,C,Neutral,0.106665
+4343,T,G,Neutral,0.108026
+4342,T,A,Neutral,0.133031
+4342,T,C,Neutral,0.135742
+4342,T,G,Neutral,0.127739
+4341,C,A,Pathogenic,0.872772
+4341,C,G,Pathogenic,0.872772
+4341,C,T,Pathogenic,0.872772
+4340,T,A,Neutral,0.374948
+4340,T,C,Likely neutral,0.387653
+4340,T,G,Neutral,0.374948
+4339,C,A,Likely pathogenic,0.576449
+4339,C,G,Likely pathogenic,0.576449
+4339,C,T,Likely pathogenic,0.564982
+4338,A,C,Likely neutral,0.437601
+4338,A,G,Likely neutral,0.399184
+4338,A,T,Likely neutral,0.410805
+4337,T,A,Neutral,0.322522
+4337,T,C,Neutral,0.293221
+4337,T,G,Neutral,0.322522
+4336,A,C,Neutral,0.210068
+4336,A,G,Neutral,0.111472
+4336,A,T,Neutral,0.108451
+4335,G,A,Likely neutral,0.384636
+4335,G,C,Likely neutral,0.47186
+4335,G,T,Likely neutral,0.47186
+4334,T,A,Likely neutral,0.471828
+4334,T,C,Neutral,0.316177
+4334,T,G,Likely neutral,0.471828
+4333,C,A,Neutral,0.295669
+4333,C,G,Neutral,0.295669
+4333,C,T,Neutral,0.215974
+4332,C,A,Pathogenic,0.736003
+4332,C,G,Pathogenic,0.736003
+4332,C,T,Pathogenic,0.703567
+4331,T,A,Likely pathogenic,0.602417
+4331,T,C,Likely pathogenic,0.584404
+4331,T,G,Likely pathogenic,0.602417
+4330,A,C,Likely pathogenic,0.540247
+4330,A,G,Likely pathogenic,0.540247
+4330,A,T,Likely pathogenic,0.540247
+4329,G,A,Pathogenic,0.771757
+4329,G,C,Pathogenic,0.771757
+4329,G,T,Pathogenic,0.771757
+14742,G,A,Likely pathogenic,0.58875
+14742,G,C,Pathogenic,0.657225
+14742,G,T,Pathogenic,0.657225
+14741,T,A,Likely neutral,0.36524
+14741,T,C,Neutral,0.291789
+14741,T,G,Likely neutral,0.36524
+14740,T,A,Likely pathogenic,0.50065
+14740,T,C,Likely pathogenic,0.50065
+14740,T,G,Likely pathogenic,0.50065
+14739,C,A,Likely pathogenic,0.517058
+14739,C,G,Likely pathogenic,0.517058
+14739,C,T,Likely pathogenic,0.507731
+14738,T,A,Likely pathogenic,0.53565
+14738,T,C,Likely pathogenic,0.61789
+14738,T,G,Likely pathogenic,0.53565
+14737,T,A,Likely neutral,0.372165
+14737,T,C,Likely neutral,0.356884
+14737,T,G,Likely neutral,0.372165
+14736,G,A,Likely neutral,0.404636
+14736,G,C,Likely neutral,0.493167
+14736,G,T,Likely neutral,0.493167
+14735,T,A,Likely neutral,0.482597
+14735,T,C,Likely neutral,0.482597
+14735,T,G,Likely neutral,0.482597
+14734,A,C,Likely neutral,0.468085
+14734,A,G,Likely neutral,0.468085
+14734,A,T,Likely neutral,0.468085
+14733,G,A,Pathogenic,0.933834
+14733,G,C,Pathogenic,0.933834
+14733,G,T,Pathogenic,0.933834
+14732,T,A,Likely pathogenic,0.520981
+14732,T,C,Likely pathogenic,0.520981
+14732,T,G,Likely pathogenic,0.520981
+14731,T,A,Likely neutral,0.456958
+14731,T,C,Likely neutral,0.456958
+14731,T,G,Likely neutral,0.456958
+14730,G,A,Pathogenic,0.917206
+14730,G,C,Pathogenic,0.917206
+14730,G,T,Pathogenic,0.917206
+14729,A,C,Likely pathogenic,0.519081
+14729,A,G,Likely pathogenic,0.519081
+14729,A,T,Likely pathogenic,0.519081
+14728,A,C,Likely pathogenic,0.575804
+14728,A,G,Likely pathogenic,0.552782
+14728,A,T,Likely pathogenic,0.575804
+14727,A,C,Neutral,0.198696
+14727,A,G,Neutral,0.1653
+14727,A,T,Neutral,0.154769
+14726,T,A,Neutral,0.338562
+14726,T,C,Likely neutral,0.395961
+14726,T,G,Likely neutral,0.402928
+14725,A,C,Likely neutral,0.428031
+14725,A,G,Likely neutral,0.428031
+14725,A,T,Likely neutral,0.428031
+14724,C,A,Pathogenic,0.80024
+14724,C,G,Pathogenic,0.80024
+14724,C,T,Pathogenic,0.80024
+14723,A,C,Pathogenic,0.776137
+14723,A,G,Pathogenic,0.776137
+14723,A,T,Pathogenic,0.776137
+14722,A,C,Likely pathogenic,0.663354
+14722,A,G,Likely pathogenic,0.628087
+14722,A,T,Likely pathogenic,0.663354
+14721,C,A,Likely pathogenic,0.572326
+14721,C,G,Likely pathogenic,0.572326
+14721,C,T,Likely pathogenic,0.560639
+14720,G,A,Likely pathogenic,0.528959
+14720,G,C,Likely pathogenic,0.58676
+14720,G,T,Likely pathogenic,0.58676
+14719,A,C,Likely pathogenic,0.576476
+14719,A,G,Likely pathogenic,0.59341
+14719,A,T,Likely pathogenic,0.576476
+14718,T,A,Neutral,0.181048
+14718,T,C,Neutral,0.181048
+14718,T,G,Neutral,0.181048
+14717,G,A,Pathogenic,0.788893
+14717,G,C,Pathogenic,0.788893
+14717,G,T,Pathogenic,0.788893
+14716,G,A,Neutral,0.170078
+14716,G,C,Neutral,0.303175
+14716,G,T,Neutral,0.199026
+14715,T,A,Likely neutral,0.36524
+14715,T,C,Neutral,0.291789
+14715,T,G,Likely neutral,0.36524
+14714,T,A,Likely pathogenic,0.527095
+14714,T,C,Likely pathogenic,0.527095
+14714,T,G,Likely pathogenic,0.527095
+14713,T,A,Likely pathogenic,0.527095
+14713,T,C,Likely pathogenic,0.527095
+14713,T,G,Likely pathogenic,0.527095
+14712,T,A,Likely pathogenic,0.527095
+14712,T,C,Likely pathogenic,0.527095
+14712,T,G,Likely pathogenic,0.527095
+14711,T,A,Likely neutral,0.375079
+14711,T,C,Likely neutral,0.375079
+14711,T,G,Likely neutral,0.375079
+14710,C,A,Pathogenic,0.794856
+14710,C,G,Pathogenic,0.794856
+14710,C,T,Pathogenic,0.794856
+14709,A,C,Likely neutral,0.386234
+14709,A,G,Likely neutral,0.368136
+14709,A,T,Likely neutral,0.386234
+14708,T,A,Likely neutral,0.461165
+14708,T,C,Likely neutral,0.461165
+14708,T,G,Likely neutral,0.47155
+14707,A,C,Neutral,0.335286
+14707,A,G,Neutral,0.279793
+14707,A,T,Neutral,0.335286
+14706,T,A,Neutral,0.356564
+14706,T,C,Neutral,0.268998
+14706,T,G,Neutral,0.356564
+14705,C,A,Pathogenic,0.88991
+14705,C,G,Pathogenic,0.88991
+14705,C,T,Pathogenic,0.88991
+14704,A,C,Likely pathogenic,0.602469
+14704,A,G,Likely pathogenic,0.602469
+14704,A,T,Likely pathogenic,0.602469
+14703,T,A,Likely neutral,0.482806
+14703,T,C,Likely neutral,0.396853
+14703,T,G,Likely neutral,0.482806
+14702,T,A,Neutral,0.342
+14702,T,C,Likely neutral,0.394967
+14702,T,G,Likely neutral,0.394967
+14701,G,A,Neutral,0.126728
+14701,G,C,Neutral,0.241249
+14701,G,T,Neutral,0.241249
+14700,G,A,Likely pathogenic,0.623657
+14700,G,C,Pathogenic,0.679587
+14700,G,T,Pathogenic,0.679587
+14699,T,A,Likely pathogenic,0.605152
+14699,T,C,Likely pathogenic,0.605152
+14699,T,G,Likely pathogenic,0.605152
+14698,C,A,Likely pathogenic,0.538036
+14698,C,G,Likely pathogenic,0.538036
+14698,C,T,Likely neutral,0.461668
+14697,G,A,Neutral,0.151947
+14697,G,C,Neutral,0.2312
+14697,G,T,Neutral,0.151825
+14696,T,A,Likely neutral,0.352843
+14696,T,C,Neutral,0.255691
+14696,T,G,Likely neutral,0.352843
+14695,G,A,Likely neutral,0.389329
+14695,G,C,Likely neutral,0.470153
+14695,G,T,Likely neutral,0.470153
+14694,G,A,Pathogenic,0.90568
+14694,G,C,Pathogenic,0.90568
+14694,G,T,Pathogenic,0.90568
+14693,T,A,Neutral,0.215802
+14693,T,C,Neutral,0.215802
+14693,T,G,Neutral,0.215802
+14692,T,A,Likely neutral,0.285961
+14692,T,C,Neutral,0.154611
+14692,T,G,Likely neutral,0.285961
+14691,G,A,Neutral,0.186823
+14691,G,C,Neutral,0.22843
+14691,G,T,Neutral,0.176137
+14690,T,A,Neutral,0.122544
+14690,T,C,Neutral,0.149422
+14690,T,G,Neutral,0.122544
+14689,A,C,Likely neutral,0.379592
+14689,A,G,Neutral,0.32569
+14689,A,T,Likely neutral,0.379592
+14688,G,A,Neutral,0.286118
+14688,G,C,Neutral,0.311774
+14688,G,T,Neutral,0.276696
+14687,T,A,Likely neutral,0.474417
+14687,T,C,Likely neutral,0.449109
+14687,T,G,Likely neutral,0.354487
+14686,C,A,Pathogenic,0.71995
+14686,C,G,Pathogenic,0.71995
+14686,C,T,Pathogenic,0.71995
+14685,C,A,Likely neutral,0.393139
+14685,C,G,Likely neutral,0.393139
+14685,C,T,Neutral,0.337324
+14684,G,A,Likely neutral,0.395289
+14684,G,C,Likely neutral,0.380359
+14684,G,T,Likely neutral,0.380359
+14683,T,A,Likely neutral,0.438188
+14683,T,C,Likely neutral,0.438188
+14683,T,G,Likely neutral,0.438188
+14682,G,A,Likely neutral,0.454641
+14682,G,C,Likely pathogenic,0.557118
+14682,G,T,Likely pathogenic,0.557118
+14681,C,A,Neutral,0.306608
+14681,C,G,Neutral,0.306608
+14681,C,T,Neutral,0.283227
+14680,G,A,Neutral,0.198
+14680,G,C,Neutral,0.307457
+14680,G,T,Neutral,0.307457
+14679,A,C,Neutral,0.292179
+14679,A,G,Neutral,0.196211
+14679,A,T,Neutral,0.292179
+14678,G,A,Likely pathogenic,0.513404
+14678,G,C,Likely pathogenic,0.580907
+14678,G,T,Likely pathogenic,0.580907
+14677,A,C,Likely neutral,0.468168
+14677,A,G,Likely neutral,0.468168
+14677,A,T,Likely neutral,0.468168
+14676,A,C,Pathogenic,0.639455
+14676,A,G,Likely pathogenic,0.529556
+14676,A,T,Pathogenic,0.639455
+14675,T,A,Neutral,0.310083
+14675,T,C,Neutral,0.24537
+14675,T,G,Neutral,0.310083
+14674,A,C,Neutral,0.214072
+14674,A,G,Neutral,0.094179
+14674,A,T,Neutral,0.088535
+9991,A,C,Likely neutral,0.434744
+9991,A,G,Neutral,0.353317
+9991,A,T,Likely neutral,0.434744
+9992,C,A,Likely pathogenic,0.551776
+9992,C,G,Likely pathogenic,0.551776
+9992,C,T,Likely pathogenic,0.53962
+9993,T,A,Pathogenic,0.680088
+9993,T,C,Pathogenic,0.680088
+9993,T,G,Pathogenic,0.680088
+9994,C,A,Pathogenic,0.700258
+9994,C,G,Pathogenic,0.700258
+9994,C,T,Pathogenic,0.692418
+9995,T,A,Neutral,0.361244
+9995,T,C,Likely neutral,0.363815
+9995,T,G,Neutral,0.361244
+9996,T,A,Neutral,0.350813
+9996,T,C,Neutral,0.25789
+9996,T,G,Neutral,0.350813
+9997,T,A,Pathogenic,0.681074
+9997,T,C,Likely pathogenic,0.616584
+9997,T,G,Pathogenic,0.681074
+9998,T,A,Likely pathogenic,0.537284
+9998,T,C,Likely pathogenic,0.511333
+9998,T,G,Likely pathogenic,0.537284
+9999,A,C,Likely neutral,0.468085
+9999,A,G,Likely neutral,0.468085
+9999,A,T,Likely neutral,0.468085
+10000,G,A,Pathogenic,0.933834
+10000,G,C,Pathogenic,0.933834
+10000,G,T,Pathogenic,0.933834
+10001,T,A,Likely pathogenic,0.561343
+10001,T,C,Likely pathogenic,0.561343
+10001,T,G,Likely pathogenic,0.561343
+10002,A,C,Pathogenic,0.78682
+10002,A,G,Pathogenic,0.78682
+10002,A,T,Pathogenic,0.78682
+10003,T,A,Likely pathogenic,0.526879
+10003,T,C,Likely pathogenic,0.55082
+10003,T,G,Likely pathogenic,0.526879
+10004,A,C,Neutral,0.097079
+10004,A,G,Neutral,0.218798
+10004,A,T,Neutral,0.103234
+10005,A,C,Likely neutral,0.485443
+10005,A,G,Likely neutral,0.402262
+10005,A,T,Likely neutral,0.485443
+10006,A,C,Neutral,0.156748
+10006,A,G,Neutral,0.145384
+10006,A,T,Neutral,0.147455
+10007,T,A,Neutral,0.144564
+10007,T,C,Neutral,0.12769
+10007,T,G,Neutral,0.234224
+10008,A,C,Likely neutral,0.432846
+10008,A,G,Likely neutral,0.432846
+10008,A,T,Likely neutral,0.432846
+10009,G,A,Likely pathogenic,0.628799
+10009,G,C,Pathogenic,0.67108
+10009,G,T,Pathogenic,0.67108
+10010,T,A,Likely pathogenic,0.623925
+10010,T,C,Likely pathogenic,0.623925
+10010,T,G,Likely pathogenic,0.623925
+10011,A,C,Likely neutral,0.482315
+10011,A,G,Likely neutral,0.482315
+10011,A,T,Likely neutral,0.482315
+10012,C,A,Likely neutral,0.416491
+10012,C,G,Likely neutral,0.416491
+10012,C,T,Neutral,0.301549
+10013,C,A,Neutral,0.11862
+10013,C,G,Neutral,0.126953
+10013,C,T,Neutral,0.113854
+10014,G,A,Neutral,0.141225
+10014,G,C,Neutral,0.262145
+10014,G,T,Neutral,0.143558
+10015,T,A,Neutral,0.196193
+10015,T,C,Neutral,0.18781
+10015,T,G,Neutral,0.196193
+10016,T,A,Pathogenic,0.775779
+10016,T,C,Pathogenic,0.775779
+10016,T,G,Pathogenic,0.775779
+10017,A,C,Likely neutral,0.458047
+10017,A,G,Likely neutral,0.46836
+10017,A,T,Likely neutral,0.458047
+10018,A,C,Likely pathogenic,0.684357
+10018,A,G,Likely pathogenic,0.684357
+10018,A,T,Likely pathogenic,0.684357
+10019,C,A,Likely pathogenic,0.560761
+10019,C,G,Likely pathogenic,0.560761
+10019,C,T,Likely pathogenic,0.560761
+10020,T,A,Likely neutral,0.343502
+10020,T,C,Likely neutral,0.343502
+10020,T,G,Likely neutral,0.343502
+10021,T,A,Likely neutral,0.375079
+10021,T,C,Likely neutral,0.375079
+10021,T,G,Likely neutral,0.375079
+10022,C,A,Likely pathogenic,0.540601
+10022,C,G,Likely pathogenic,0.540601
+10022,C,T,Likely pathogenic,0.540601
+10023,C,A,Pathogenic,0.657095
+10023,C,G,Pathogenic,0.657095
+10023,C,T,Pathogenic,0.657095
+10024,A,C,Likely pathogenic,0.612614
+10024,A,G,Likely pathogenic,0.612614
+10024,A,T,Likely pathogenic,0.612614
+10025,A,C,Likely pathogenic,0.635665
+10025,A,G,Likely pathogenic,0.635665
+10025,A,T,Likely pathogenic,0.635665
+10026,T,A,Pathogenic,0.638231
+10026,T,C,Pathogenic,0.638231
+10026,T,G,Pathogenic,0.638231
+10027,T,A,Neutral,0.32557
+10027,T,C,Neutral,0.235976
+10027,T,G,Neutral,0.32557
+10028,A,C,Pathogenic,0.777675
+10028,A,G,Pathogenic,0.777675
+10028,A,T,Pathogenic,0.777675
+10029,A,C,Likely neutral,0.34311
+10029,A,G,Neutral,0.199574
+10029,A,T,Neutral,0.256812
+10030,C,A,Likely neutral,0.376541
+10030,C,G,Likely neutral,0.415612
+10030,C,T,Likely neutral,0.386632
+10031,T,A,Neutral,0.145828
+10031,T,C,Neutral,0.141871
+10031,T,G,Neutral,0.227533
+10032,A,C,Likely neutral,0.375979
+10032,A,G,Neutral,0.298679
+10032,A,T,Likely neutral,0.375979
+10033,G,A,Likely pathogenic,0.607502
+10033,G,C,Pathogenic,0.672266
+10033,G,T,Pathogenic,0.672266
+10034,T,A,Neutral,0.087842
+10034,T,C,Neutral,0.097321
+10034,T,G,Neutral,0.159598
+10035,T,A,Likely pathogenic,0.510841
+10035,T,C,Likely neutral,0.378166
+10035,T,G,Likely pathogenic,0.510841
+10036,T,A,Neutral,0.347434
+10036,T,C,Likely neutral,0.287245
+10036,T,G,Neutral,0.347434
+10037,T,A,Neutral,0.190023
+10037,T,C,Neutral,0.135074
+10037,T,G,Neutral,0.237467
+10038,G,A,Likely pathogenic,0.59857
+10038,G,C,Pathogenic,0.68185
+10038,G,T,Pathogenic,0.68185
+10039,A,C,Neutral,0.286307
+10039,A,G,Neutral,0.139183
+10039,A,T,Neutral,0.286307
+10040,C,A,Neutral,0.15662
+10040,C,G,Neutral,0.231407
+10040,C,T,Neutral,0.168017
+10041,A,C,Neutral,0.079114
+10041,A,G,Neutral,0.102302
+10041,A,T,Neutral,0.074706
+10042,A,C,Neutral,0.108719
+10042,A,G,Neutral,0.182632
+10042,A,T,Neutral,0.146199
+10043,C,A,Neutral,0.195813
+10043,C,G,Neutral,0.294124
+10043,C,T,Neutral,0.167219
+10044,A,C,Neutral,0.211472
+10044,A,G,Neutral,0.211472
+10044,A,T,Neutral,0.234736
+10045,T,A,Neutral,0.143599
+10045,T,C,Neutral,0.119185
+10045,T,G,Neutral,0.121246
+10046,T,A,Neutral,0.305006
+10046,T,C,Neutral,0.242635
+10046,T,G,Neutral,0.305006
+10047,C,A,Likely pathogenic,0.529521
+10047,C,G,Likely neutral,0.491372
+10047,C,T,Likely neutral,0.448078
+10048,A,C,Neutral,0.296251
+10048,A,G,Neutral,0.211964
+10048,A,T,Neutral,0.237466
+10049,A,C,Likely neutral,0.40123
+10049,A,G,Likely neutral,0.368168
+10049,A,T,Likely neutral,0.349318
+10050,A,C,Likely pathogenic,0.53211
+10050,A,G,Likely neutral,0.416399
+10050,A,T,Likely pathogenic,0.53211
+10051,A,C,Likely pathogenic,0.650529
+10051,A,G,Likely pathogenic,0.567912
+10051,A,T,Likely pathogenic,0.650529
+10052,A,C,Likely neutral,0.384969
+10052,A,G,Likely neutral,0.304245
+10052,A,T,Neutral,0.302748
+10053,A,C,Neutral,0.349763
+10053,A,G,Neutral,0.303397
+10053,A,T,Neutral,0.349763
+10054,G,A,Pathogenic,0.729676
+10054,G,C,Pathogenic,0.747744
+10054,G,T,Pathogenic,0.747744
+10055,A,C,Likely neutral,0.413629
+10055,A,G,Likely neutral,0.339604
+10055,A,T,Likely neutral,0.339604
+10056,G,A,Likely pathogenic,0.55689
+10056,G,C,Likely pathogenic,0.618902
+10056,G,T,Likely pathogenic,0.618902
+10057,T,A,Likely neutral,0.460387
+10057,T,C,Likely neutral,0.433497
+10057,T,G,Likely neutral,0.47727
+10058,A,C,Likely neutral,0.477818
+10058,A,G,Likely neutral,0.446616
+10058,A,T,Likely neutral,0.477818
+12138,G,A,Pathogenic,0.899313
+12138,G,C,Pathogenic,0.899313
+12138,G,T,Pathogenic,0.899313
+12139,T,A,Likely pathogenic,0.561343
+12139,T,C,Likely pathogenic,0.561343
+12139,T,G,Likely pathogenic,0.561343
+12140,A,C,Likely neutral,0.491711
+12140,A,G,Likely neutral,0.405914
+12140,A,T,Likely pathogenic,0.520469
+12141,A,C,Likely neutral,0.478097
+12141,A,G,Likely neutral,0.413207
+12141,A,T,Likely neutral,0.478097
+12142,A,C,Likely pathogenic,0.599573
+12142,A,G,Pathogenic,0.633078
+12142,A,T,Likely pathogenic,0.56534
+12143,T,A,Likely pathogenic,0.526134
+12143,T,C,Likely neutral,0.465269
+12143,T,G,Likely pathogenic,0.526134
+12144,A,C,Pathogenic,0.78682
+12144,A,G,Pathogenic,0.78682
+12144,A,T,Pathogenic,0.78682
+12145,T,A,Likely neutral,0.432439
+12145,T,C,Likely neutral,0.432439
+12145,T,G,Likely neutral,0.432439
+12146,A,C,Likely neutral,0.468085
+12146,A,G,Likely neutral,0.468085
+12146,A,T,Likely neutral,0.468085
+12147,G,A,Pathogenic,0.875726
+12147,G,C,Pathogenic,0.89777
+12147,G,T,Pathogenic,0.89777
+12148,T,A,Likely pathogenic,0.520981
+12148,T,C,Likely pathogenic,0.520981
+12148,T,G,Likely pathogenic,0.520981
+12149,T,A,Pathogenic,0.771386
+12149,T,C,Pathogenic,0.771386
+12149,T,G,Pathogenic,0.771386
+12150,T,A,Pathogenic,0.775779
+12150,T,C,Pathogenic,0.775779
+12150,T,G,Pathogenic,0.775779
+12151,A,C,Likely pathogenic,0.649738
+12151,A,G,Likely pathogenic,0.649738
+12151,A,T,Likely pathogenic,0.649738
+12152,A,C,Neutral,0.148422
+12152,A,G,Neutral,0.217491
+12152,A,T,Neutral,0.217491
+12153,C,A,Neutral,0.111539
+12153,C,G,Neutral,0.210179
+12153,C,T,Neutral,0.090172
+12154,C,A,Neutral,0.133819
+12154,C,G,Neutral,0.276653
+12154,C,T,Neutral,0.122468
+12155,A,C,Likely pathogenic,0.612614
+12155,A,G,Likely pathogenic,0.612614
+12155,A,T,Likely pathogenic,0.612614
+12156,A,C,Pathogenic,0.73642
+12156,A,G,Pathogenic,0.73642
+12156,A,T,Pathogenic,0.73642
+12157,A,C,Pathogenic,0.73642
+12157,A,G,Pathogenic,0.73642
+12157,A,T,Pathogenic,0.73642
+12158,A,C,Likely pathogenic,0.684357
+12158,A,G,Likely pathogenic,0.684357
+12158,A,T,Likely pathogenic,0.684357
+12159,C,A,Pathogenic,0.650833
+12159,C,G,Pathogenic,0.650833
+12159,C,T,Likely pathogenic,0.550419
+12160,A,C,Likely neutral,0.436136
+12160,A,G,Likely neutral,0.413631
+12160,A,T,Likely neutral,0.436136
+12161,T,A,Likely neutral,0.434532
+12161,T,C,Likely neutral,0.383652
+12161,T,G,Likely neutral,0.434532
+12162,C,A,Likely pathogenic,0.576449
+12162,C,G,Likely pathogenic,0.576449
+12162,C,T,Likely pathogenic,0.564982
+12163,A,C,Pathogenic,0.699696
+12163,A,G,Pathogenic,0.699696
+12163,A,T,Pathogenic,0.699696
+12164,G,A,Pathogenic,0.80484
+12164,G,C,Pathogenic,0.841648
+12164,G,T,Pathogenic,0.841648
+12165,A,C,Pathogenic,0.677382
+12165,A,G,Likely pathogenic,0.640748
+12165,A,T,Pathogenic,0.677382
+12166,T,A,Neutral,0.267399
+12166,T,C,Neutral,0.222731
+12166,T,G,Neutral,0.267399
+12167,T,A,Neutral,0.317432
+12167,T,C,Neutral,0.292013
+12167,T,G,Neutral,0.317432
+12168,G,A,Pathogenic,0.71321
+12168,G,C,Pathogenic,0.71321
+12168,G,T,Pathogenic,0.71321
+12169,T,A,Likely neutral,0.350222
+12169,T,C,Likely neutral,0.350222
+12169,T,G,Likely neutral,0.350222
+12170,G,A,Pathogenic,0.765256
+12170,G,C,Pathogenic,0.765256
+12170,G,T,Pathogenic,0.765256
+12171,A,C,Likely neutral,0.424786
+12171,A,G,Likely neutral,0.424786
+12171,A,T,Likely neutral,0.424786
+12172,A,C,Likely pathogenic,0.56836
+12172,A,G,Likely pathogenic,0.526207
+12172,A,T,Likely pathogenic,0.56836
+12173,T,A,Likely pathogenic,0.510741
+12173,T,C,Likely neutral,0.471212
+12173,T,G,Likely pathogenic,0.510741
+12174,C,A,Pathogenic,0.872772
+12174,C,G,Pathogenic,0.872772
+12174,C,T,Pathogenic,0.872772
+12175,T,A,Likely pathogenic,0.58736
+12175,T,C,Likely pathogenic,0.574147
+12175,T,G,Likely pathogenic,0.58736
+12176,G,A,Likely neutral,0.367926
+12176,G,C,Likely neutral,0.434539
+12176,G,T,Likely neutral,0.389942
+12177,A,C,Likely pathogenic,0.506969
+12177,A,G,Neutral,0.360043
+12177,A,T,Likely pathogenic,0.506969
+12178,C,A,Neutral,0.161575
+12178,C,G,Neutral,0.266135
+12178,C,T,Neutral,0.170554
+12179,A,C,Neutral,0.18393
+12179,A,G,Neutral,0.233432
+12179,A,T,Neutral,0.206493
+12180,A,C,Likely pathogenic,0.591227
+12180,A,G,Likely pathogenic,0.591227
+12180,A,T,Likely pathogenic,0.525782
+12181,C,A,Neutral,0.363706
+12181,C,G,Neutral,0.363706
+12181,C,T,Neutral,0.320151
+12182,A,C,Pathogenic,0.699696
+12182,A,G,Pathogenic,0.699696
+12182,A,T,Pathogenic,0.699696
+12183,G,A,Pathogenic,0.801564
+12183,G,C,Pathogenic,0.838788
+12183,G,T,Pathogenic,0.838788
+12184,A,C,Neutral,0.305105
+12184,A,G,Neutral,0.238995
+12184,A,T,Neutral,0.305105
+12185,G,A,Neutral,0.295204
+12185,G,C,Neutral,0.304003
+12185,G,T,Neutral,0.304003
+12186,G,A,Neutral,0.113839
+12186,G,C,Neutral,0.158399
+12186,G,T,Neutral,0.192845
+12187,C,A,Neutral,0.152681
+12187,C,G,Neutral,0.24888
+12187,C,T,Neutral,0.152465
+12188,T,A,Neutral,0.215361
+12188,T,C,Neutral,0.13086
+12188,T,G,Neutral,0.215361
+12189,T,A,Neutral,0.242958
+12189,T,C,Neutral,0.116402
+12189,T,G,Neutral,0.242958
+12190,A,C,Neutral,0.118213
+12190,A,G,Neutral,0.098257
+12190,A,T,Neutral,0.148299
+12191,C,A,Neutral,0.094681
+12191,C,G,Neutral,0.182861
+12191,C,T,Neutral,0.114509
+12192,G,A,Neutral,0.121872
+12192,G,C,Neutral,0.117493
+12192,G,T,Neutral,0.159307
+12193,A,C,Neutral,0.108366
+12193,A,G,Neutral,0.19914
+12193,A,T,Neutral,0.130359
+12194,C,A,Likely neutral,0.39477
+12194,C,G,Likely neutral,0.431575
+12194,C,T,Neutral,0.336825
+12195,C,A,Neutral,0.305584
+12195,C,G,Neutral,0.305584
+12195,C,T,Neutral,0.256985
+12196,C,A,Neutral,0.217013
+12196,C,G,Neutral,0.217013
+12196,C,T,Neutral,0.183691
+12197,C,A,Pathogenic,0.696834
+12197,C,G,Pathogenic,0.696834
+12197,C,T,Likely pathogenic,0.617531
+12198,T,A,Likely pathogenic,0.528246
+12198,T,C,Likely pathogenic,0.528246
+12198,T,G,Likely pathogenic,0.528246
+12199,T,A,Pathogenic,0.775779
+12199,T,C,Pathogenic,0.775779
+12199,T,G,Pathogenic,0.775779
+12200,A,C,Likely pathogenic,0.512749
+12200,A,G,Likely neutral,0.404472
+12200,A,T,Likely pathogenic,0.512749
+12201,T,A,Likely neutral,0.433095
+12201,T,C,Likely neutral,0.462684
+12201,T,G,Likely neutral,0.476622
+12202,T,A,Likely pathogenic,0.529277
+12202,T,C,Likely neutral,0.435821
+12202,T,G,Likely pathogenic,0.529277
+12203,T,A,Likely pathogenic,0.516454
+12203,T,C,Likely neutral,0.379239
+12203,T,G,Likely pathogenic,0.516454
+12204,A,C,Likely neutral,0.482315
+12204,A,G,Likely neutral,0.482315
+12204,A,T,Likely neutral,0.482315
+12205,C,A,Pathogenic,0.674612
+12205,C,G,Pathogenic,0.674612
+12205,C,T,Pathogenic,0.674612
+12206,C,A,Likely neutral,0.435195
+12206,C,G,Likely neutral,0.435195
+12206,C,T,Likely neutral,0.435195
+4263,A,C,Likely neutral,0.398614
+4263,A,G,Likely neutral,0.398614
+4263,A,T,Likely neutral,0.398614
+4264,G,A,Pathogenic,0.922413
+4264,G,C,Pathogenic,0.922413
+4264,G,T,Pathogenic,0.922413
+4265,A,C,Likely pathogenic,0.547549
+4265,A,G,Likely pathogenic,0.547549
+4265,A,T,Likely pathogenic,0.547549
+4266,A,C,Pathogenic,0.827889
+4266,A,G,Pathogenic,0.827889
+4266,A,T,Pathogenic,0.827889
+4267,A,C,Pathogenic,0.883127
+4267,A,G,Pathogenic,0.883127
+4267,A,T,Pathogenic,0.883127
+4268,T,A,Likely pathogenic,0.655077
+4268,T,C,Likely pathogenic,0.67617
+4268,T,G,Likely pathogenic,0.655077
+4269,A,C,Pathogenic,0.851567
+4269,A,G,Pathogenic,0.851567
+4269,A,T,Pathogenic,0.851567
+4270,T,A,Neutral,0.326081
+4270,T,C,Neutral,0.354232
+4270,T,G,Neutral,0.326081
+4271,G,A,Pathogenic,0.766949
+4271,G,C,Pathogenic,0.766949
+4271,G,T,Pathogenic,0.766949
+4272,T,A,Pathogenic,0.776058
+4272,T,C,Pathogenic,0.776058
+4272,T,G,Pathogenic,0.776058
+4273,C,A,Pathogenic,0.87982
+4273,C,G,Pathogenic,0.87982
+4273,C,T,Pathogenic,0.87982
+4274,T,A,Likely pathogenic,0.646768
+4274,T,C,Likely pathogenic,0.653443
+4274,T,G,Likely pathogenic,0.646768
+4275,G,A,Pathogenic,0.785592
+4275,G,C,Pathogenic,0.785592
+4275,G,T,Pathogenic,0.785592
+4276,A,C,Pathogenic,0.681711
+4276,A,G,Pathogenic,0.681711
+4276,A,T,Pathogenic,0.681711
+4277,T,A,Neutral,0.232384
+4277,T,C,Neutral,0.153285
+4277,T,G,Neutral,0.232384
+4278,A,C,Likely pathogenic,0.667244
+4278,A,G,Likely pathogenic,0.616235
+4278,A,T,Likely pathogenic,0.667244
+4279,A,C,Pathogenic,0.69395
+4279,A,G,Pathogenic,0.69395
+4279,A,T,Pathogenic,0.69395
+4280,A,C,Likely pathogenic,0.51315
+4280,A,G,Likely pathogenic,0.530133
+4280,A,T,Likely pathogenic,0.530133
+4281,A,C,Likely pathogenic,0.552649
+4281,A,G,Likely pathogenic,0.552649
+4281,A,T,Likely pathogenic,0.552649
+4282,G,A,Pathogenic,0.922413
+4282,G,C,Pathogenic,0.922413
+4282,G,T,Pathogenic,0.922413
+4283,A,C,Pathogenic,0.682441
+4283,A,G,Pathogenic,0.682441
+4283,A,T,Pathogenic,0.682441
+4284,G,A,Likely pathogenic,0.595079
+4284,G,C,Likely pathogenic,0.606153
+4284,G,T,Likely pathogenic,0.606153
+4285,T,A,Likely pathogenic,0.561141
+4285,T,C,Likely pathogenic,0.561141
+4285,T,G,Likely pathogenic,0.561141
+4286,T,A,Pathogenic,0.829214
+4286,T,C,Pathogenic,0.829214
+4286,T,G,Pathogenic,0.829214
+4287,A,C,Likely pathogenic,0.545183
+4287,A,G,Likely pathogenic,0.545183
+4287,A,T,Likely pathogenic,0.545183
+4288,C,A,Pathogenic,0.781012
+4288,C,G,Pathogenic,0.781012
+4288,C,T,Pathogenic,0.781012
+4289,T,A,Likely pathogenic,0.557289
+4289,T,C,Likely pathogenic,0.557289
+4289,T,G,Likely pathogenic,0.557289
+4290,T,A,Likely pathogenic,0.576718
+4290,T,C,Likely pathogenic,0.576718
+4290,T,G,Likely pathogenic,0.576718
+4291,T,A,Likely neutral,0.342678
+4291,T,C,Likely neutral,0.342678
+4291,T,G,Likely neutral,0.342678
+4292,G,A,Pathogenic,0.809824
+4292,G,C,Pathogenic,0.809824
+4292,G,T,Pathogenic,0.809824
+4293,A,C,Likely pathogenic,0.617732
+4293,A,G,Likely pathogenic,0.617732
+4293,A,T,Likely pathogenic,0.617732
+4294,T,A,Likely pathogenic,0.548361
+4294,T,C,Likely pathogenic,0.548361
+4294,T,G,Likely pathogenic,0.548361
+4295,A,C,Likely neutral,0.427032
+4295,A,G,Likely neutral,0.364541
+4295,A,T,Likely neutral,0.427032
+4296,G,A,Pathogenic,0.827301
+4296,G,C,Pathogenic,0.827301
+4296,G,T,Pathogenic,0.827301
+4297,A,C,Pathogenic,0.682441
+4297,A,G,Pathogenic,0.682441
+4297,A,T,Pathogenic,0.682441
+4298,G,A,Pathogenic,0.952477
+4298,G,C,Pathogenic,0.952477
+4298,G,T,Pathogenic,0.952477
+4299,T,A,Likely pathogenic,0.619131
+4299,T,C,Likely pathogenic,0.619131
+4299,T,G,Likely pathogenic,0.619131
+4300,A,C,Pathogenic,0.807423
+4300,A,G,Pathogenic,0.777312
+4300,A,T,Pathogenic,0.807423
+4301,A,C,Pathogenic,0.827889
+4301,A,G,Pathogenic,0.827889
+4301,A,T,Pathogenic,0.827889
+4302,A,C,Pathogenic,0.706664
+4302,A,G,Pathogenic,0.706664
+4302,A,T,Pathogenic,0.706664
+4303,T,A,Neutral,0.207677
+4303,T,C,Neutral,0.207677
+4303,T,G,Neutral,0.25589
+4304,A,C,Neutral,0.101
+4304,A,G,Neutral,0.135436
+4304,A,T,Neutral,0.094128
+4305,A,C,Pathogenic,0.732725
+4305,A,G,Pathogenic,0.732725
+4305,A,T,Pathogenic,0.732725
+4306,T,A,Likely pathogenic,0.555408
+4306,T,C,Likely pathogenic,0.555408
+4306,T,G,Likely pathogenic,0.555408
+4307,A,C,Likely pathogenic,0.597953
+4307,A,G,Likely pathogenic,0.597953
+4307,A,T,Likely pathogenic,0.597953
+4308,G,A,Likely pathogenic,0.659084
+4308,G,C,Likely pathogenic,0.659084
+4308,G,T,Likely pathogenic,0.659084
+4309,G,A,Likely pathogenic,0.553385
+4309,G,C,Likely neutral,0.489266
+4309,G,T,Likely neutral,0.489266
+4310,A,C,Neutral,0.28436
+4310,A,G,Neutral,0.324918
+4310,A,T,Neutral,0.28436
+4311,G,A,Pathogenic,0.916975
+4311,G,C,Pathogenic,0.916975
+4311,G,T,Pathogenic,0.916975
+4312,C,A,Neutral,0.155589
+4312,C,G,Neutral,0.243001
+4312,C,T,Neutral,0.177567
+4313,T,A,Neutral,0.21057
+4313,T,C,Neutral,0.177008
+4313,T,G,Neutral,0.161774
+4314,T,A,Neutral,0.194939
+4314,T,C,Neutral,0.121051
+4314,T,G,Neutral,0.248613
+4315,A,C,Neutral,0.135548
+4315,A,G,Neutral,0.19565
+4315,A,T,Neutral,0.140842
+4316,A,C,Pathogenic,0.69395
+4316,A,G,Pathogenic,0.69395
+4316,A,T,Pathogenic,0.69395
+4317,A,C,Likely neutral,0.421841
+4317,A,G,Neutral,0.24575
+4317,A,T,Likely neutral,0.421841
+4318,C,A,Neutral,0.210417
+4318,C,G,Neutral,0.144574
+4318,C,T,Neutral,0.130055
+4319,C,A,Likely pathogenic,0.598646
+4319,C,G,Likely pathogenic,0.598646
+4319,C,T,Likely pathogenic,0.598646
+4320,C,A,Likely neutral,0.389061
+4320,C,G,Likely neutral,0.389061
+4320,C,T,Likely neutral,0.389061
+4321,C,A,Neutral,0.315693
+4321,C,G,Neutral,0.315693
+4321,C,T,Neutral,0.273792
+4322,C,A,Pathogenic,0.781319
+4322,C,G,Pathogenic,0.781319
+4322,C,T,Pathogenic,0.781319
+4323,T,A,Likely pathogenic,0.557289
+4323,T,C,Likely pathogenic,0.557289
+4323,T,G,Likely pathogenic,0.557289
+4324,T,A,Pathogenic,0.829214
+4324,T,C,Pathogenic,0.829214
+4324,T,G,Pathogenic,0.829214
+4325,A,C,Likely pathogenic,0.609422
+4325,A,G,Likely pathogenic,0.501448
+4325,A,T,Likely pathogenic,0.609422
+4326,T,A,Pathogenic,0.715167
+4326,T,C,Pathogenic,0.715167
+4326,T,G,Pathogenic,0.715167
+4327,T,A,Pathogenic,0.79398
+4327,T,C,Pathogenic,0.79398
+4327,T,G,Pathogenic,0.79398
+4328,T,A,Likely pathogenic,0.530851
+4328,T,C,Likely pathogenic,0.530851
+4328,T,G,Likely pathogenic,0.530851
+4329,C,A,Pathogenic,0.87982
+4329,C,G,Pathogenic,0.87982
+4329,C,T,Pathogenic,0.87982
+4330,T,A,Pathogenic,0.668027
+4330,T,C,Pathogenic,0.668027
+4330,T,G,Pathogenic,0.668027
+4331,A,C,Likely neutral,0.386061
+4331,A,G,Likely neutral,0.321902
+4331,A,T,Likely neutral,0.386061
+12266,A,C,Likely pathogenic,0.520265
+12266,A,G,Likely neutral,0.360727
+12266,A,T,Likely pathogenic,0.520265
+12267,C,A,Pathogenic,0.754809
+12267,C,G,Pathogenic,0.754809
+12267,C,T,Pathogenic,0.754809
+12268,T,A,Likely pathogenic,0.528246
+12268,T,C,Likely pathogenic,0.528246
+12268,T,G,Likely pathogenic,0.528246
+12269,T,A,Pathogenic,0.771386
+12269,T,C,Pathogenic,0.771386
+12269,T,G,Pathogenic,0.771386
+12270,T,A,Pathogenic,0.771386
+12270,T,C,Pathogenic,0.771386
+12270,T,G,Pathogenic,0.771386
+12271,T,A,Pathogenic,0.666281
+12271,T,C,Likely pathogenic,0.592569
+12271,T,G,Pathogenic,0.666281
+12272,A,C,Pathogenic,0.777675
+12272,A,G,Pathogenic,0.777675
+12272,A,T,Pathogenic,0.777675
+12273,A,C,Neutral,0.21889
+12273,A,G,Neutral,0.281684
+12273,A,T,Neutral,0.183972
+12274,A,C,Likely neutral,0.444728
+12274,A,G,Likely neutral,0.444728
+12274,A,T,Likely neutral,0.444728
+12275,G,A,Likely pathogenic,0.63813
+12275,G,C,Likely pathogenic,0.63813
+12275,G,T,Likely pathogenic,0.63813
+12276,G,A,Pathogenic,0.755929
+12276,G,C,Pathogenic,0.755929
+12276,G,T,Pathogenic,0.755929
+12277,A,C,Pathogenic,0.718727
+12277,A,G,Pathogenic,0.718727
+12277,A,T,Pathogenic,0.718727
+12278,T,A,Likely pathogenic,0.582519
+12278,T,C,Likely pathogenic,0.582519
+12278,T,G,Likely pathogenic,0.582519
+12279,A,C,Likely neutral,0.450436
+12279,A,G,Likely neutral,0.366602
+12279,A,T,Likely neutral,0.450436
+12280,A,C,Likely neutral,0.340492
+12280,A,G,Neutral,0.193991
+12280,A,T,Likely neutral,0.340492
+12281,C,A,Neutral,0.186514
+12281,C,G,Neutral,0.224365
+12281,C,T,Neutral,0.183353
+12282,A,C,Likely pathogenic,0.536365
+12282,A,G,Likely pathogenic,0.536365
+12282,A,T,Likely pathogenic,0.536365
+12283,G,A,Pathogenic,0.685166
+12283,G,C,Pathogenic,0.685166
+12283,G,T,Pathogenic,0.685166
+12284,C,A,Neutral,0.186112
+12284,C,G,Neutral,0.252633
+12284,C,T,Neutral,0.181853
+12285,T,A,Neutral,0.123361
+12285,T,C,Neutral,0.124805
+12285,T,G,Neutral,0.214066
+12286,A,C,Pathogenic,0.695011
+12286,A,G,Pathogenic,0.695011
+12286,A,T,Pathogenic,0.672323
+12287,T,A,Likely pathogenic,0.538808
+12287,T,C,Likely pathogenic,0.538808
+12287,T,G,Likely pathogenic,0.538808
+12288,C,A,Pathogenic,0.71995
+12288,C,G,Pathogenic,0.71995
+12288,C,T,Pathogenic,0.71995
+12289,C,A,Pathogenic,0.80198
+12289,C,G,Pathogenic,0.80198
+12289,C,T,Pathogenic,0.80198
+12290,A,C,Neutral,0.129599
+12290,A,G,Neutral,0.126103
+12290,A,T,Neutral,0.188998
+12291,T,A,Pathogenic,0.638231
+12291,T,C,Pathogenic,0.638231
+12291,T,G,Pathogenic,0.638231
+12292,T,A,Likely neutral,0.476707
+12292,T,C,Likely neutral,0.464699
+12292,T,G,Likely neutral,0.476707
+12293,G,A,Likely pathogenic,0.632613
+12293,G,C,Pathogenic,0.683754
+12293,G,T,Pathogenic,0.683754
+12294,G,A,Pathogenic,0.801352
+12294,G,C,Pathogenic,0.856903
+12294,G,T,Pathogenic,0.856903
+12295,T,A,Likely neutral,0.411394
+12295,T,C,Neutral,0.286664
+12295,T,G,Likely neutral,0.411394
+12296,C,A,Pathogenic,0.699895
+12296,C,G,Pathogenic,0.699895
+12296,C,T,Pathogenic,0.699895
+12297,T,A,Likely neutral,0.343502
+12297,T,C,Likely neutral,0.343502
+12297,T,G,Likely neutral,0.343502
+12298,T,A,Likely pathogenic,0.581961
+12298,T,C,Likely pathogenic,0.581961
+12298,T,G,Likely pathogenic,0.581961
+12299,A,C,Likely neutral,0.432846
+12299,A,G,Likely neutral,0.432846
+12299,A,T,Likely neutral,0.432846
+12300,G,A,Likely neutral,0.369845
+12300,G,C,Likely neutral,0.369845
+12300,G,T,Likely neutral,0.369845
+12301,G,A,Likely neutral,0.40193
+12301,G,C,Likely neutral,0.40193
+12301,G,T,Likely neutral,0.40193
+12302,C,A,Neutral,0.328089
+12302,C,G,Neutral,0.300797
+12302,C,T,Neutral,0.300797
+12303,C,A,Neutral,0.166913
+12303,C,G,Neutral,0.136172
+12303,C,T,Neutral,0.210456
+12304,C,A,Likely neutral,0.429656
+12304,C,G,Likely neutral,0.429656
+12304,C,T,Neutral,0.309463
+12305,C,A,Pathogenic,0.732438
+12305,C,G,Pathogenic,0.732438
+12305,C,T,Pathogenic,0.684383
+12306,A,C,Likely pathogenic,0.640899
+12306,A,G,Likely pathogenic,0.588905
+12306,A,T,Likely pathogenic,0.640899
+12307,A,C,Pathogenic,0.771652
+12307,A,G,Pathogenic,0.771652
+12307,A,T,Pathogenic,0.771652
+12308,A,C,Likely neutral,0.411662
+12308,A,G,Likely neutral,0.411662
+12308,A,T,Likely neutral,0.411662
+12309,A,C,Likely pathogenic,0.543827
+12309,A,G,Likely pathogenic,0.543827
+12309,A,T,Likely pathogenic,0.543827
+12310,A,C,Pathogenic,0.668408
+12310,A,G,Pathogenic,0.668408
+12310,A,T,Pathogenic,0.668408
+12311,T,A,Neutral,0.109545
+12311,T,C,Neutral,0.095802
+12311,T,G,Neutral,0.203878
+12312,T,A,Neutral,0.22035
+12312,T,C,Neutral,0.213065
+12312,T,G,Neutral,0.327563
+12313,T,A,Pathogenic,0.771386
+12313,T,C,Pathogenic,0.771386
+12313,T,G,Pathogenic,0.771386
+12314,T,A,Likely neutral,0.456958
+12314,T,C,Likely neutral,0.456958
+12314,T,G,Likely neutral,0.456958
+12315,G,A,Pathogenic,0.788893
+12315,G,C,Pathogenic,0.788893
+12315,G,T,Pathogenic,0.788893
+12316,G,A,Pathogenic,0.90568
+12316,G,C,Pathogenic,0.90568
+12316,G,T,Pathogenic,0.90568
+12317,T,A,Likely neutral,0.350222
+12317,T,C,Likely neutral,0.350222
+12317,T,G,Likely neutral,0.350222
+12318,G,A,Likely pathogenic,0.508705
+12318,G,C,Likely pathogenic,0.508705
+12318,G,T,Likely pathogenic,0.508705
+12319,C,A,Likely neutral,0.491812
+12319,C,G,Likely pathogenic,0.533615
+12319,C,T,Likely pathogenic,0.533615
+12320,A,C,Likely pathogenic,0.612614
+12320,A,G,Likely pathogenic,0.612614
+12320,A,T,Likely pathogenic,0.612614
+12321,A,C,Likely pathogenic,0.632571
+12321,A,G,Likely pathogenic,0.632571
+12321,A,T,Likely pathogenic,0.632571
+12322,C,A,Likely neutral,0.360017
+12322,C,G,Likely neutral,0.427603
+12322,C,T,Likely neutral,0.427603
+12323,T,A,Likely pathogenic,0.523591
+12323,T,C,Likely pathogenic,0.523591
+12323,T,G,Likely pathogenic,0.523591
+12324,C,A,Pathogenic,0.71995
+12324,C,G,Pathogenic,0.71995
+12324,C,T,Pathogenic,0.71995
+12325,C,A,Pathogenic,0.80198
+12325,C,G,Pathogenic,0.80198
+12325,C,T,Pathogenic,0.80198
+12326,A,C,Pathogenic,0.737697
+12326,A,G,Pathogenic,0.737697
+12326,A,T,Pathogenic,0.737697
+12327,A,C,Pathogenic,0.771652
+12327,A,G,Pathogenic,0.771652
+12327,A,T,Pathogenic,0.771652
+12328,A,C,Pathogenic,0.837565
+12328,A,G,Pathogenic,0.837565
+12328,A,T,Pathogenic,0.837565
+12329,T,A,Likely pathogenic,0.582519
+12329,T,C,Likely pathogenic,0.582519
+12329,T,G,Likely pathogenic,0.582519
+12330,A,C,Pathogenic,0.648119
+12330,A,G,Likely pathogenic,0.590253
+12330,A,T,Pathogenic,0.648119
+12331,A,C,Pathogenic,0.771652
+12331,A,G,Pathogenic,0.771652
+12331,A,T,Pathogenic,0.771652
+12332,A,C,Pathogenic,0.771652
+12332,A,G,Pathogenic,0.771652
+12332,A,T,Pathogenic,0.771652
+12333,A,C,Likely neutral,0.370474
+12333,A,G,Likely neutral,0.370474
+12333,A,T,Likely neutral,0.370474
+12334,G,A,Pathogenic,0.934854
+12334,G,C,Pathogenic,0.934854
+12334,G,T,Pathogenic,0.934854
+12335,T,A,Likely neutral,0.464235
+12335,T,C,Likely neutral,0.377579
+12335,T,G,Likely neutral,0.464235
+12336,A,C,Likely pathogenic,0.595901
+12336,A,G,Likely pathogenic,0.595901
+12336,A,T,Likely pathogenic,0.595901
+3230,G,A,Likely pathogenic,0.580013
+3230,G,C,Pathogenic,0.652515
+3230,G,T,Pathogenic,0.652515
+3231,T,A,Likely neutral,0.496628
+3231,T,C,Likely neutral,0.469042
+3231,T,G,Likely neutral,0.496628
+3232,T,A,Pathogenic,0.829214
+3232,T,C,Pathogenic,0.829214
+3232,T,G,Pathogenic,0.829214
+3233,A,C,Pathogenic,0.855084
+3233,A,G,Pathogenic,0.855084
+3233,A,T,Pathogenic,0.855084
+3234,A,C,Neutral,0.351727
+3234,A,G,Neutral,0.316851
+3234,A,T,Neutral,0.351727
+3235,G,A,Pathogenic,0.922413
+3235,G,C,Pathogenic,0.922413
+3235,G,T,Pathogenic,0.922413
+3236,A,C,Neutral,0.311796
+3236,A,G,Neutral,0.206714
+3236,A,T,Neutral,0.311796
+3237,T,A,Neutral,0.372367
+3237,T,C,Neutral,0.372367
+3237,T,G,Neutral,0.372367
+3238,G,A,Pathogenic,0.668708
+3238,G,C,Pathogenic,0.668708
+3238,G,T,Pathogenic,0.668708
+3239,G,A,Pathogenic,0.715899
+3239,G,C,Pathogenic,0.715899
+3239,G,T,Pathogenic,0.715899
+3240,C,A,Pathogenic,0.81625
+3240,C,G,Pathogenic,0.81625
+3240,C,T,Pathogenic,0.81625
+3241,A,C,Likely pathogenic,0.617418
+3241,A,G,Likely pathogenic,0.617418
+3241,A,T,Likely pathogenic,0.617418
+3242,G,A,Pathogenic,0.835737
+3242,G,C,Pathogenic,0.835737
+3242,G,T,Pathogenic,0.835737
+3243,A,C,Likely pathogenic,0.732748
+3243,A,G,Likely pathogenic,0.732748
+3243,A,T,Likely pathogenic,0.732748
+3244,G,A,Pathogenic,0.798971
+3244,G,C,Pathogenic,0.798971
+3244,G,T,Pathogenic,0.798971
+3245,C,A,Likely neutral,0.455417
+3245,C,G,Likely neutral,0.455417
+3245,C,T,Likely neutral,0.411346
+3246,C,A,Likely neutral,0.451564
+3246,C,G,Likely neutral,0.451564
+3246,C,T,Likely neutral,0.419925
+3247,C,A,Neutral,0.120887
+3247,C,G,Neutral,0.21547
+3247,C,T,Neutral,0.125283
+3248,G,A,Likely neutral,0.430845
+3248,G,C,Likely neutral,0.45555
+3248,G,T,Likely neutral,0.45555
+3249,G,A,Pathogenic,0.743799
+3249,G,C,Pathogenic,0.743799
+3249,G,T,Pathogenic,0.743799
+3250,T,A,Neutral,0.099735
+3250,T,C,Neutral,0.10167
+3250,T,G,Neutral,0.196076
+3251,A,C,Likely pathogenic,0.616235
+3251,A,G,Likely pathogenic,0.667244
+3251,A,T,Likely pathogenic,0.667244
+3252,A,C,Pathogenic,0.719206
+3252,A,G,Pathogenic,0.719206
+3252,A,T,Pathogenic,0.719206
+3253,T,A,Neutral,0.34383
+3253,T,C,Neutral,0.34383
+3253,T,G,Likely neutral,0.389886
+3254,C,A,Neutral,0.158674
+3254,C,G,Neutral,0.158674
+3254,C,T,Neutral,0.218172
+3255,G,A,Pathogenic,0.726867
+3255,G,C,Pathogenic,0.726867
+3255,G,T,Pathogenic,0.726867
+3256,C,A,Pathogenic,0.81625
+3256,C,G,Pathogenic,0.81625
+3256,C,T,Pathogenic,0.81625
+3257,A,C,Neutral,0.241024
+3257,A,G,Neutral,0.24403
+3257,A,T,Neutral,0.273054
+3258,T,A,Likely pathogenic,0.669007
+3258,T,C,Likely pathogenic,0.724173
+3258,T,G,Likely pathogenic,0.669007
+3259,A,C,Pathogenic,0.855084
+3259,A,G,Pathogenic,0.855084
+3259,A,T,Pathogenic,0.855084
+3260,A,C,Pathogenic,0.827889
+3260,A,G,Pathogenic,0.827889
+3260,A,T,Pathogenic,0.827889
+3261,A,C,Likely pathogenic,0.538591
+3261,A,G,Likely neutral,0.486165
+3261,A,T,Likely pathogenic,0.538591
+3262,A,C,Likely pathogenic,0.564079
+3262,A,G,Likely pathogenic,0.536019
+3262,A,T,Likely pathogenic,0.564079
+3263,C,A,Likely neutral,0.448912
+3263,C,G,Likely neutral,0.448912
+3263,C,T,Likely neutral,0.408839
+3264,T,A,Likely neutral,0.3832
+3264,T,C,Likely neutral,0.3832
+3264,T,G,Likely neutral,0.3832
+3265,T,A,Likely pathogenic,0.658185
+3265,T,C,Likely pathogenic,0.658185
+3265,T,G,Likely pathogenic,0.658185
+3266,A,C,Pathogenic,0.730303
+3266,A,G,Pathogenic,0.730303
+3266,A,T,Pathogenic,0.730303
+3267,A,C,Pathogenic,0.69395
+3267,A,G,Pathogenic,0.69395
+3267,A,T,Pathogenic,0.69395
+3268,A,C,Likely neutral,0.438823
+3268,A,G,Likely neutral,0.327749
+3268,A,T,Likely neutral,0.438823
+3269,A,C,Likely neutral,0.428887
+3269,A,G,Likely neutral,0.392283
+3269,A,T,Likely pathogenic,0.507738
+3270,C,A,Likely pathogenic,0.524454
+3270,C,G,Likely pathogenic,0.524454
+3270,C,T,Likely neutral,0.481341
+3271,T,A,Likely pathogenic,0.540765
+3271,T,C,Likely pathogenic,0.634749
+3271,T,G,Likely pathogenic,0.540765
+3272,T,A,Pathogenic,0.79398
+3272,T,C,Pathogenic,0.79398
+3272,T,G,Pathogenic,0.79398
+3273,T,A,Pathogenic,0.829214
+3273,T,C,Pathogenic,0.829214
+3273,T,G,Pathogenic,0.829214
+3274,A,C,Neutral,0.352845
+3274,A,G,Neutral,0.262483
+3274,A,T,Neutral,0.352845
+3275,C,A,Neutral,0.141367
+3275,C,G,Neutral,0.246902
+3275,C,T,Neutral,0.179554
+3276,A,C,Neutral,0.203655
+3276,A,G,Neutral,0.203655
+3276,A,T,Neutral,0.14992
+3277,G,A,Neutral,0.271769
+3277,G,C,Neutral,0.262894
+3277,G,T,Neutral,0.274865
+3278,T,A,Neutral,0.226699
+3278,T,C,Neutral,0.16003
+3278,T,G,Neutral,0.279066
+3279,C,A,Pathogenic,0.842087
+3279,C,G,Pathogenic,0.842087
+3279,C,T,Pathogenic,0.842087
+3280,A,C,Pathogenic,0.745681
+3280,A,G,Pathogenic,0.745681
+3280,A,T,Pathogenic,0.745681
+3281,G,A,Pathogenic,0.922413
+3281,G,C,Pathogenic,0.922413
+3281,G,T,Pathogenic,0.922413
+3282,A,C,Pathogenic,0.682441
+3282,A,G,Pathogenic,0.682441
+3282,A,T,Pathogenic,0.682441
+3283,G,A,Likely pathogenic,0.569971
+3283,G,C,Likely pathogenic,0.576816
+3283,G,T,Likely pathogenic,0.576816
+3284,G,A,Pathogenic,0.84375
+3284,G,C,Pathogenic,0.894716
+3284,G,T,Pathogenic,0.894716
+3285,T,A,Likely neutral,0.383842
+3285,T,C,Likely neutral,0.383842
+3285,T,G,Likely neutral,0.383842
+3286,T,A,Likely neutral,0.383662
+3286,T,C,Likely neutral,0.383662
+3286,T,G,Likely neutral,0.383662
+3287,C,A,Pathogenic,0.842728
+3287,C,G,Pathogenic,0.842728
+3287,C,T,Pathogenic,0.842728
+3288,A,C,Likely pathogenic,0.582711
+3288,A,G,Likely pathogenic,0.511551
+3288,A,T,Likely pathogenic,0.582711
+3289,A,C,Pathogenic,0.719206
+3289,A,G,Pathogenic,0.719206
+3289,A,T,Pathogenic,0.719206
+3290,T,A,Neutral,0.103678
+3290,T,C,Neutral,0.129745
+3290,T,G,Neutral,0.192212
+3291,T,A,Neutral,0.333462
+3291,T,C,Neutral,0.226115
+3291,T,G,Neutral,0.333462
+3292,C,A,Pathogenic,0.720907
+3292,C,G,Pathogenic,0.720907
+3292,C,T,Likely pathogenic,0.698818
+3293,C,A,Pathogenic,0.781319
+3293,C,G,Pathogenic,0.781319
+3293,C,T,Pathogenic,0.781319
+3294,T,A,Pathogenic,0.719823
+3294,T,C,Pathogenic,0.719823
+3294,T,G,Pathogenic,0.719823
+3295,C,A,Pathogenic,0.87982
+3295,C,G,Pathogenic,0.87982
+3295,C,T,Pathogenic,0.87982
+3296,T,A,Likely pathogenic,0.557289
+3296,T,C,Likely pathogenic,0.557289
+3296,T,G,Likely pathogenic,0.557289
+3297,T,A,Neutral,0.293537
+3297,T,C,Neutral,0.197522
+3297,T,G,Neutral,0.293537
+3298,C,A,Pathogenic,0.87982
+3298,C,G,Pathogenic,0.87982
+3298,C,T,Pathogenic,0.87982
+3299,T,A,Likely pathogenic,0.540765
+3299,T,C,Likely pathogenic,0.634749
+3299,T,G,Likely pathogenic,0.540765
+3300,T,A,Pathogenic,0.829214
+3300,T,C,Pathogenic,0.829214
+3300,T,G,Pathogenic,0.829214
+3301,A,C,Pathogenic,0.807423
+3301,A,G,Pathogenic,0.777312
+3301,A,T,Pathogenic,0.807423
+3302,A,C,Likely pathogenic,0.696009
+3302,A,G,Likely pathogenic,0.67022
+3302,A,T,Likely pathogenic,0.696009
+3303,C,A,Pathogenic,0.640393
+3303,C,G,Pathogenic,0.640393
+3303,C,T,Likely pathogenic,0.593495
+3304,A,C,Likely pathogenic,0.621974
+3304,A,G,Likely pathogenic,0.621974
+3304,A,T,Likely pathogenic,0.621974
+8295,C,A,Pathogenic,0.75487
+8295,C,G,Pathogenic,0.75487
+8295,C,T,Pathogenic,0.75487
+8296,A,C,Likely neutral,0.409524
+8296,A,G,Neutral,0.256305
+8296,A,T,Likely neutral,0.409524
+8297,C,A,Likely neutral,0.469811
+8297,C,G,Likely neutral,0.469811
+8297,C,T,Likely neutral,0.433864
+8298,T,A,Likely pathogenic,0.574268
+8298,T,C,Likely pathogenic,0.557713
+8298,T,G,Likely pathogenic,0.574268
+8299,G,A,Likely neutral,0.355078
+8299,G,C,Likely neutral,0.439799
+8299,G,T,Likely neutral,0.439799
+8300,T,A,Likely neutral,0.476341
+8300,T,C,Likely neutral,0.451013
+8300,T,G,Likely neutral,0.476341
+8301,A,C,Neutral,0.277752
+8301,A,G,Neutral,0.163032
+8301,A,T,Neutral,0.277752
+8302,A,C,Neutral,0.20828
+8302,A,G,Neutral,0.250338
+8302,A,T,Neutral,0.229031
+8303,A,C,Likely neutral,0.420677
+8303,A,G,Likely neutral,0.420677
+8303,A,T,Likely neutral,0.420677
+8304,G,A,Pathogenic,0.840736
+8304,G,C,Pathogenic,0.840736
+8304,G,T,Pathogenic,0.840736
+8305,C,A,Pathogenic,0.733736
+8305,C,G,Pathogenic,0.733736
+8305,C,T,Pathogenic,0.733736
+8306,T,A,Likely pathogenic,0.609704
+8306,T,C,Likely pathogenic,0.609704
+8306,T,G,Likely pathogenic,0.609704
+8307,A,C,Likely pathogenic,0.510467
+8307,A,G,Likely neutral,0.484182
+8307,A,T,Likely neutral,0.410387
+8308,A,C,Neutral,0.13199
+8308,A,G,Neutral,0.161329
+8308,A,T,Neutral,0.098319
+8309,C,A,Neutral,0.195639
+8309,C,G,Neutral,0.187254
+8309,C,T,Neutral,0.196899
+8310,T,A,Neutral,0.151379
+8310,T,C,Neutral,0.143926
+8310,T,G,Neutral,0.208629
+8311,T,A,Neutral,0.202106
+8311,T,C,Neutral,0.202106
+8311,T,G,Neutral,0.26863
+8312,A,C,Likely pathogenic,0.56842
+8312,A,G,Likely pathogenic,0.56842
+8312,A,T,Likely pathogenic,0.56842
+8313,G,A,Pathogenic,0.845407
+8313,G,C,Pathogenic,0.845407
+8313,G,T,Pathogenic,0.845407
+8314,C,A,Pathogenic,0.704565
+8314,C,G,Pathogenic,0.704565
+8314,C,T,Pathogenic,0.704565
+8315,A,C,Neutral,0.207551
+8315,A,G,Neutral,0.151324
+8315,A,T,Neutral,0.207551
+8316,T,A,Likely neutral,0.470578
+8316,T,C,Likely neutral,0.390029
+8316,T,G,Likely neutral,0.470578
+8317,T,A,Pathogenic,0.714553
+8317,T,C,Pathogenic,0.714553
+8317,T,G,Pathogenic,0.714553
+8318,A,C,Likely pathogenic,0.648689
+8318,A,G,Likely pathogenic,0.648689
+8318,A,T,Likely pathogenic,0.648689
+8319,A,C,Likely neutral,0.484068
+8319,A,G,Likely neutral,0.331588
+8319,A,T,Likely neutral,0.484068
+8320,C,A,Likely pathogenic,0.613414
+8320,C,G,Likely pathogenic,0.613414
+8320,C,T,Likely pathogenic,0.613414
+8321,C,A,Likely pathogenic,0.515981
+8321,C,G,Likely pathogenic,0.515981
+8321,C,T,Likely pathogenic,0.515981
+8322,T,A,Likely neutral,0.317038
+8322,T,C,Likely neutral,0.317038
+8322,T,G,Likely neutral,0.317038
+8323,T,A,Likely neutral,0.441868
+8323,T,C,Likely neutral,0.441868
+8323,T,G,Likely neutral,0.441868
+8324,T,A,Likely neutral,0.441868
+8324,T,C,Likely neutral,0.441868
+8324,T,G,Likely neutral,0.441868
+8325,T,A,Likely neutral,0.494633
+8325,T,C,Likely neutral,0.494633
+8325,T,G,Likely neutral,0.494633
+8326,A,C,Likely neutral,0.41359
+8326,A,G,Likely neutral,0.41359
+8326,A,T,Likely neutral,0.41359
+8327,A,C,Neutral,0.320997
+8327,A,G,Neutral,0.320997
+8327,A,T,Neutral,0.320997
+8328,G,A,Pathogenic,0.920617
+8328,G,C,Pathogenic,0.920617
+8328,G,T,Pathogenic,0.920617
+8329,T,A,Likely neutral,0.353742
+8329,T,C,Neutral,0.297142
+8329,T,G,Likely neutral,0.353742
+8330,T,A,Pathogenic,0.714553
+8330,T,C,Pathogenic,0.714553
+8330,T,G,Pathogenic,0.714553
+8331,A,C,Likely pathogenic,0.648689
+8331,A,G,Likely pathogenic,0.648689
+8331,A,T,Likely pathogenic,0.648689
+8332,A,C,Likely pathogenic,0.528613
+8332,A,G,Likely neutral,0.413731
+8332,A,T,Likely pathogenic,0.528613
+8333,A,C,Likely neutral,0.391217
+8333,A,G,Likely neutral,0.391217
+8333,A,T,Likely neutral,0.391217
+8334,G,A,Pathogenic,0.675288
+8334,G,C,Pathogenic,0.720936
+8334,G,T,Pathogenic,0.720936
+8335,A,C,Likely neutral,0.488735
+8335,A,G,Likely neutral,0.488735
+8335,A,T,Likely neutral,0.42312
+8336,T,A,Neutral,0.100849
+8336,T,C,Neutral,0.107897
+8336,T,G,Neutral,0.148433
+8337,T,A,Neutral,0.133522
+8337,T,C,Neutral,0.146347
+8337,T,G,Neutral,0.141034
+8338,A,C,Neutral,0.352349
+8338,A,G,Neutral,0.277054
+8338,A,T,Neutral,0.352349
+8339,A,C,Neutral,0.339333
+8339,A,G,Neutral,0.30676
+8339,A,T,Neutral,0.339333
+8340,G,A,Likely pathogenic,0.680551
+8340,G,C,Pathogenic,0.737344
+8340,G,T,Pathogenic,0.737344
+8341,A,C,Neutral,0.363408
+8341,A,G,Neutral,0.315032
+8341,A,T,Likely neutral,0.41479
+8342,G,A,Likely pathogenic,0.515229
+8342,G,C,Likely pathogenic,0.501246
+8342,G,T,Likely pathogenic,0.536113
+8343,A,C,Neutral,0.100926
+8343,A,G,Neutral,0.100926
+8343,A,T,Neutral,0.105285
+8344,A,C,Neutral,0.201723
+8344,A,G,Likely neutral,0.421511
+8344,A,T,Neutral,0.200497
+8345,C,A,Neutral,0.104156
+8345,C,G,Neutral,0.162753
+8345,C,T,Neutral,0.105464
+8346,C,A,Neutral,0.139255
+8346,C,G,Neutral,0.209486
+8346,C,T,Neutral,0.133954
+8347,A,C,Neutral,0.109275
+8347,A,G,Neutral,0.082719
+8347,A,T,Neutral,0.231454
+8348,A,C,Neutral,0.17732
+8348,A,G,Neutral,0.227084
+8348,A,T,Neutral,0.186225
+8349,C,A,Neutral,0.181366
+8349,C,G,Neutral,0.236948
+8349,C,T,Neutral,0.173425
+8350,A,C,Neutral,0.096582
+8350,A,G,Neutral,0.176164
+8350,A,T,Neutral,0.106679
+8351,C,A,Neutral,0.127376
+8351,C,G,Neutral,0.169921
+8351,C,T,Neutral,0.114843
+8352,C,A,Neutral,0.228614
+8352,C,G,Neutral,0.288908
+8352,C,T,Neutral,0.226689
+8353,T,A,Likely pathogenic,0.544106
+8353,T,C,Likely neutral,0.446467
+8353,T,G,Likely pathogenic,0.544106
+8354,C,A,Pathogenic,0.703726
+8354,C,G,Pathogenic,0.689661
+8354,C,T,Pathogenic,0.656646
+8355,T,A,Likely pathogenic,0.515457
+8355,T,C,Likely pathogenic,0.598657
+8355,T,G,Likely pathogenic,0.515457
+8356,T,A,Likely neutral,0.463534
+8356,T,C,Likely neutral,0.477805
+8356,T,G,Likely neutral,0.463534
+8357,T,A,Neutral,0.316351
+8357,T,C,Neutral,0.226011
+8357,T,G,Neutral,0.316351
+8358,A,C,Neutral,0.320745
+8358,A,G,Neutral,0.233102
+8358,A,T,Neutral,0.320745
+8359,C,A,Likely neutral,0.465578
+8359,C,G,Likely neutral,0.465578
+8359,C,T,Likely neutral,0.398332
+8360,A,C,Likely pathogenic,0.640941
+8360,A,G,Likely pathogenic,0.640941
+8360,A,T,Likely pathogenic,0.640941
+8361,G,A,Likely neutral,0.461656
+8361,G,C,Likely pathogenic,0.546806
+8361,G,T,Likely pathogenic,0.546806
+8362,T,A,Likely pathogenic,0.580395
+8362,T,C,Likely pathogenic,0.555092
+8362,T,G,Likely pathogenic,0.580395
+8363,G,A,Pathogenic,0.868016
+8363,G,C,Pathogenic,0.868016
+8363,G,T,Pathogenic,0.868016
+8364,A,C,Neutral,0.34192
+8364,A,G,Neutral,0.270775
+8364,A,T,Neutral,0.34192
+4402,A,C,Likely neutral,0.398614
+4402,A,G,Likely neutral,0.398614
+4402,A,T,Likely neutral,0.398614
+4403,G,A,Pathogenic,0.952477
+4403,G,C,Pathogenic,0.952477
+4403,G,T,Pathogenic,0.952477
+4404,T,A,Likely pathogenic,0.619131
+4404,T,C,Likely pathogenic,0.619131
+4404,T,G,Likely pathogenic,0.619131
+4405,A,C,Pathogenic,0.855084
+4405,A,G,Pathogenic,0.855084
+4405,A,T,Pathogenic,0.855084
+4406,A,C,Likely neutral,0.347471
+4406,A,G,Likely neutral,0.347471
+4406,A,T,Likely neutral,0.347471
+4407,G,A,Likely pathogenic,0.659084
+4407,G,C,Likely pathogenic,0.659084
+4407,G,T,Likely pathogenic,0.659084
+4408,G,A,Pathogenic,0.922515
+4408,G,C,Pathogenic,0.922515
+4408,G,T,Pathogenic,0.922515
+4409,T,A,Likely pathogenic,0.700112
+4409,T,C,Likely pathogenic,0.700112
+4409,T,G,Likely pathogenic,0.700112
+4410,C,A,Pathogenic,0.844777
+4410,C,G,Pathogenic,0.844777
+4410,C,T,Pathogenic,0.844777
+4411,A,C,Pathogenic,0.792798
+4411,A,G,Pathogenic,0.792798
+4411,A,T,Pathogenic,0.792798
+4412,G,A,Pathogenic,0.916975
+4412,G,C,Pathogenic,0.916975
+4412,G,T,Pathogenic,0.916975
+4413,C,A,Pathogenic,0.762294
+4413,C,G,Pathogenic,0.762294
+4413,C,T,Pathogenic,0.707162
+4414,T,A,Pathogenic,0.668027
+4414,T,C,Pathogenic,0.668027
+4414,T,G,Pathogenic,0.668027
+4415,A,C,Pathogenic,0.773953
+4415,A,G,Pathogenic,0.773953
+4415,A,T,Pathogenic,0.773953
+4416,A,C,Pathogenic,0.715471
+4416,A,G,Pathogenic,0.715471
+4416,A,T,Pathogenic,0.715471
+4417,A,C,Neutral,0.264208
+4417,A,G,Neutral,0.264208
+4417,A,T,Neutral,0.201621
+4418,T,A,Likely neutral,0.389745
+4418,T,C,Neutral,0.320825
+4418,T,G,Likely neutral,0.400149
+4419,A,C,Pathogenic,0.730303
+4419,A,G,Pathogenic,0.730303
+4419,A,T,Pathogenic,0.730303
+4420,A,C,Likely pathogenic,0.552649
+4420,A,G,Likely pathogenic,0.552649
+4420,A,T,Likely pathogenic,0.552649
+4421,G,A,Pathogenic,0.918634
+4421,G,C,Pathogenic,0.918634
+4421,G,T,Pathogenic,0.918634
+4422,C,A,Pathogenic,0.825152
+4422,C,G,Pathogenic,0.825152
+4422,C,T,Pathogenic,0.825152
+4423,T,A,Pathogenic,0.668027
+4423,T,C,Pathogenic,0.668027
+4423,T,G,Pathogenic,0.668027
+4424,A,C,Likely pathogenic,0.628679
+4424,A,G,Likely pathogenic,0.628679
+4424,A,T,Likely pathogenic,0.628679
+4425,T,A,Likely pathogenic,0.55278
+4425,T,C,Likely pathogenic,0.55278
+4425,T,G,Likely pathogenic,0.55278
+4426,C,A,Pathogenic,0.663036
+4426,C,G,Pathogenic,0.663036
+4426,C,T,Likely pathogenic,0.640334
+4427,G,A,Pathogenic,0.654715
+4427,G,C,Pathogenic,0.654715
+4427,G,T,Pathogenic,0.654715
+4428,G,A,Likely pathogenic,0.662798
+4428,G,C,Likely pathogenic,0.662798
+4428,G,T,Likely pathogenic,0.662798
+4429,G,A,Pathogenic,0.671012
+4429,G,C,Pathogenic,0.671012
+4429,G,T,Pathogenic,0.671012
+4430,C,A,Likely pathogenic,0.53996
+4430,C,G,Likely pathogenic,0.53996
+4430,C,T,Likely pathogenic,0.53996
+4431,C,A,Likely neutral,0.472365
+4431,C,G,Likely neutral,0.472365
+4431,C,T,Likely neutral,0.472365
+4432,C,A,Pathogenic,0.690443
+4432,C,G,Pathogenic,0.690443
+4432,C,T,Pathogenic,0.690443
+4433,A,C,Likely neutral,0.498595
+4433,A,G,Likely neutral,0.498595
+4433,A,T,Likely neutral,0.498595
+4434,T,A,Likely pathogenic,0.548361
+4434,T,C,Likely pathogenic,0.548361
+4434,T,G,Likely pathogenic,0.548361
+4435,A,C,Likely neutral,0.492288
+4435,A,G,Likely neutral,0.492288
+4435,A,T,Likely neutral,0.492288
+4436,C,A,Likely pathogenic,0.565533
+4436,C,G,Likely pathogenic,0.565533
+4436,C,T,Likely pathogenic,0.565533
+4437,C,A,Likely pathogenic,0.598646
+4437,C,G,Likely pathogenic,0.598646
+4437,C,T,Likely pathogenic,0.598646
+4438,C,A,Likely pathogenic,0.598646
+4438,C,G,Likely pathogenic,0.598646
+4438,C,T,Likely pathogenic,0.598646
+4439,C,A,Likely pathogenic,0.610936
+4439,C,G,Likely pathogenic,0.610936
+4439,C,T,Likely pathogenic,0.610936
+4440,G,A,Pathogenic,0.887304
+4440,G,C,Pathogenic,0.887304
+4440,G,T,Pathogenic,0.887304
+4441,A,C,Likely pathogenic,0.547549
+4441,A,G,Likely pathogenic,0.547549
+4441,A,T,Likely pathogenic,0.547549
+4442,A,C,Likely pathogenic,0.525229
+4442,A,G,Likely pathogenic,0.525229
+4442,A,T,Likely pathogenic,0.525229
+4443,A,C,Likely pathogenic,0.652921
+4443,A,G,Likely pathogenic,0.652921
+4443,A,T,Likely pathogenic,0.652921
+4444,A,C,Pathogenic,0.67268
+4444,A,G,Likely pathogenic,0.630286
+4444,A,T,Pathogenic,0.67268
+4445,T,A,Likely neutral,0.362784
+4445,T,C,Neutral,0.320363
+4445,T,G,Likely neutral,0.362784
+4446,G,A,Pathogenic,0.905866
+4446,G,C,Pathogenic,0.905866
+4446,G,T,Pathogenic,0.905866
+4447,T,A,Likely neutral,0.422137
+4447,T,C,Likely neutral,0.422137
+4447,T,G,Likely neutral,0.422137
+4448,T,A,Likely neutral,0.363648
+4448,T,C,Neutral,0.359222
+4448,T,G,Likely neutral,0.363648
+4449,G,A,Pathogenic,0.816939
+4449,G,C,Pathogenic,0.816939
+4449,G,T,Pathogenic,0.816939
+4450,G,A,Pathogenic,0.922515
+4450,G,C,Pathogenic,0.922515
+4450,G,T,Pathogenic,0.922515
+4451,T,A,Neutral,0.2483
+4451,T,C,Neutral,0.232936
+4451,T,G,Neutral,0.2483
+4452,T,A,Neutral,0.153923
+4452,T,C,Neutral,0.110407
+4452,T,G,Neutral,0.241129
+4453,A,C,Likely pathogenic,0.608066
+4453,A,G,Likely pathogenic,0.608066
+4453,A,T,Likely pathogenic,0.566102
+4454,T,A,Neutral,0.12881
+4454,T,C,Neutral,0.129075
+4454,T,G,Neutral,0.237262
+4455,A,C,Neutral,0.264562
+4455,A,G,Neutral,0.341734
+4455,A,T,Neutral,0.341734
+4456,C,A,Neutral,0.227891
+4456,C,G,Neutral,0.227891
+4456,C,T,Neutral,0.167176
+4457,C,A,Likely pathogenic,0.598646
+4457,C,G,Likely pathogenic,0.598646
+4457,C,T,Likely pathogenic,0.598646
+4458,C,A,Pathogenic,0.769591
+4458,C,G,Pathogenic,0.769591
+4458,C,T,Pathogenic,0.769591
+4459,T,A,Likely neutral,0.379894
+4459,T,C,Likely neutral,0.391743
+4459,T,G,Likely neutral,0.379894
+4460,T,A,Likely neutral,0.406193
+4460,T,C,Likely neutral,0.406193
+4460,T,G,Likely neutral,0.406193
+4461,C,A,Pathogenic,0.755523
+4461,C,G,Pathogenic,0.755523
+4461,C,T,Pathogenic,0.755523
+4462,C,A,Likely pathogenic,0.598646
+4462,C,G,Likely pathogenic,0.598646
+4462,C,T,Likely pathogenic,0.598646
+4463,C,A,Likely pathogenic,0.610936
+4463,C,G,Likely pathogenic,0.610936
+4463,C,T,Likely pathogenic,0.610936
+4464,G,A,Likely neutral,0.475617
+4464,G,C,Likely neutral,0.475617
+4464,G,T,Likely pathogenic,0.500925
+4465,T,A,Likely pathogenic,0.619131
+4465,T,C,Likely pathogenic,0.619131
+4465,T,G,Likely pathogenic,0.619131
+4466,A,C,Likely pathogenic,0.545183
+4466,A,G,Likely pathogenic,0.545183
+4466,A,T,Likely pathogenic,0.545183
+4467,C,A,Pathogenic,0.781012
+4467,C,G,Pathogenic,0.781012
+4467,C,T,Pathogenic,0.781012
+4468,T,A,Pathogenic,0.668027
+4468,T,C,Pathogenic,0.668027
+4468,T,G,Pathogenic,0.668027
+4469,A,C,Pathogenic,0.711029
+4469,A,G,Pathogenic,0.711029
+4469,A,T,Pathogenic,0.711029
+577,G,A,Pathogenic,0.934854
+577,G,C,Pathogenic,0.934854
+577,G,T,Pathogenic,0.934854
+578,T,A,Likely pathogenic,0.520981
+578,T,C,Likely pathogenic,0.520981
+578,T,G,Likely pathogenic,0.520981
+579,T,A,Pathogenic,0.771386
+579,T,C,Pathogenic,0.771386
+579,T,G,Pathogenic,0.771386
+580,T,A,Neutral,0.200147
+580,T,C,Neutral,0.216831
+580,T,G,Neutral,0.216831
+581,A,C,Pathogenic,0.711124
+581,A,G,Pathogenic,0.682377
+581,A,T,Pathogenic,0.711124
+582,T,A,Likely neutral,0.384262
+582,T,C,Likely neutral,0.464169
+582,T,G,Likely neutral,0.384262
+583,G,A,Pathogenic,0.899313
+583,G,C,Pathogenic,0.899313
+583,G,T,Pathogenic,0.899313
+584,T,A,Likely neutral,0.482597
+584,T,C,Likely neutral,0.482597
+584,T,G,Likely neutral,0.482597
+585,A,C,Likely neutral,0.468085
+585,A,G,Likely neutral,0.468085
+585,A,T,Likely neutral,0.468085
+586,G,A,Pathogenic,0.871132
+586,G,C,Pathogenic,0.871132
+586,G,T,Pathogenic,0.871132
+587,C,A,Pathogenic,0.77927
+587,C,G,Pathogenic,0.77927
+587,C,T,Pathogenic,0.77927
+588,T,A,Likely pathogenic,0.528246
+588,T,C,Likely pathogenic,0.528246
+588,T,G,Likely pathogenic,0.528246
+589,T,A,Pathogenic,0.775779
+589,T,C,Pathogenic,0.775779
+589,T,G,Pathogenic,0.775779
+590,A,C,Likely neutral,0.497037
+590,A,G,Likely neutral,0.497037
+590,A,T,Likely neutral,0.497037
+591,C,A,Neutral,0.148525
+591,C,G,Neutral,0.160122
+591,C,T,Neutral,0.11483
+592,C,A,Neutral,0.170547
+592,C,G,Neutral,0.26048
+592,C,T,Neutral,0.200404
+593,T,A,Neutral,0.159431
+593,T,C,Neutral,0.159431
+593,T,G,Neutral,0.283813
+594,C,A,Neutral,0.115895
+594,C,G,Neutral,0.178229
+594,C,T,Neutral,0.115981
+595,C,A,Neutral,0.141571
+595,C,G,Neutral,0.202378
+595,C,T,Neutral,0.141805
+596,T,A,Neutral,0.163953
+596,T,C,Neutral,0.159895
+596,T,G,Neutral,0.281721
+597,C,A,Neutral,0.346628
+597,C,G,Neutral,0.346628
+597,C,T,Neutral,0.210512
+598,A,C,Likely pathogenic,0.612614
+598,A,G,Likely pathogenic,0.612614
+598,A,T,Likely pathogenic,0.612614
+599,A,C,Pathogenic,0.73642
+599,A,G,Pathogenic,0.73642
+599,A,T,Pathogenic,0.73642
+600,A,C,Likely neutral,0.484202
+600,A,G,Likely neutral,0.484202
+600,A,T,Likely neutral,0.484202
+601,G,A,Pathogenic,0.878552
+601,G,C,Pathogenic,0.878552
+601,G,T,Pathogenic,0.878552
+602,C,A,Pathogenic,0.736641
+602,C,G,Pathogenic,0.736641
+602,C,T,Pathogenic,0.736641
+603,A,C,Likely neutral,0.467843
+603,A,G,Likely neutral,0.420688
+603,A,T,Likely neutral,0.467843
+604,A,C,Pathogenic,0.837565
+604,A,G,Pathogenic,0.837565
+604,A,T,Pathogenic,0.837565
+605,T,A,Neutral,0.156143
+605,T,C,Neutral,0.237883
+605,T,G,Neutral,0.155022
+606,A,C,Neutral,0.246892
+606,A,G,Neutral,0.172644
+606,A,T,Neutral,0.246892
+607,C,A,Pathogenic,0.778582
+607,C,G,Pathogenic,0.778582
+607,C,T,Pathogenic,0.75434
+608,A,C,Likely neutral,0.43567
+608,A,G,Likely neutral,0.276875
+608,A,T,Likely neutral,0.43567
+609,C,A,Likely pathogenic,0.560761
+609,C,G,Likely pathogenic,0.560761
+609,C,T,Likely pathogenic,0.560761
+610,T,A,Likely neutral,0.469432
+610,T,C,Likely neutral,0.469432
+610,T,G,Likely neutral,0.469432
+611,G,A,Pathogenic,0.765256
+611,G,C,Pathogenic,0.765256
+611,G,T,Pathogenic,0.765256
+612,A,C,Likely neutral,0.424786
+612,A,G,Likely neutral,0.424786
+612,A,T,Likely neutral,0.424786
+613,A,C,Likely pathogenic,0.612803
+613,A,G,Likely pathogenic,0.612803
+613,A,T,Likely pathogenic,0.612803
+614,A,C,Likely pathogenic,0.612803
+614,A,G,Likely pathogenic,0.612803
+614,A,T,Likely pathogenic,0.612803
+615,A,C,Likely pathogenic,0.635665
+615,A,G,Likely pathogenic,0.635665
+615,A,T,Likely pathogenic,0.635665
+616,T,A,Neutral,0.181048
+616,T,C,Neutral,0.181048
+616,T,G,Neutral,0.181048
+617,G,A,Pathogenic,0.798948
+617,G,C,Pathogenic,0.837125
+617,G,T,Pathogenic,0.837125
+618,T,A,Neutral,0.364271
+618,T,C,Likely neutral,0.46917
+618,T,G,Neutral,0.364271
+619,T,A,Neutral,0.25076
+619,T,C,Neutral,0.199734
+619,T,G,Neutral,0.25076
+620,T,A,Likely pathogenic,0.602285
+620,T,C,Likely pathogenic,0.630461
+620,T,G,Likely pathogenic,0.602285
+621,A,C,Neutral,0.255186
+621,A,G,Likely neutral,0.345793
+621,A,T,Likely neutral,0.345793
+622,G,A,Pathogenic,0.782111
+622,G,C,Pathogenic,0.782111
+622,G,T,Pathogenic,0.782111
+623,A,C,Pathogenic,0.656308
+623,A,G,Pathogenic,0.656308
+623,A,T,Pathogenic,0.656308
+624,C,A,Neutral,0.252311
+624,C,G,Neutral,0.252311
+624,C,T,Neutral,0.217176
+625,G,A,Likely pathogenic,0.548018
+625,G,C,Likely pathogenic,0.568285
+625,G,T,Likely pathogenic,0.568285
+626,G,A,Neutral,0.200042
+626,G,C,Neutral,0.308243
+626,G,T,Neutral,0.308243
+627,G,A,Neutral,0.225987
+627,G,C,Neutral,0.32629
+627,G,T,Neutral,0.32629
+628,C,A,Neutral,0.272936
+628,C,G,Neutral,0.272936
+628,C,T,Neutral,0.246571
+629,T,A,Neutral,0.192636
+629,T,C,Neutral,0.199467
+629,T,G,Neutral,0.223463
+630,C,A,Neutral,0.223899
+630,C,G,Neutral,0.278085
+630,C,T,Neutral,0.20873
+631,A,C,Neutral,0.102452
+631,A,G,Neutral,0.105082
+631,A,T,Neutral,0.099479
+632,C,A,Neutral,0.222078
+632,C,G,Neutral,0.320369
+632,C,T,Neutral,0.183188
+633,A,C,Neutral,0.107531
+633,A,G,Neutral,0.1084
+633,A,T,Neutral,0.100583
+634,T,A,Neutral,0.160546
+634,T,C,Neutral,0.191668
+634,T,G,Neutral,0.274671
+635,C,A,Neutral,0.21772
+635,C,G,Neutral,0.2159
+635,C,T,Neutral,0.214093
+636,A,C,Neutral,0.184812
+636,A,G,Neutral,0.06472
+636,A,T,Neutral,0.184812
+637,C,A,Likely neutral,0.430003
+637,C,G,Likely neutral,0.430003
+637,C,T,Neutral,0.353329
+638,C,A,Neutral,0.342454
+638,C,G,Neutral,0.342454
+638,C,T,Neutral,0.269293
+639,C,A,Likely pathogenic,0.591149
+639,C,G,Likely pathogenic,0.591149
+639,C,T,Likely pathogenic,0.591149
+640,C,A,Pathogenic,0.80198
+640,C,G,Pathogenic,0.80198
+640,C,T,Pathogenic,0.80198
+641,A,C,Likely pathogenic,0.551394
+641,A,G,Likely pathogenic,0.520698
+641,A,T,Likely pathogenic,0.551394
+642,T,A,Likely pathogenic,0.656983
+642,T,C,Likely pathogenic,0.672594
+642,T,G,Likely pathogenic,0.656983
+643,A,C,Likely pathogenic,0.61923
+643,A,G,Likely pathogenic,0.594441
+643,A,T,Likely pathogenic,0.594441
+644,A,C,Pathogenic,0.771652
+644,A,G,Pathogenic,0.771652
+644,A,T,Pathogenic,0.771652
+645,A,C,Likely pathogenic,0.684357
+645,A,G,Likely pathogenic,0.684357
+645,A,T,Likely pathogenic,0.684357
+646,C,A,Pathogenic,0.804488
+646,C,G,Pathogenic,0.804488
+646,C,T,Pathogenic,0.804488
+647,A,C,Likely pathogenic,0.587687
+647,A,G,Likely pathogenic,0.587687
+647,A,T,Likely pathogenic,0.587687
+16023,C,A,Pathogenic,0.804488
+16023,C,G,Pathogenic,0.804488
+16023,C,T,Pathogenic,0.804488
+16022,A,C,Pathogenic,0.699696
+16022,A,G,Pathogenic,0.699696
+16022,A,T,Pathogenic,0.699696
+16021,G,A,Likely pathogenic,0.550921
+16021,G,C,Likely pathogenic,0.607363
+16021,G,T,Likely pathogenic,0.607363
+16020,A,C,Neutral,0.306886
+16020,A,G,Neutral,0.257388
+16020,A,T,Neutral,0.306886
+16019,G,A,Likely pathogenic,0.558121
+16019,G,C,Likely pathogenic,0.622458
+16019,G,T,Likely pathogenic,0.622458
+16018,A,C,Likely neutral,0.392214
+16018,A,G,Neutral,0.313463
+16018,A,T,Likely neutral,0.392214
+16017,A,C,Likely neutral,0.376419
+16017,A,G,Neutral,0.288671
+16017,A,T,Likely neutral,0.376419
+16016,T,A,Likely neutral,0.432439
+16016,T,C,Likely neutral,0.432439
+16016,T,G,Likely neutral,0.432439
+16015,A,C,Likely neutral,0.468085
+16015,A,G,Likely neutral,0.468085
+16015,A,T,Likely neutral,0.468085
+16014,G,A,Pathogenic,0.821014
+16014,G,C,Pathogenic,0.821014
+16014,G,T,Pathogenic,0.821014
+16013,T,A,Likely pathogenic,0.520981
+16013,T,C,Likely pathogenic,0.520981
+16013,T,G,Likely pathogenic,0.520981
+16012,T,A,Pathogenic,0.771386
+16012,T,C,Pathogenic,0.771386
+16012,T,G,Pathogenic,0.771386
+16011,T,A,Likely pathogenic,0.623991
+16011,T,C,Likely pathogenic,0.623991
+16011,T,G,Likely pathogenic,0.623991
+16010,A,C,Likely pathogenic,0.649738
+16010,A,G,Likely pathogenic,0.649738
+16010,A,T,Likely pathogenic,0.649738
+16009,A,C,Likely pathogenic,0.575804
+16009,A,G,Likely pathogenic,0.575804
+16009,A,T,Likely pathogenic,0.552782
+16008,A,C,Neutral,0.221562
+16008,A,G,Neutral,0.145961
+16008,A,T,Neutral,0.148592
+16007,T,A,Neutral,0.163662
+16007,T,C,Neutral,0.212018
+16007,T,G,Neutral,0.212018
+16006,T,A,Neutral,0.196895
+16006,T,C,Neutral,0.251813
+16006,T,G,Neutral,0.251813
+16005,A,C,Likely neutral,0.432846
+16005,A,G,Likely neutral,0.432846
+16005,A,T,Likely neutral,0.432846
+16004,G,A,Pathogenic,0.788703
+16004,G,C,Pathogenic,0.788703
+16004,G,T,Pathogenic,0.788703
+16003,A,C,Likely pathogenic,0.557795
+16003,A,G,Likely pathogenic,0.557795
+16003,A,T,Likely pathogenic,0.557795
+16002,A,C,Pathogenic,0.837565
+16002,A,G,Pathogenic,0.837565
+16002,A,T,Pathogenic,0.837565
+16001,T,A,Neutral,0.356564
+16001,T,C,Neutral,0.268998
+16001,T,G,Neutral,0.356564
+16000,C,A,Neutral,0.212445
+16000,C,G,Neutral,0.217541
+16000,C,T,Neutral,0.212259
+15999,T,A,Likely neutral,0.392283
+15999,T,C,Likely neutral,0.407874
+15999,T,G,Likely neutral,0.392283
+15998,T,A,Likely neutral,0.48986
+15998,T,C,Likely neutral,0.499201
+15998,T,G,Likely neutral,0.48986
+15997,A,C,Likely neutral,0.407629
+15997,A,G,Neutral,0.311338
+15997,A,T,Likely neutral,0.407629
+15996,G,A,Pathogenic,0.878552
+15996,G,C,Pathogenic,0.878552
+15996,G,T,Pathogenic,0.878552
+15995,C,A,Likely neutral,0.481142
+15995,C,G,Likely neutral,0.481142
+15995,C,T,Likely neutral,0.315391
+15994,T,A,Likely neutral,0.343502
+15994,T,C,Likely neutral,0.343502
+15994,T,G,Likely neutral,0.343502
+15993,T,A,Likely pathogenic,0.527095
+15993,T,C,Likely pathogenic,0.527095
+15993,T,G,Likely pathogenic,0.527095
+15992,T,A,Likely neutral,0.323294
+15992,T,C,Likely neutral,0.323294
+15992,T,G,Likely neutral,0.323294
+15991,G,A,Likely pathogenic,0.558385
+15991,G,C,Likely pathogenic,0.558385
+15991,G,T,Likely pathogenic,0.558385
+15990,G,A,Likely pathogenic,0.515245
+15990,G,C,Likely pathogenic,0.515245
+15990,G,T,Likely pathogenic,0.515245
+15989,G,A,Pathogenic,0.694097
+15989,G,C,Pathogenic,0.694097
+15989,G,T,Pathogenic,0.694097
+15988,T,A,Neutral,0.239421
+15988,T,C,Neutral,0.307536
+15988,T,G,Neutral,0.211899
+15987,G,A,Neutral,0.295025
+15987,G,C,Likely neutral,0.428575
+15987,G,T,Likely neutral,0.428575
+15986,C,A,Neutral,0.345713
+15986,C,G,Neutral,0.345713
+15986,C,T,Likely neutral,0.285897
+15985,T,A,Likely pathogenic,0.582463
+15985,T,C,Likely pathogenic,0.543018
+15985,T,G,Likely pathogenic,0.582463
+15984,A,C,Likely pathogenic,0.524324
+15984,A,G,Likely pathogenic,0.514265
+15984,A,T,Likely pathogenic,0.524324
+15983,A,C,Likely neutral,0.421663
+15983,A,G,Neutral,0.317868
+15983,A,T,Likely neutral,0.421663
+15982,T,A,Neutral,0.133719
+15982,T,C,Neutral,0.128098
+15982,T,G,Neutral,0.153302
+15981,G,A,Likely neutral,0.476827
+15981,G,C,Likely pathogenic,0.526243
+15981,G,T,Likely pathogenic,0.526243
+15980,G,A,Pathogenic,0.735345
+15980,G,C,Pathogenic,0.735345
+15980,G,T,Pathogenic,0.735345
+15979,T,A,Likely neutral,0.455316
+15979,T,C,Likely neutral,0.396854
+15979,T,G,Likely neutral,0.455316
+15978,G,A,Neutral,0.267266
+15978,G,C,Likely neutral,0.387192
+15978,G,T,Likely neutral,0.387192
+15977,G,A,Neutral,0.305245
+15977,G,C,Likely neutral,0.415014
+15977,G,T,Likely neutral,0.415014
+15976,A,C,Neutral,0.295544
+15976,A,G,Neutral,0.197798
+15976,A,T,Neutral,0.295544
+15975,G,A,Pathogenic,0.759917
+15975,G,C,Pathogenic,0.766298
+15975,G,T,Pathogenic,0.766298
+15974,T,A,Neutral,0.142166
+15974,T,C,Neutral,0.151319
+15974,T,G,Neutral,0.142166
+15973,T,A,Neutral,0.125114
+15973,T,C,Neutral,0.138998
+15973,T,G,Neutral,0.138998
+15972,A,C,Neutral,0.207789
+15972,A,G,Neutral,0.082291
+15972,A,T,Neutral,0.082592
+15971,A,C,Neutral,0.229296
+15971,A,G,Neutral,0.189671
+15971,A,T,Neutral,0.206372
+15970,A,C,Neutral,0.203956
+15970,A,G,Neutral,0.159716
+15970,A,T,Neutral,0.153284
+15969,G,A,Neutral,0.299221
+15969,G,C,Likely neutral,0.41347
+15969,G,T,Neutral,0.296352
+15968,A,C,Neutral,0.18779
+15968,A,G,Neutral,0.132339
+15968,A,T,Neutral,0.145471
+15967,C,A,Likely neutral,0.487125
+15967,C,G,Likely pathogenic,0.517278
+15967,C,T,Likely pathogenic,0.501139
+15966,T,A,Neutral,0.361244
+15966,T,C,Likely neutral,0.363815
+15966,T,G,Neutral,0.361244
+15965,T,A,Neutral,0.333901
+15965,T,C,Neutral,0.196999
+15965,T,G,Neutral,0.333901
+15964,T,A,Neutral,0.247666
+15964,T,C,Neutral,0.162178
+15964,T,G,Neutral,0.247666
+15963,T,A,Neutral,0.350776
+15963,T,C,Neutral,0.281494
+15963,T,G,Neutral,0.350776
+15962,T,A,Likely pathogenic,0.50065
+15962,T,C,Likely pathogenic,0.50065
+15962,T,G,Likely pathogenic,0.50065
+15961,C,A,Likely pathogenic,0.515278
+15961,C,G,Likely pathogenic,0.515278
+15961,C,T,Likely neutral,0.474966
+15960,T,A,Neutral,0.365159
+15960,T,C,Neutral,0.283934
+15960,T,G,Neutral,0.365159
+15959,C,A,Likely pathogenic,0.520887
+15959,C,G,Likely pathogenic,0.520887
+15959,C,T,Likely neutral,0.498547
+15958,T,A,Likely pathogenic,0.618852
+15958,T,C,Likely pathogenic,0.618852
+15958,T,G,Likely pathogenic,0.618852
+15957,G,A,Pathogenic,0.812523
+15957,G,C,Pathogenic,0.812523
+15957,G,T,Pathogenic,0.741802
+15956,A,C,Likely neutral,0.492092
+15956,A,G,Likely neutral,0.450289
+15956,A,T,Likely neutral,0.492092
+12207,G,A,Neutral,0.238865
+12207,G,C,Neutral,0.364151
+12207,G,T,Neutral,0.364151
+12208,A,C,Likely neutral,0.482572
+12208,A,G,Likely neutral,0.405666
+12208,A,T,Likely neutral,0.482572
+12209,G,A,Pathogenic,0.894294
+12209,G,C,Pathogenic,0.894294
+12209,G,T,Pathogenic,0.894294
+12210,A,C,Likely neutral,0.393671
+12210,A,G,Likely neutral,0.32814
+12210,A,T,Likely neutral,0.393671
+12211,A,C,Pathogenic,0.771652
+12211,A,G,Pathogenic,0.771652
+12211,A,T,Pathogenic,0.771652
+12212,A,C,Likely neutral,0.372555
+12212,A,G,Likely neutral,0.372555
+12212,A,T,Neutral,0.314936
+12213,G,A,Likely pathogenic,0.5389
+12213,G,C,Pathogenic,0.660855
+12213,G,T,Pathogenic,0.660855
+12214,C,A,Neutral,0.131326
+12214,C,G,Neutral,0.252503
+12214,C,T,Neutral,0.155197
+12215,T,A,Neutral,0.173214
+12215,T,C,Neutral,0.173538
+12215,T,G,Neutral,0.286658
+12216,C,A,Neutral,0.261142
+12216,C,G,Neutral,0.283541
+12216,C,T,Neutral,0.241949
+12217,A,C,Neutral,0.158749
+12217,A,G,Neutral,0.134276
+12217,A,T,Neutral,0.158749
+12218,C,A,Likely pathogenic,0.563629
+12218,C,G,Likely pathogenic,0.591088
+12218,C,T,Likely pathogenic,0.522243
+12219,A,C,Likely pathogenic,0.60524
+12219,A,G,Likely pathogenic,0.60524
+12219,A,T,Likely pathogenic,0.516085
+12220,A,C,Neutral,0.305971
+12220,A,G,Neutral,0.255746
+12220,A,T,Neutral,0.255746
+12221,G,A,Pathogenic,0.894294
+12221,G,C,Pathogenic,0.894294
+12221,G,T,Pathogenic,0.894294
+12222,A,C,Likely neutral,0.393671
+12222,A,G,Likely neutral,0.32814
+12222,A,T,Likely neutral,0.393671
+12223,A,C,Likely pathogenic,0.508148
+12223,A,G,Likely neutral,0.430503
+12223,A,T,Likely pathogenic,0.508148
+12224,C,A,Likely neutral,0.423069
+12224,C,G,Likely neutral,0.423069
+12224,C,T,Likely neutral,0.349899
+12225,T,A,Likely neutral,0.436455
+12225,T,C,Likely neutral,0.421519
+12225,T,G,Likely neutral,0.436455
+12226,G,A,Likely pathogenic,0.508705
+12226,G,C,Likely pathogenic,0.508705
+12226,G,T,Likely pathogenic,0.508705
+12227,C,A,Likely pathogenic,0.619777
+12227,C,G,Likely pathogenic,0.619777
+12227,C,T,Likely pathogenic,0.619777
+12228,T,A,Likely neutral,0.487859
+12228,T,C,Likely neutral,0.487859
+12228,T,G,Likely neutral,0.487859
+12229,A,C,Likely pathogenic,0.613322
+12229,A,G,Likely pathogenic,0.613322
+12229,A,T,Likely pathogenic,0.613322
+12230,A,C,Likely pathogenic,0.632571
+12230,A,G,Likely pathogenic,0.632571
+12230,A,T,Likely pathogenic,0.632571
+12231,C,A,Neutral,0.360071
+12231,C,G,Neutral,0.360071
+12231,C,T,Likely neutral,0.330221
+12232,T,A,Likely pathogenic,0.532339
+12232,T,C,Likely neutral,0.422117
+12232,T,G,Likely pathogenic,0.532339
+12233,C,A,Pathogenic,0.88991
+12233,C,G,Pathogenic,0.88991
+12233,C,T,Pathogenic,0.88991
+12234,A,C,Neutral,0.11384
+12234,A,G,Neutral,0.136307
+12234,A,T,Neutral,0.117237
+12235,T,A,Likely neutral,0.371949
+12235,T,C,Neutral,0.309559
+12235,T,G,Likely neutral,0.371949
+12236,G,A,Neutral,0.087948
+12236,G,C,Neutral,0.100071
+12236,G,T,Neutral,0.163801
+12237,C,A,Neutral,0.182701
+12237,C,G,Neutral,0.280952
+12237,C,T,Neutral,0.185733
+12238,C,A,Neutral,0.126175
+12238,C,G,Neutral,0.242866
+12238,C,T,Neutral,0.134527
+12239,C,A,Neutral,0.127735
+12239,C,G,Neutral,0.24343
+12239,C,T,Neutral,0.138405
+12240,C,A,Likely pathogenic,0.560995
+12240,C,G,Likely pathogenic,0.560995
+12240,C,T,Likely pathogenic,0.535207
+12241,C,A,Pathogenic,0.732438
+12241,C,G,Pathogenic,0.732438
+12241,C,T,Pathogenic,0.684383
+12242,A,C,Neutral,0.242218
+12242,A,G,Neutral,0.16925
+12242,A,T,Neutral,0.242218
+12243,T,A,Neutral,0.322339
+12243,T,C,Likely neutral,0.326522
+12243,T,G,Likely neutral,0.360093
+12244,G,A,Likely neutral,0.362426
+12244,G,C,Likely neutral,0.433774
+12244,G,T,Likely neutral,0.433774
+12245,T,A,Neutral,0.152705
+12245,T,C,Neutral,0.15178
+12245,T,G,Neutral,0.275343
+12246,C,A,Neutral,0.177953
+12246,C,G,Neutral,0.223301
+12246,C,T,Neutral,0.186961
+12247,T,A,Likely neutral,0.487859
+12247,T,C,Likely neutral,0.487859
+12247,T,G,Likely neutral,0.487859
+12248,A,C,Likely pathogenic,0.649738
+12248,A,G,Likely pathogenic,0.649738
+12248,A,T,Likely pathogenic,0.649738
+12249,A,C,Likely pathogenic,0.533011
+12249,A,G,Likely pathogenic,0.601547
+12249,A,T,Likely pathogenic,0.601547
+12250,C,A,Neutral,0.181582
+12250,C,G,Neutral,0.284573
+12250,C,T,Neutral,0.15319
+12251,A,C,Likely neutral,0.333518
+12251,A,G,Likely neutral,0.42701
+12251,A,T,Likely neutral,0.42701
+12252,A,C,Neutral,0.12811
+12252,A,G,Neutral,0.141112
+12252,A,T,Neutral,0.12811
+12253,C,A,Likely neutral,0.357078
+12253,C,G,Likely neutral,0.426851
+12253,C,T,Likely neutral,0.345529
+12254,A,C,Likely neutral,0.43777
+12254,A,G,Likely neutral,0.410261
+12254,A,T,Likely neutral,0.467216
+12255,T,A,Neutral,0.272806
+12255,T,C,Neutral,0.252193
+12255,T,G,Neutral,0.272806
+12256,G,A,Likely pathogenic,0.632613
+12256,G,C,Pathogenic,0.683754
+12256,G,T,Pathogenic,0.683754
+12257,G,A,Likely pathogenic,0.564315
+12257,G,C,Likely pathogenic,0.596014
+12257,G,T,Likely pathogenic,0.596014
+12258,C,A,Likely pathogenic,0.680846
+12258,C,G,Likely pathogenic,0.680846
+12258,C,T,Likely pathogenic,0.565164
+12259,T,A,Likely pathogenic,0.520496
+12259,T,C,Likely pathogenic,0.506145
+12259,T,G,Likely pathogenic,0.520496
+12260,T,A,Likely neutral,0.457893
+12260,T,C,Likely neutral,0.457893
+12260,T,G,Likely pathogenic,0.528451
+12261,T,A,Likely neutral,0.408271
+12261,T,C,Neutral,0.296156
+12261,T,G,Likely neutral,0.408271
+12262,C,A,Pathogenic,0.872772
+12262,C,G,Pathogenic,0.872772
+12262,C,T,Pathogenic,0.872772
+12263,T,A,Likely pathogenic,0.535079
+12263,T,C,Likely neutral,0.414109
+12263,T,G,Likely pathogenic,0.535079
+12264,C,A,Likely neutral,0.445438
+12264,C,G,Likely neutral,0.445438
+12264,C,T,Likely neutral,0.345831
+12265,A,C,Likely neutral,0.469398
+12265,A,G,Likely neutral,0.396023
+12265,A,T,Likely neutral,0.469398
+7514,G,A,Likely neutral,0.358036
+7514,G,C,Likely neutral,0.471184
+7514,G,T,Likely neutral,0.471184
+7513,A,C,Likely neutral,0.363778
+7513,A,G,Neutral,0.27138
+7513,A,T,Likely neutral,0.363778
+7512,A,C,Likely neutral,0.427673
+7512,A,G,Likely neutral,0.427217
+7512,A,T,Likely neutral,0.427673
+7511,A,C,Pathogenic,0.771652
+7511,A,G,Pathogenic,0.771652
+7511,A,T,Pathogenic,0.771652
+7510,A,C,Likely pathogenic,0.650529
+7510,A,G,Likely pathogenic,0.567912
+7510,A,T,Likely pathogenic,0.650529
+7509,A,C,Neutral,0.327324
+7509,A,G,Neutral,0.249866
+7509,A,T,Neutral,0.327324
+7508,G,A,Pathogenic,0.879617
+7508,G,C,Pathogenic,0.897808
+7508,G,T,Pathogenic,0.897808
+7507,T,A,Likely neutral,0.399471
+7507,T,C,Likely neutral,0.488581
+7507,T,G,Likely neutral,0.488581
+7506,C,A,Pathogenic,0.645334
+7506,C,G,Pathogenic,0.645334
+7506,C,T,Likely pathogenic,0.587697
+7505,A,C,Likely pathogenic,0.525514
+7505,A,G,Likely neutral,0.464196
+7505,A,T,Likely pathogenic,0.525514
+7504,T,A,Neutral,0.181048
+7504,T,C,Neutral,0.181048
+7504,T,G,Neutral,0.181048
+7503,G,A,Likely neutral,0.438424
+7503,G,C,Likely neutral,0.429994
+7503,G,T,Likely neutral,0.429994
+7502,G,A,Neutral,0.111081
+7502,G,C,Neutral,0.258936
+7502,G,T,Neutral,0.121719
+7501,A,C,Neutral,0.279432
+7501,A,G,Neutral,0.154138
+7501,A,T,Neutral,0.152683
+7500,G,A,Likely neutral,0.467531
+7500,G,C,Likely neutral,0.467531
+7500,G,T,Likely neutral,0.467531
+7499,G,A,Likely neutral,0.463125
+7499,G,C,Likely neutral,0.463125
+7499,G,T,Likely neutral,0.437557
+7498,C,A,Neutral,0.094459
+7498,C,G,Neutral,0.195308
+7498,C,T,Neutral,0.116729
+7497,C,A,Likely pathogenic,0.507597
+7497,C,G,Likely pathogenic,0.507597
+7497,C,T,Likely pathogenic,0.57753
+7496,A,C,Likely pathogenic,0.600502
+7496,A,G,Likely pathogenic,0.568997
+7496,A,T,Likely pathogenic,0.600502
+7495,T,A,Likely neutral,0.371533
+7495,T,C,Likely neutral,0.402134
+7495,T,G,Likely neutral,0.371533
+7494,G,A,Likely neutral,0.383438
+7494,G,C,Likely neutral,0.487427
+7494,G,T,Likely neutral,0.487427
+7493,G,A,Neutral,0.134482
+7493,G,C,Neutral,0.156925
+7493,G,T,Neutral,0.156925
+7492,G,A,Neutral,0.158634
+7492,G,C,Neutral,0.253827
+7492,G,T,Neutral,0.157042
+7491,G,A,Likely pathogenic,0.509586
+7491,G,C,Likely pathogenic,0.601204
+7491,G,T,Likely pathogenic,0.601204
+7490,T,A,Neutral,0.237657
+7490,T,C,Neutral,0.22979
+7490,T,G,Neutral,0.237657
+7489,T,A,Likely neutral,0.456958
+7489,T,C,Likely neutral,0.456958
+7489,T,G,Likely neutral,0.456958
+7488,G,A,Pathogenic,0.788893
+7488,G,C,Pathogenic,0.788893
+7488,G,T,Pathogenic,0.788893
+7487,G,A,Likely pathogenic,0.609572
+7487,G,C,Likely pathogenic,0.609572
+7487,G,T,Likely pathogenic,0.609572
+7486,C,A,Likely pathogenic,0.619777
+7486,C,G,Likely pathogenic,0.619777
+7486,C,T,Likely pathogenic,0.619777
+7485,T,A,Likely neutral,0.343502
+7485,T,C,Likely neutral,0.343502
+7485,T,G,Likely neutral,0.343502
+7484,T,A,Likely neutral,0.323294
+7484,T,C,Likely neutral,0.323294
+7484,T,G,Likely neutral,0.323294
+7483,G,A,Pathogenic,0.765256
+7483,G,C,Pathogenic,0.765256
+7483,G,T,Pathogenic,0.765256
+7482,A,C,Likely neutral,0.424786
+7482,A,G,Likely neutral,0.424786
+7482,A,T,Likely neutral,0.424786
+7481,A,C,Likely pathogenic,0.612803
+7481,A,G,Likely pathogenic,0.612803
+7481,A,T,Likely pathogenic,0.612803
+7480,A,C,Likely pathogenic,0.632571
+7480,A,G,Likely pathogenic,0.632571
+7480,A,T,Likely pathogenic,0.632571
+7479,C,A,Pathogenic,0.674612
+7479,C,G,Pathogenic,0.674612
+7479,C,T,Pathogenic,0.674612
+7478,C,A,Likely pathogenic,0.539477
+7478,C,G,Likely pathogenic,0.539477
+7478,C,T,Likely neutral,0.376789
+7477,A,C,Likely pathogenic,0.62625
+7477,A,G,Likely pathogenic,0.579156
+7477,A,T,Likely pathogenic,0.62625
+7476,G,A,Neutral,0.24235
+7476,G,C,Likely neutral,0.377072
+7476,G,T,Neutral,0.319611
+7475,C,A,Likely neutral,0.413198
+7475,C,G,Likely neutral,0.413198
+7475,C,T,Likely neutral,0.438658
+7474,T,A,Likely neutral,0.374825
+7474,T,C,Likely neutral,0.326299
+7474,T,G,Likely neutral,0.360619
+7473,T,A,Neutral,0.307664
+7473,T,C,Likely neutral,0.37221
+7473,T,G,Likely neutral,0.37221
+7472,T,A,Likely neutral,0.288846
+7472,T,C,Likely neutral,0.245297
+7472,T,G,Likely neutral,0.391973
+7471,G,A,Neutral,0.15503
+7471,G,C,Neutral,0.218392
+7471,G,T,Neutral,0.108031
+7470,G,A,Likely pathogenic,0.630322
+7470,G,C,Likely pathogenic,0.630322
+7470,G,T,Likely pathogenic,0.630322
+7469,G,A,Neutral,0.21291
+7469,G,C,Neutral,0.334834
+7469,G,T,Neutral,0.334834
+7468,G,A,Neutral,0.273838
+7468,G,C,Neutral,0.350133
+7468,G,T,Neutral,0.350133
+7467,G,A,Likely neutral,0.485138
+7467,G,C,Likely pathogenic,0.550972
+7467,G,T,Likely pathogenic,0.550972
+7466,G,A,Pathogenic,0.90568
+7466,G,C,Pathogenic,0.90568
+7466,G,T,Pathogenic,0.90568
+7465,T,A,Likely neutral,0.404409
+7465,T,C,Likely neutral,0.404409
+7465,T,G,Likely neutral,0.404409
+7464,T,A,Likely neutral,0.429305
+7464,T,C,Likely neutral,0.429305
+7464,T,G,Likely neutral,0.429305
+7463,C,A,Likely pathogenic,0.538927
+7463,C,G,Likely pathogenic,0.538927
+7463,C,T,Likely pathogenic,0.538927
+7462,G,A,Neutral,0.333989
+7462,G,C,Likely neutral,0.470235
+7462,G,T,Likely neutral,0.470235
+7461,A,C,Likely pathogenic,0.612609
+7461,A,G,Likely pathogenic,0.612609
+7461,A,T,Likely pathogenic,0.612609
+7460,T,A,Neutral,0.203413
+7460,T,C,Neutral,0.178472
+7460,T,G,Neutral,0.219961
+7459,T,A,Likely neutral,0.375079
+7459,T,C,Likely neutral,0.375079
+7459,T,G,Likely neutral,0.375079
+7458,C,A,Pathogenic,0.71995
+7458,C,G,Pathogenic,0.71995
+7458,C,T,Pathogenic,0.71995
+7457,C,A,Pathogenic,0.696834
+7457,C,G,Pathogenic,0.696834
+7457,C,T,Likely pathogenic,0.617531
+7456,T,A,Neutral,0.304551
+7456,T,C,Neutral,0.248974
+7456,T,G,Neutral,0.304551
+7455,T,A,Likely neutral,0.410004
+7455,T,C,Likely neutral,0.400273
+7455,T,G,Likely neutral,0.410004
+7454,C,A,Pathogenic,0.71995
+7454,C,G,Pathogenic,0.71995
+7454,C,T,Pathogenic,0.71995
+7453,C,A,Pathogenic,0.773437
+7453,C,G,Pathogenic,0.773437
+7453,C,T,Pathogenic,0.773437
+7452,T,A,Likely pathogenic,0.528246
+7452,T,C,Likely pathogenic,0.528246
+7452,T,G,Likely pathogenic,0.528246
+7451,T,A,Pathogenic,0.71886
+7451,T,C,Pathogenic,0.698648
+7451,T,G,Pathogenic,0.71886
+7450,T,A,Pathogenic,0.771386
+7450,T,C,Pathogenic,0.771386
+7450,T,G,Pathogenic,0.771386
+7449,T,A,Neutral,0.344527
+7449,T,C,Neutral,0.280758
+7449,T,G,Neutral,0.344527
+7448,T,A,Pathogenic,0.771386
+7448,T,C,Pathogenic,0.771386
+7448,T,G,Pathogenic,0.771386
+7447,T,A,Likely neutral,0.349145
+7447,T,C,Neutral,0.216578
+7447,T,G,Likely neutral,0.349145
+7446,G,A,Likely neutral,0.362193
+7446,G,C,Likely neutral,0.448222
+7446,G,T,Likely neutral,0.448222
+15888,G,A,Pathogenic,0.899313
+15888,G,C,Pathogenic,0.899313
+15888,G,T,Pathogenic,0.899313
+15889,T,A,Neutral,0.307251
+15889,T,C,Neutral,0.229341
+15889,T,G,Neutral,0.307251
+15890,C,A,Likely pathogenic,0.638697
+15890,C,G,Likely pathogenic,0.638697
+15890,C,T,Likely pathogenic,0.60705
+15891,C,A,Likely pathogenic,0.542213
+15891,C,G,Likely pathogenic,0.542213
+15891,C,T,Likely neutral,0.418548
+15892,T,A,Neutral,0.300453
+15892,T,C,Neutral,0.318162
+15892,T,G,Neutral,0.317873
+15893,T,A,Neutral,0.14236
+15893,T,C,Neutral,0.146551
+15893,T,G,Neutral,0.145422
+15894,G,A,Likely pathogenic,0.569774
+15894,G,C,Pathogenic,0.652696
+15894,G,T,Pathogenic,0.652696
+15895,T,A,Likely neutral,0.482597
+15895,T,C,Likely neutral,0.482597
+15895,T,G,Likely neutral,0.482597
+15896,A,C,Likely neutral,0.468085
+15896,A,G,Likely neutral,0.468085
+15896,A,T,Likely neutral,0.468085
+15897,G,A,Pathogenic,0.886803
+15897,G,C,Pathogenic,0.907099
+15897,G,T,Pathogenic,0.907099
+15898,T,A,Likely pathogenic,0.561343
+15898,T,C,Likely pathogenic,0.561343
+15898,T,G,Likely pathogenic,0.561343
+15899,A,C,Pathogenic,0.78682
+15899,A,G,Pathogenic,0.78682
+15899,A,T,Pathogenic,0.78682
+15900,T,A,Likely pathogenic,0.526134
+15900,T,C,Likely neutral,0.465269
+15900,T,G,Likely pathogenic,0.526134
+15901,A,C,Likely pathogenic,0.649738
+15901,A,G,Likely pathogenic,0.649738
+15901,A,T,Likely pathogenic,0.649738
+15902,A,C,Likely neutral,0.427934
+15902,A,G,Likely neutral,0.416528
+15902,A,T,Likely neutral,0.427934
+15903,A,C,Neutral,0.107571
+15903,A,G,Neutral,0.112074
+15903,A,T,Likely neutral,0.309719
+15904,C,A,Neutral,0.225513
+15904,C,G,Neutral,0.290941
+15904,C,T,Neutral,0.189618
+15905,T,A,Neutral,0.118337
+15905,T,C,Neutral,0.122583
+15905,T,G,Neutral,0.224411
+15906,A,C,Likely neutral,0.4657
+15906,A,G,Likely neutral,0.4657
+15906,A,T,Likely neutral,0.4657
+15907,A,C,Neutral,0.340803
+15907,A,G,Neutral,0.232561
+15907,A,T,Neutral,0.24177
+15908,T,A,Likely pathogenic,0.500021
+15908,T,C,Likely pathogenic,0.500021
+15908,T,G,Likely pathogenic,0.500021
+15909,A,C,Likely neutral,0.482315
+15909,A,G,Likely neutral,0.482315
+15909,A,T,Likely neutral,0.482315
+15910,C,A,Pathogenic,0.650833
+15910,C,G,Pathogenic,0.650833
+15910,C,T,Likely pathogenic,0.550419
+15911,A,C,Neutral,0.105751
+15911,A,G,Neutral,0.129018
+15911,A,T,Neutral,0.105655
+15912,C,A,Likely neutral,0.418381
+15912,C,G,Likely neutral,0.418381
+15912,C,T,Neutral,0.298175
+15913,C,A,Neutral,0.287904
+15913,C,G,Neutral,0.343792
+15913,C,T,Neutral,0.277398
+15914,A,C,Neutral,0.350651
+15914,A,G,Neutral,0.360233
+15914,A,T,Neutral,0.350651
+15915,G,A,Pathogenic,0.934854
+15915,G,C,Pathogenic,0.934854
+15915,G,T,Pathogenic,0.934854
+15916,T,A,Likely neutral,0.482502
+15916,T,C,Likely neutral,0.333705
+15916,T,G,Likely neutral,0.482502
+15917,C,A,Pathogenic,0.699895
+15917,C,G,Pathogenic,0.699895
+15917,C,T,Pathogenic,0.699895
+15918,T,A,Likely neutral,0.343502
+15918,T,C,Likely neutral,0.343502
+15918,T,G,Likely neutral,0.343502
+15919,T,A,Likely neutral,0.323294
+15919,T,C,Likely neutral,0.323294
+15919,T,G,Likely neutral,0.323294
+15920,G,A,Pathogenic,0.71321
+15920,G,C,Pathogenic,0.71321
+15920,G,T,Pathogenic,0.71321
+15921,T,A,Likely neutral,0.392006
+15921,T,C,Likely neutral,0.392006
+15921,T,G,Likely neutral,0.392006
+15922,A,C,Likely pathogenic,0.613322
+15922,A,G,Likely pathogenic,0.613322
+15922,A,T,Likely pathogenic,0.613322
+15923,A,C,Likely pathogenic,0.612803
+15923,A,G,Likely pathogenic,0.612803
+15923,A,T,Likely pathogenic,0.612803
+15924,A,C,Likely neutral,0.336399
+15924,A,G,Likely neutral,0.284635
+15924,A,T,Likely neutral,0.456602
+15925,C,A,Pathogenic,0.674612
+15925,C,G,Pathogenic,0.674612
+15925,C,T,Pathogenic,0.674612
+15926,C,A,Neutral,0.314404
+15926,C,G,Neutral,0.314404
+15926,C,T,Neutral,0.235253
+15927,G,A,Neutral,0.112642
+15927,G,C,Neutral,0.21902
+15927,G,T,Neutral,0.115085
+15928,G,A,Neutral,0.192205
+15928,G,C,Neutral,0.342514
+15928,G,T,Neutral,0.342514
+15929,A,C,Neutral,0.340695
+15929,A,G,Neutral,0.340695
+15929,A,T,Neutral,0.340695
+15930,G,A,Likely pathogenic,0.544642
+15930,G,C,Likely pathogenic,0.521249
+15930,G,T,Likely pathogenic,0.556957
+15931,A,C,Likely pathogenic,0.515854
+15931,A,G,Likely pathogenic,0.558998
+15931,A,T,Likely pathogenic,0.558998
+15932,T,A,Neutral,0.19673
+15932,T,C,Neutral,0.178202
+15932,T,G,Neutral,0.251819
+15933,G,A,Pathogenic,0.917206
+15933,G,C,Pathogenic,0.917206
+15933,G,T,Pathogenic,0.917206
+15934,A,C,Neutral,0.248284
+15934,A,G,Neutral,0.17629
+15934,A,T,Neutral,0.248284
+15935,A,C,Likely pathogenic,0.536265
+15935,A,G,Likely neutral,0.453959
+15935,A,T,Likely pathogenic,0.536265
+15936,A,C,Likely neutral,0.353345
+15936,A,G,Likely neutral,0.37957
+15936,A,T,Likely neutral,0.403725
+15937,A,C,Neutral,0.193993
+15937,A,G,Neutral,0.167704
+15937,A,T,Neutral,0.167704
+15938,C,A,Neutral,0.105726
+15938,C,G,Neutral,0.111076
+15938,C,T,Neutral,0.108191
+15939,C,A,Neutral,0.143245
+15939,C,G,Neutral,0.147112
+15939,C,T,Neutral,0.139607
+15940,T,A,Neutral,0.124797
+15940,T,C,Neutral,0.141223
+15940,T,G,Neutral,0.198859
+15941,T,A,Neutral,0.213742
+15941,T,C,Neutral,0.215017
+15941,T,G,Neutral,0.279332
+15942,T,A,Neutral,0.255196
+15942,T,C,Likely neutral,0.273136
+15942,T,G,Neutral,0.322178
+15943,T,A,Likely neutral,0.457893
+15943,T,C,Likely neutral,0.457893
+15943,T,G,Likely pathogenic,0.528451
+15944,T,A,Neutral,0.299089
+15944,T,C,Neutral,0.215342
+15944,T,G,Neutral,0.299089
+15945,C,A,Pathogenic,0.71995
+15945,C,G,Pathogenic,0.71995
+15945,C,T,Pathogenic,0.71995
+15946,C,A,Likely pathogenic,0.529361
+15946,C,G,Likely pathogenic,0.529361
+15946,C,T,Likely neutral,0.438712
+15947,A,C,Neutral,0.173185
+15947,A,G,Neutral,0.279403
+15947,A,T,Neutral,0.182028
+15948,A,C,Neutral,0.25759
+15948,A,G,Neutral,0.222027
+15948,A,T,Neutral,0.25759
+15949,G,A,Likely neutral,0.324313
+15949,G,C,Likely neutral,0.393341
+15949,G,T,Likely neutral,0.393341
+15950,G,A,Neutral,0.231938
+15950,G,C,Likely neutral,0.438175
+15950,G,T,Likely neutral,0.438175
+15951,A,C,Neutral,0.269853
+15951,A,G,Neutral,0.099395
+15951,A,T,Neutral,0.269853
+15952,C,A,Pathogenic,0.75682
+15952,C,G,Pathogenic,0.75682
+15952,C,T,Pathogenic,0.702962
+15953,A,C,Likely neutral,0.411876
+15953,A,G,Likely neutral,0.471841
+15953,A,T,Likely neutral,0.471841
+5512,A,C,Likely pathogenic,0.597953
+5512,A,G,Likely pathogenic,0.597953
+5512,A,T,Likely pathogenic,0.597953
+5513,G,A,Pathogenic,0.922413
+5513,G,C,Pathogenic,0.922413
+5513,G,T,Pathogenic,0.922413
+5514,A,C,Likely neutral,0.406457
+5514,A,G,Likely neutral,0.367531
+5514,A,T,Likely neutral,0.406457
+5515,A,C,Likely pathogenic,0.597211
+5515,A,G,Likely neutral,0.470197
+5515,A,T,Likely pathogenic,0.597211
+5516,A,C,Likely neutral,0.378625
+5516,A,G,Neutral,0.254524
+5516,A,T,Likely neutral,0.378625
+5517,T,A,Likely neutral,0.453193
+5517,T,C,Likely neutral,0.453193
+5517,T,G,Likely neutral,0.493033
+5518,T,A,Pathogenic,0.79398
+5518,T,C,Pathogenic,0.79398
+5518,T,G,Pathogenic,0.79398
+5519,T,A,Pathogenic,0.687236
+5519,T,C,Pathogenic,0.687236
+5519,T,G,Pathogenic,0.687236
+5520,A,C,Likely pathogenic,0.551845
+5520,A,G,Likely pathogenic,0.551845
+5520,A,T,Likely pathogenic,0.551845
+5521,G,A,Pathogenic,0.741292
+5521,G,C,Pathogenic,0.741292
+5521,G,T,Pathogenic,0.741292
+5522,G,A,Pathogenic,0.922515
+5522,G,C,Pathogenic,0.922515
+5522,G,T,Pathogenic,0.922515
+5523,T,A,Neutral,0.186119
+5523,T,C,Neutral,0.169426
+5523,T,G,Neutral,0.209366
+5524,T,A,Pathogenic,0.688287
+5524,T,C,Pathogenic,0.688287
+5524,T,G,Pathogenic,0.688287
+5525,A,C,Pathogenic,0.773953
+5525,A,G,Pathogenic,0.773953
+5525,A,T,Pathogenic,0.773953
+5526,A,C,Neutral,0.196869
+5526,A,G,Neutral,0.218266
+5526,A,T,Neutral,0.164174
+5527,A,C,Neutral,0.161273
+5527,A,G,Neutral,0.137588
+5527,A,T,Neutral,0.161273
+5528,T,A,Neutral,0.124652
+5528,T,C,Neutral,0.136198
+5528,T,G,Neutral,0.226665
+5529,A,C,Neutral,0.097234
+5529,A,G,Neutral,0.23399
+5529,A,T,Neutral,0.089557
+5530,C,A,Neutral,0.297049
+5530,C,G,Neutral,0.297049
+5530,C,T,Neutral,0.226736
+5531,A,C,Likely pathogenic,0.614457
+5531,A,G,Likely pathogenic,0.614457
+5531,A,T,Likely pathogenic,0.614457
+5532,G,A,Pathogenic,0.842272
+5532,G,C,Pathogenic,0.842272
+5532,G,T,Pathogenic,0.842272
+5533,A,C,Likely pathogenic,0.537935
+5533,A,G,Likely pathogenic,0.537935
+5533,A,T,Likely neutral,0.415347
+5534,C,A,Pathogenic,0.660627
+5534,C,G,Pathogenic,0.660627
+5534,C,T,Likely pathogenic,0.629609
+5535,C,A,Pathogenic,0.818507
+5535,C,G,Pathogenic,0.818507
+5535,C,T,Pathogenic,0.818507
+5536,A,C,Neutral,0.292853
+5536,A,G,Neutral,0.226716
+5536,A,T,Neutral,0.242777
+5537,A,C,Neutral,0.260629
+5537,A,G,Neutral,0.28435
+5537,A,T,Neutral,0.349229
+5538,G,A,Pathogenic,0.72402
+5538,G,C,Pathogenic,0.766744
+5538,G,T,Pathogenic,0.745791
+5539,A,C,Neutral,0.333896
+5539,A,G,Neutral,0.212846
+5539,A,T,Neutral,0.333896
+5540,G,A,Pathogenic,0.916975
+5540,G,C,Pathogenic,0.916975
+5540,G,T,Pathogenic,0.916975
+5541,C,A,Likely pathogenic,0.640928
+5541,C,G,Likely pathogenic,0.640928
+5541,C,T,Likely pathogenic,0.640928
+5542,C,A,Likely pathogenic,0.609069
+5542,C,G,Likely pathogenic,0.609069
+5542,C,T,Likely pathogenic,0.609069
+5543,T,A,Likely neutral,0.3832
+5543,T,C,Likely neutral,0.3832
+5543,T,G,Likely neutral,0.3832
+5544,T,A,Likely neutral,0.414136
+5544,T,C,Likely neutral,0.414136
+5544,T,G,Likely neutral,0.414136
+5545,C,A,Pathogenic,0.842728
+5545,C,G,Pathogenic,0.842728
+5545,C,T,Pathogenic,0.842728
+5546,A,C,Likely pathogenic,0.643438
+5546,A,G,Likely pathogenic,0.643438
+5546,A,T,Likely pathogenic,0.643438
+5547,A,C,Pathogenic,0.69395
+5547,A,G,Pathogenic,0.69395
+5547,A,T,Pathogenic,0.69395
+5548,A,C,Likely neutral,0.387825
+5548,A,G,Likely neutral,0.387825
+5548,A,T,Likely neutral,0.387825
+5549,G,A,Pathogenic,0.916975
+5549,G,C,Pathogenic,0.916975
+5549,G,T,Pathogenic,0.916975
+5550,C,A,Likely pathogenic,0.640928
+5550,C,G,Likely pathogenic,0.640928
+5550,C,T,Likely pathogenic,0.640928
+5551,C,A,Neutral,0.214552
+5551,C,G,Neutral,0.214552
+5551,C,T,Neutral,0.152615
+5552,C,A,Likely pathogenic,0.628756
+5552,C,G,Likely pathogenic,0.628756
+5552,C,T,Likely neutral,0.4994
+5553,T,A,Likely pathogenic,0.574301
+5553,T,C,Likely neutral,0.45425
+5553,T,G,Likely pathogenic,0.574301
+5554,C,A,Neutral,0.204051
+5554,C,G,Neutral,0.293624
+5554,C,T,Neutral,0.187176
+5555,A,C,Pathogenic,0.693833
+5555,A,G,Pathogenic,0.693833
+5555,A,T,Pathogenic,0.693833
+5556,G,A,Pathogenic,0.857369
+5556,G,C,Pathogenic,0.857369
+5556,G,T,Pathogenic,0.857369
+5557,T,A,Neutral,0.121745
+5557,T,C,Neutral,0.120991
+5557,T,G,Neutral,0.22355
+5558,A,C,Pathogenic,0.855084
+5558,A,G,Pathogenic,0.855084
+5558,A,T,Pathogenic,0.855084
+5559,A,C,Likely neutral,0.398614
+5559,A,G,Likely neutral,0.398614
+5559,A,T,Likely neutral,0.398614
+5560,G,A,Pathogenic,0.722128
+5560,G,C,Pathogenic,0.736561
+5560,G,T,Pathogenic,0.736561
+5561,T,A,Likely neutral,0.340067
+5561,T,C,Likely neutral,0.364834
+5561,T,G,Likely neutral,0.340067
+5562,T,A,Neutral,0.141766
+5562,T,C,Neutral,0.127936
+5562,T,G,Neutral,0.153419
+5563,G,A,Neutral,0.118986
+5563,G,C,Neutral,0.103012
+5563,G,T,Neutral,0.112039
+5564,C,A,Neutral,0.106499
+5564,C,G,Neutral,0.248927
+5564,C,T,Neutral,0.106322
+5565,A,C,Neutral,0.068889
+5565,A,G,Neutral,0.204346
+5565,A,T,Neutral,0.072555
+5566,A,C,Neutral,0.132466
+5566,A,G,Neutral,0.13757
+5566,A,T,Neutral,0.13757
+5567,T,A,Neutral,0.219474
+5567,T,C,Neutral,0.178248
+5567,T,G,Neutral,0.263867
+5568,A,C,Neutral,0.24467
+5568,A,G,Neutral,0.122773
+5568,A,T,Neutral,0.24467
+5569,C,A,Likely pathogenic,0.591346
+5569,C,G,Likely pathogenic,0.591346
+5569,C,T,Likely pathogenic,0.591189
+5570,T,A,Likely pathogenic,0.557289
+5570,T,C,Likely pathogenic,0.557289
+5570,T,G,Likely pathogenic,0.557289
+5571,T,A,Pathogenic,0.829214
+5571,T,C,Pathogenic,0.829214
+5571,T,G,Pathogenic,0.829214
+5572,A,C,Pathogenic,0.855084
+5572,A,G,Pathogenic,0.855084
+5572,A,T,Pathogenic,0.855084
+5573,A,C,Pathogenic,0.638009
+5573,A,G,Likely pathogenic,0.571772
+5573,A,T,Likely pathogenic,0.571772
+5574,T,A,Neutral,0.321573
+5574,T,C,Neutral,0.273117
+5574,T,G,Neutral,0.321573
+5575,T,A,Likely pathogenic,0.535449
+5575,T,C,Likely neutral,0.403817
+5575,T,G,Likely pathogenic,0.535449
+5576,T,A,Likely neutral,0.418812
+5576,T,C,Neutral,0.332292
+5576,T,G,Likely neutral,0.418812
+5577,C,A,Pathogenic,0.87982
+5577,C,G,Pathogenic,0.87982
+5577,C,T,Pathogenic,0.87982
+5578,T,A,Likely pathogenic,0.676586
+5578,T,C,Likely pathogenic,0.676586
+5578,T,G,Likely pathogenic,0.676586
+5579,G,A,Pathogenic,0.74339
+5579,G,C,Pathogenic,0.74339
+5579,G,T,Pathogenic,0.74339
+5891,G,A,Likely pathogenic,0.566028
+5891,G,C,Likely pathogenic,0.566028
+5891,G,T,Likely pathogenic,0.566028
+5890,G,A,Pathogenic,0.699232
+5890,G,C,Pathogenic,0.807849
+5890,G,T,Pathogenic,0.807849
+5889,T,A,Likely pathogenic,0.567584
+5889,T,C,Likely pathogenic,0.552298
+5889,T,G,Likely pathogenic,0.567584
+5888,A,C,Pathogenic,0.675364
+5888,A,G,Likely pathogenic,0.652202
+5888,A,T,Pathogenic,0.675364
+5887,A,C,Likely pathogenic,0.544754
+5887,A,G,Likely neutral,0.41559
+5887,A,T,Likely pathogenic,0.544754
+5886,A,C,Likely pathogenic,0.543772
+5886,A,G,Likely neutral,0.462275
+5886,A,T,Likely pathogenic,0.543772
+5885,A,C,Pathogenic,0.639455
+5885,A,G,Likely pathogenic,0.529556
+5885,A,T,Pathogenic,0.639455
+5884,T,A,Neutral,0.274396
+5884,T,C,Neutral,0.274396
+5884,T,G,Neutral,0.274396
+5883,G,A,Likely pathogenic,0.599765
+5883,G,C,Likely pathogenic,0.599765
+5883,G,T,Likely pathogenic,0.599765
+5882,G,A,Pathogenic,0.652536
+5882,G,C,Pathogenic,0.652536
+5882,G,T,Pathogenic,0.652536
+5881,C,A,Pathogenic,0.77927
+5881,C,G,Pathogenic,0.77927
+5881,C,T,Pathogenic,0.77927
+5880,T,A,Likely neutral,0.48008
+5880,T,C,Likely neutral,0.408953
+5880,T,G,Likely neutral,0.48008
+5879,G,A,Pathogenic,0.759021
+5879,G,C,Pathogenic,0.759021
+5879,G,T,Pathogenic,0.759021
+5878,A,C,Likely pathogenic,0.615024
+5878,A,G,Likely pathogenic,0.615024
+5878,A,T,Likely pathogenic,0.615024
+5877,G,A,Pathogenic,0.733829
+5877,G,C,Pathogenic,0.756255
+5877,G,T,Pathogenic,0.756255
+5876,T,A,Neutral,0.300563
+5876,T,C,Neutral,0.300563
+5876,T,G,Likely neutral,0.326931
+5875,G,A,Neutral,0.188192
+5875,G,C,Neutral,0.325222
+5875,G,T,Neutral,0.202622
+5874,A,C,Likely neutral,0.430041
+5874,A,G,Likely neutral,0.410451
+5874,A,T,Likely neutral,0.430041
+5873,A,C,Neutral,0.283986
+5873,A,G,Neutral,0.190742
+5873,A,T,Neutral,0.283986
+5872,G,A,Pathogenic,0.878552
+5872,G,C,Pathogenic,0.878552
+5872,G,T,Pathogenic,0.878552
+5871,C,A,Pathogenic,0.677962
+5871,C,G,Pathogenic,0.677962
+5871,C,T,Likely pathogenic,0.593063
+5870,A,C,Likely neutral,0.436136
+5870,A,G,Likely neutral,0.413631
+5870,A,T,Likely neutral,0.436136
+5869,T,A,Pathogenic,0.638231
+5869,T,C,Pathogenic,0.638231
+5869,T,G,Pathogenic,0.638231
+5868,T,A,Likely neutral,0.456958
+5868,T,C,Likely neutral,0.456958
+5868,T,G,Likely neutral,0.456958
+5867,G,A,Likely neutral,0.444132
+5867,G,C,Likely neutral,0.425295
+5867,G,T,Likely neutral,0.425295
+5866,G,A,Pathogenic,0.755929
+5866,G,C,Pathogenic,0.755929
+5866,G,T,Pathogenic,0.755929
+5865,A,C,Neutral,0.346132
+5865,A,G,Neutral,0.191444
+5865,A,T,Neutral,0.346132
+5864,C,A,Likely pathogenic,0.560761
+5864,C,G,Likely pathogenic,0.560761
+5864,C,T,Likely pathogenic,0.560761
+5863,T,A,Likely neutral,0.469432
+5863,T,C,Likely neutral,0.469432
+5863,T,G,Likely neutral,0.469432
+5862,G,A,Pathogenic,0.71321
+5862,G,C,Pathogenic,0.71321
+5862,G,T,Pathogenic,0.71321
+5861,T,A,Likely neutral,0.392006
+5861,T,C,Likely neutral,0.392006
+5861,T,G,Likely neutral,0.392006
+5860,A,C,Likely pathogenic,0.613322
+5860,A,G,Likely pathogenic,0.613322
+5860,A,T,Likely pathogenic,0.613322
+5859,A,C,Likely pathogenic,0.612803
+5859,A,G,Likely pathogenic,0.612803
+5859,A,T,Likely pathogenic,0.612803
+5858,A,C,Likely pathogenic,0.635665
+5858,A,G,Likely pathogenic,0.635665
+5858,A,T,Likely pathogenic,0.635665
+5857,T,A,Likely neutral,0.419483
+5857,T,C,Neutral,0.332919
+5857,T,G,Likely neutral,0.419483
+5856,C,A,Pathogenic,0.872772
+5856,C,G,Pathogenic,0.872772
+5856,C,T,Pathogenic,0.872772
+5855,T,A,Likely pathogenic,0.602417
+5855,T,C,Likely pathogenic,0.584404
+5855,T,G,Likely pathogenic,0.602417
+5854,A,C,Pathogenic,0.777675
+5854,A,G,Pathogenic,0.777675
+5854,A,T,Pathogenic,0.777675
+5853,A,C,Pathogenic,0.771652
+5853,A,G,Pathogenic,0.771652
+5853,A,T,Pathogenic,0.771652
+5852,A,C,Neutral,0.189589
+5852,A,G,Neutral,0.156911
+5852,A,T,Neutral,0.189589
+5851,G,A,Likely neutral,0.343963
+5851,G,C,Likely neutral,0.343199
+5851,G,T,Likely neutral,0.343199
+5850,A,C,Pathogenic,0.656308
+5850,A,G,Pathogenic,0.656308
+5850,A,T,Pathogenic,0.656308
+5849,C,A,Likely pathogenic,0.523403
+5849,C,G,Likely pathogenic,0.523403
+5849,C,T,Likely neutral,0.429598
+5848,A,C,Likely neutral,0.484956
+5848,A,G,Neutral,0.355051
+5848,A,T,Likely neutral,0.484956
+5847,G,A,Likely pathogenic,0.566028
+5847,G,C,Likely pathogenic,0.566028
+5847,G,T,Likely pathogenic,0.566028
+5846,G,A,Neutral,0.192933
+5846,G,C,Neutral,0.246317
+5846,G,T,Neutral,0.246317
+5845,G,A,Likely neutral,0.485138
+5845,G,C,Likely pathogenic,0.550972
+5845,G,T,Likely pathogenic,0.550972
+5844,G,A,Pathogenic,0.699232
+5844,G,C,Pathogenic,0.807849
+5844,G,T,Pathogenic,0.807849
+5843,T,A,Neutral,0.067953
+5843,T,C,Neutral,0.081426
+5843,T,G,Neutral,0.123361
+5842,T,A,Neutral,0.20499
+5842,T,C,Neutral,0.20499
+5842,T,G,Neutral,0.172327
+5841,A,C,Neutral,0.126839
+5841,A,G,Neutral,0.12175
+5841,A,T,Neutral,0.137389
+5840,G,A,Neutral,0.124559
+5840,G,C,Neutral,0.12441
+5840,G,T,Neutral,0.200063
+5839,G,A,Neutral,0.15067
+5839,G,C,Neutral,0.138591
+5839,G,T,Neutral,0.138584
+5838,C,A,Likely neutral,0.480853
+5838,C,G,Likely pathogenic,0.522092
+5838,C,T,Likely pathogenic,0.522092
+5837,C,A,Pathogenic,0.736003
+5837,C,G,Pathogenic,0.736003
+5837,C,T,Pathogenic,0.703567
+5836,T,A,Neutral,0.380113
+5836,T,C,Neutral,0.308453
+5836,T,G,Neutral,0.380113
+5835,C,A,Pathogenic,0.816508
+5835,C,G,Pathogenic,0.816508
+5835,C,T,Pathogenic,0.775613
+5834,T,A,Likely neutral,0.467816
+5834,T,C,Likely neutral,0.422755
+5834,T,G,Likely neutral,0.467816
+5833,T,A,Pathogenic,0.71886
+5833,T,C,Pathogenic,0.698648
+5833,T,G,Pathogenic,0.71886
+5832,T,A,Likely pathogenic,0.510841
+5832,T,C,Likely neutral,0.378166
+5832,T,G,Likely pathogenic,0.510841
+5831,T,A,Pathogenic,0.681074
+5831,T,C,Likely pathogenic,0.616584
+5831,T,G,Pathogenic,0.681074
+5830,T,A,Pathogenic,0.709134
+5830,T,C,Pathogenic,0.683155
+5830,T,G,Pathogenic,0.709134
+5829,A,C,Likely neutral,0.434744
+5829,A,G,Neutral,0.353317
+5829,A,T,Likely neutral,0.434744
+5828,C,A,Likely neutral,0.416491
+5828,C,G,Likely neutral,0.416491
+5828,C,T,Neutral,0.301549
+5827,C,A,Pathogenic,0.80198
+5827,C,G,Pathogenic,0.80198
+5827,C,T,Pathogenic,0.80198
+1602,C,A,Pathogenic,0.818507
+1602,C,G,Pathogenic,0.818507
+1602,C,T,Pathogenic,0.818507
+1603,A,C,Pathogenic,0.745681
+1603,A,G,Pathogenic,0.745681
+1603,A,T,Pathogenic,0.745681
+1604,G,A,Likely neutral,0.451534
+1604,G,C,Likely neutral,0.474076
+1604,G,T,Likely neutral,0.450714
+1605,A,C,Neutral,0.259081
+1605,A,G,Neutral,0.223913
+1605,A,T,Neutral,0.315932
+1606,G,A,Pathogenic,0.779739
+1606,G,C,Pathogenic,0.790112
+1606,G,T,Pathogenic,0.790112
+1607,T,A,Neutral,0.165038
+1607,T,C,Neutral,0.102979
+1607,T,G,Neutral,0.165038
+1608,G,A,Likely pathogenic,0.580013
+1608,G,C,Pathogenic,0.652515
+1608,G,T,Pathogenic,0.652515
+1609,T,A,Likely pathogenic,0.552764
+1609,T,C,Likely pathogenic,0.552764
+1609,T,G,Likely pathogenic,0.552764
+1610,A,C,Likely pathogenic,0.551845
+1610,A,G,Likely pathogenic,0.551845
+1610,A,T,Likely pathogenic,0.551845
+1611,G,A,Pathogenic,0.918634
+1611,G,C,Pathogenic,0.918634
+1611,G,T,Pathogenic,0.918634
+1612,C,A,Pathogenic,0.825152
+1612,C,G,Pathogenic,0.825152
+1612,C,T,Pathogenic,0.825152
+1613,T,A,Likely pathogenic,0.557289
+1613,T,C,Likely pathogenic,0.557289
+1613,T,G,Likely pathogenic,0.557289
+1614,T,A,Pathogenic,0.683773
+1614,T,C,Likely pathogenic,0.613899
+1614,T,G,Pathogenic,0.683773
+1615,A,C,Pathogenic,0.773953
+1615,A,G,Pathogenic,0.773953
+1615,A,T,Pathogenic,0.773953
+1616,A,C,Likely pathogenic,0.653947
+1616,A,G,Likely pathogenic,0.653947
+1616,A,T,Likely pathogenic,0.58548
+1617,C,A,Neutral,0.184392
+1617,C,G,Neutral,0.224777
+1617,C,T,Neutral,0.184618
+1618,A,C,Neutral,0.092506
+1618,A,G,Neutral,0.245585
+1618,A,T,Neutral,0.092506
+1619,C,A,Neutral,0.168419
+1619,C,G,Neutral,0.302624
+1619,C,T,Neutral,0.169324
+1620,A,C,Likely pathogenic,0.643438
+1620,A,G,Likely pathogenic,0.643438
+1620,A,T,Likely pathogenic,0.643438
+1621,A,C,Pathogenic,0.814917
+1621,A,G,Pathogenic,0.814917
+1621,A,T,Pathogenic,0.814917
+1622,A,C,Likely pathogenic,0.552649
+1622,A,G,Likely pathogenic,0.552649
+1622,A,T,Likely pathogenic,0.552649
+1623,G,A,Pathogenic,0.916975
+1623,G,C,Pathogenic,0.916975
+1623,G,T,Pathogenic,0.916975
+1624,C,A,Pathogenic,0.81625
+1624,C,G,Pathogenic,0.81625
+1624,C,T,Pathogenic,0.81625
+1625,A,C,Likely neutral,0.4663
+1625,A,G,Likely neutral,0.4663
+1625,A,T,Likely neutral,0.432579
+1626,C,A,Neutral,0.222835
+1626,C,G,Neutral,0.273098
+1626,C,T,Neutral,0.233046
+1627,C,A,Likely pathogenic,0.536431
+1627,C,G,Likely pathogenic,0.536431
+1627,C,T,Likely neutral,0.462081
+1628,C,A,Neutral,0.269017
+1628,C,G,Neutral,0.269017
+1628,C,T,Neutral,0.210215
+1629,A,C,Likely neutral,0.460113
+1629,A,G,Likely pathogenic,0.517984
+1629,A,T,Likely neutral,0.422284
+1630,A,C,Likely pathogenic,0.506865
+1630,A,G,Likely pathogenic,0.554686
+1630,A,T,Likely pathogenic,0.506865
+1631,C,A,Likely pathogenic,0.620733
+1631,C,G,Likely pathogenic,0.620733
+1631,C,T,Likely pathogenic,0.620733
+1632,T,A,Neutral,0.229313
+1632,T,C,Neutral,0.196229
+1632,T,G,Neutral,0.229313
+1633,T,A,Likely pathogenic,0.658185
+1633,T,C,Likely pathogenic,0.658185
+1633,T,G,Likely pathogenic,0.658185
+1634,A,C,Likely neutral,0.492288
+1634,A,G,Likely neutral,0.492288
+1634,A,T,Likely neutral,0.492288
+1635,C,A,Pathogenic,0.694013
+1635,C,G,Pathogenic,0.694013
+1635,C,T,Pathogenic,0.694013
+1636,A,C,Likely pathogenic,0.573432
+1636,A,G,Likely pathogenic,0.573432
+1636,A,T,Likely pathogenic,0.573432
+1637,C,A,Likely pathogenic,0.620733
+1637,C,G,Likely pathogenic,0.620733
+1637,C,T,Likely pathogenic,0.620733
+1638,T,A,Likely neutral,0.482162
+1638,T,C,Likely pathogenic,0.59443
+1638,T,G,Likely neutral,0.482162
+1639,T,A,Likely neutral,0.482599
+1639,T,C,Likely pathogenic,0.51963
+1639,T,G,Likely neutral,0.482599
+1640,A,C,Neutral,0.151947
+1640,A,G,Neutral,0.12219
+1640,A,T,Neutral,0.206442
+1641,G,A,Likely neutral,0.379025
+1641,G,C,Likely neutral,0.443954
+1641,G,T,Likely neutral,0.443954
+1642,G,A,Likely neutral,0.356067
+1642,G,C,Likely neutral,0.370489
+1642,G,T,Likely neutral,0.370489
+1643,A,C,Likely pathogenic,0.615723
+1643,A,G,Likely pathogenic,0.615723
+1643,A,T,Likely pathogenic,0.615723
+1644,G,A,Pathogenic,0.67475
+1644,G,C,Pathogenic,0.714829
+1644,G,T,Pathogenic,0.714829
+1645,A,C,Pathogenic,0.684314
+1645,A,G,Pathogenic,0.684314
+1645,A,T,Pathogenic,0.684314
+1646,T,A,Likely neutral,0.419863
+1646,T,C,Likely neutral,0.419863
+1646,T,G,Likely neutral,0.436615
+1647,T,A,Neutral,0.173794
+1647,T,C,Neutral,0.165093
+1647,T,G,Neutral,0.264192
+1648,T,A,Likely pathogenic,0.506978
+1648,T,C,Likely neutral,0.455924
+1648,T,G,Likely pathogenic,0.506978
+1649,C,A,Pathogenic,0.800913
+1649,C,G,Pathogenic,0.800913
+1649,C,T,Pathogenic,0.762121
+1650,A,C,Likely pathogenic,0.555265
+1650,A,G,Likely pathogenic,0.555265
+1650,A,T,Likely pathogenic,0.604743
+1651,A,C,Neutral,0.237235
+1651,A,G,Neutral,0.26665
+1651,A,T,Neutral,0.230133
+1652,C,A,Neutral,0.196636
+1652,C,G,Neutral,0.228122
+1652,C,T,Neutral,0.207634
+1653,T,A,Neutral,0.145633
+1653,T,C,Neutral,0.142241
+1653,T,G,Neutral,0.133693
+1654,T,A,Neutral,0.12057
+1654,T,C,Neutral,0.118854
+1654,T,G,Neutral,0.255485
+1655,A,C,Neutral,0.089963
+1655,A,G,Neutral,0.168334
+1655,A,T,Neutral,0.139142
+1656,A,C,Neutral,0.182689
+1656,A,G,Likely neutral,0.276865
+1656,A,T,Neutral,0.23258
+1657,C,A,Neutral,0.220846
+1657,C,G,Neutral,0.292524
+1657,C,T,Neutral,0.205122
+1658,T,A,Neutral,0.252129
+1658,T,C,Neutral,0.247647
+1658,T,G,Neutral,0.245721
+1659,T,A,Likely neutral,0.358341
+1659,T,C,Neutral,0.219053
+1659,T,G,Likely neutral,0.321079
+1660,G,A,Pathogenic,0.857104
+1660,G,C,Pathogenic,0.901169
+1660,G,T,Pathogenic,0.901169
+1661,A,C,Likely pathogenic,0.51685
+1661,A,G,Likely neutral,0.368605
+1661,A,T,Likely pathogenic,0.51685
+1662,C,A,Neutral,0.111774
+1662,C,G,Neutral,0.195341
+1662,C,T,Neutral,0.110309
+1663,C,A,Neutral,0.347093
+1663,C,G,Neutral,0.310174
+1663,C,T,Neutral,0.26243
+1664,G,A,Neutral,0.167118
+1664,G,C,Neutral,0.165542
+1664,G,T,Neutral,0.237694
+1665,C,A,Likely pathogenic,0.510362
+1665,C,G,Likely pathogenic,0.510362
+1665,C,T,Likely neutral,0.401464
+1666,T,A,Likely pathogenic,0.515111
+1666,T,C,Likely neutral,0.458156
+1666,T,G,Likely pathogenic,0.515111
+1667,C,A,Likely neutral,0.427855
+1667,C,G,Likely neutral,0.461296
+1667,C,T,Likely neutral,0.431584
+1668,T,A,Likely pathogenic,0.676586
+1668,T,C,Likely pathogenic,0.676586
+1668,T,G,Likely pathogenic,0.676586
+1669,G,A,Pathogenic,0.93127
+1669,G,C,Pathogenic,0.93127
+1669,G,T,Pathogenic,0.93127
+1670,A,C,Likely pathogenic,0.627038
+1670,A,G,Likely pathogenic,0.627038
+1670,A,T,Likely pathogenic,0.627038
