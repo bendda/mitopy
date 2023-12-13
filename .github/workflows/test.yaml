@@ -12,7 +12,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Tests
-        uses: cloudposse/github-action-docker-compose-test-run@main
-        with:
-          file: docker-compose.yml
-          service: test
+        run: docker compose run test
