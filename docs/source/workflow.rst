@@ -1,37 +1,10 @@
 End-to-end pipeline walkthrough
 ================================
 
-.. Mitochondrial references in human genome assemblies
-.. ---------------------------------------------------
-.. .. list-table::
-..    :widths: 10 10 10
-..    :header-rows: 1
-
-..    * - Genome assembly
-..      - MT reference
-..      - MT contig name
-..    * - GRCh38
-..      - `rCRS <https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1>`_
-..      - MT
-..    * - GRCh37
-..      - `rCRS <https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1>`_
-..      - MT
-..    * - hs37d5
-..      - `rCRS <https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1>`_
-..      - MT
-..    * - hg38 (UCSC)
-..      - `rCRS <https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1>`_
-..      - chrM
-..    * - hg19 (UCSC)
-..      - `African Yoruba sequence <https://www.ncbi.nlm.nih.gov/nuccore/NC_001807.4?report=genbank>`_
-..      - chrM
-..    * - hg19 (UCSC)
-..      - `rCRS <https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1>`_
-..      - chrMT
 
 Inputs
 -------
-WGS alignment file in **BAM** format
+WGS alignment file in **BAM** or **CRAM** format. If input is a CRAM file, reference genome **FASTA** (along with dictionary and index file) is additionally required.
 
 .. note::
   The input alignment file should be coordinate-sorted and indexed, however if these prerequisities are not met, mitopy will coordinate-sort and index the input file.
@@ -269,7 +242,7 @@ The postprocessed variants are annotated with functional effects using `SnpEff <
 
 Additionally the variants are annotated as heteroplasmic (0/1 genotype) or homoplasmic (1/1 genotype) based on specified treshold. 
 
-The annotations are exported to human-readable CSV format. See TODO for description of individual fields.
+The annotations are exported to human-readable CSV format. See Outputs section for description of individual annotation fields.
 
 
 Visualization
