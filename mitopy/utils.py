@@ -3,19 +3,11 @@ import logging
 import pysam
 from pathlib import Path
 import subprocess
-import sys
 
 
 def check_files_exist(files: list | str, verbose: bool = False) -> bool:
-    """Check if the files exist.
+    """Check if the files exist."""
 
-    Args:
-        files (list | str): File(s) to check.
-        verbose (bool, optional): Level of verbosity. Defaults to False.
-
-    Returns:
-        bool: True if the file(s) exist, False otherwise.
-    """
     files_list = files if isinstance(files, list) else [files]
     for f in files_list:
         if not os.path.isfile(f):
@@ -26,14 +18,18 @@ def check_files_exist(files: list | str, verbose: bool = False) -> bool:
 
 
 def check_bam_sorted(input_bam: str) -> bool:
-    # workaround to not print missing index file warning
+    """Check if BAM file is sorted."""
+
+    # Workaround to not print missing index file warning
     pysam.set_verbosity(0)
 
     with pysam.AlignmentFile(input_bam, "rb") as bam:
         return bam.header["HD"]["SO"] == "coordinate"
 
 
-def sort_bam(input_bam: str):
+def sort_bam(input_bam: str) -> str:
+    """Sort BAM file."""
+
     basename = os.path.splitext(input_bam)[0]
     ext = os.path.splitext(input_bam)[1]
     output_fn = f"{basename}.sorted{ext}"
@@ -44,6 +40,7 @@ def sort_bam(input_bam: str):
 
 def index_bam(input_bam: str) -> str:
     """Index BAM/CRAM file."""
+
     ext = get_file_extension(input_bam)
 
     pysam.index(input_bam)
@@ -67,14 +64,7 @@ def index_fasta(input_fasta: str) -> str:
 
 
 def get_mt_contig_name(input_bam: str) -> str:
-    """Get mitochondrial contig name from BAM file.
-
-    Args:
-        input_bam (str): Input BAM file
-
-    Returns:
-        str: The name of mt contig from BAM file
-    """
+    """Get mitochondrial contig name from BAM file."""
 
     with pysam.AlignmentFile(input_bam, "rb") as bam:
         chroms = [str(record.get("SN")) for record in bam.header["SQ"]]
@@ -88,17 +78,20 @@ def get_mt_contig_name(input_bam: str) -> str:
 
 
 def get_file_directory(file_path: str) -> str:
+    """Get directory of the file."""
     return str(Path(file_path).parent)
 
 
 def get_file_basename(file_path: str) -> str:
+    """Get basename of the file."""
     return str(Path(file_path).stem)
 
 
 def get_file_extension(file_path: str) -> str:
+    """Get file extension."""
     return str(Path(file_path).suffix)
 
 
 def create_output_path(prefix, out_dir, suffix, ext):
-    # TODO solve _ and .
+    """Create file path."""
     return f"{out_dir}/{prefix}{suffix}{ext}"

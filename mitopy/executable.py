@@ -5,11 +5,18 @@ import subprocess
 
 
 class Executable:
+    """A class to handle executables."""
+
     def __init__(self, exec_path, verbosity=False):
         self.exec_path = exec_path
         self.verbosity = verbosity
 
-    def _check_executable(self):
+    def _check_executable(self) -> bool:
+        """Check if executable is installed.
+
+        Returns:
+            bool: True if executable was found, False otherwise
+        """
         if not which(self.exec_path):
             logging.error(f"Executable {self.exec_path} not found.")
             return False
@@ -39,11 +46,17 @@ class Executable:
     def run(
         self,
         *args,
-        subcommand=None,
-        redirect_out=None,
-        verbose=False,
+        subcommand: str = None,
+        redirect_out: str = None,
         **kwargs,
-    ) -> bool:
+    ) -> None:
+        """Run the executable
+
+        Args:
+            subcommand (str, optional): Subcommand. Defaults to None.
+            redirect_out (str, optional): Redirect output. Defaults to None.
+        """
+
         if self._check_executable():
             # Build command
             cmd = self._build_cmd(
