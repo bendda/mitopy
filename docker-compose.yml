@@ -1,7 +1,7 @@
 version: '3'
 services:
   test:
-    image: mitopy:latest
+    image: bendda/mitopy:latest
     stdin_open: True
     tty: True
     command: ["pytest"]
@@ -9,7 +9,7 @@ services:
     volumes:
       - ./test:/app/test
   mitopy:
-    image: mitopy:latest
+    image: bendda/mitopy:latest
     stdin_open: True
     tty: True
     volumes:

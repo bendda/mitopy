@@ -7,33 +7,21 @@ permissions:
 
 jobs:
   tests:
-    strategy:
-      fail-fast: false
-      matrix:
-        python-version: ["3.11"]
-        poetry-version: ["1.7.0"]
-        os: [ubuntu-latest]
-    runs-on: ${{ matrix.os }}
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with:
-          python-version: ${{ matrix.python-version }}
-      - name: Run image
-        uses: abatilo/actions-poetry@v2
-        with:
-          poetry-version: ${{ matrix.poetry-version }}
-      - name: View poetry --help
-        run: poetry --help
-      - name: Install dependencies
-        run: poetry install --with dev
-      - name: Run tests
-        run: poetry run pytest --junitxml=report.xml
-      - name: Publish Test Report
-        uses: mikepenz/action-junit-report@v3
-        if: success() || failure()
-        with:
-          report_paths: 'report.xml'
-          detailed_summary: true
-          require_tests: true
-          check_name: Test Report
+    runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v3
+        - name: Tests
+          uses: cloudposse/github-action-docker-compose-test-run@main
+          with:
+            file: docker-compose.yml
+            service: test
+            command: pytest --junitxml=/app/test/report.xml
+        - name: Publish Test Report
+          uses: mikepenz/action-junit-report@v3
+          if: success() || failure()
+          with:
+            report_paths: 'test/report.xml'
+            detailed_summary: true
+            require_tests: true
+            check_name: Test Report
