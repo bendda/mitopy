@@ -1,6 +1,6 @@
 # mitopy
 
-mitopy is a command-line toolkit to perform identification and analysis of short mitochondrial variants. The mitochondrial variant detection is based on [GATK best practices](https://gatk.broadinstitute.org/hc/en-us/articles/4403870837275-Mitochondrial-short-variant-discovery-SNVs-Indels-). Functionality for analysis of detected variants includes annotation, visualization, haplogroup identification and coverage calculation. For futher information, please see [documentation](https://mitopy.readthedocs.io)
+mitopy is a command-line toolkit to perform identification and analysis of short mitochondrial variants. The mitochondrial variant detection is based on [GATK best practices](https://gatk.broadinstitute.org/hc/en-us/articles/4403870837275-Mitochondrial-short-variant-discovery-SNVs-Indels-). Functionality for analysis of detected variants includes annotation, visualization, haplogroup identification and coverage calculation. For further information, please see [documentation](https://mitopy.readthedocs.io)
 
 
 ## Quickstart
