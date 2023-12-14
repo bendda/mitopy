@@ -34,7 +34,7 @@ To run the analysis on your files, please add them to `data/` directory.
 ---
 **NOTE**
 
-It is important to add custom data required for analysis to `data/` directory, since the data/ directory is mounted to Docker container (for further information, see [Docker Volumes](https://docs.docker.com/storage/volumes/)).
+It is important to add custom data required for analysis to `data/` directory, since the `data/` directory is mounted to Docker container (for further information, see [Docker Volumes](https://docs.docker.com/storage/volumes/)).
 
 ---
 
