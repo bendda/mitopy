@@ -6,6 +6,3 @@ def test_do_preprocess(test_files, tmp_path, get_md5):
 
     # Check main output
     assert get_md5(prep["unmapped_bam"]) == "aab17066bb85e07ff89733f055847f79"
-
-
-# poetry run pytest --log-cli-level INFO --log-cli-format "%(asctime)s [%(levelname)s] - %(message)s"
