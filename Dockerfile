@@ -57,7 +57,7 @@ RUN unzip haplogrep3.zip -d /usr/local/bin/haplogrep3
 
 # mosdepth
 ADD https://github.com/brentp/mosdepth/releases/download/v${MOSDEPTH_VERSION}/mosdepth /usr/local/bin/mosdepth
-RUN chmod u+x /usr/local/bin/mosdepth
+RUN chmod +x /usr/local/bin/mosdepth
 
 # bwamem2
 ADD https://github.com/bwa-mem2/bwa-mem2/releases/download/v${BWAMEM2_VERSION}/bwa-mem2-${BWAMEM2_VERSION}_x64-linux.tar.bz2 bwa-mem2.tar.bz2
